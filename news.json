@@ -1,0 +1,9 @@
+{
+  "date": "尚未更新",
+  "checked_at": "",
+  "items": {"news":[],"fashion":[],"education":[],"future":[],"tools":[]},
+  "labels": {"news":"AI热点新闻","fashion":"AI × 服装设计","education":"AI × 儿童青少年教育","future":"未来趋势观察","tools":"工具与应用"},
+  "fresh": false,
+  "stale_categories": [],
+  "message": "网站已发布，但新闻尚未抓取。请在 GitHub Actions 中运行一次每日更新工作流。"
+}

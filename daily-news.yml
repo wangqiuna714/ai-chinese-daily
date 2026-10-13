@@ -1,0 +1,35 @@
+name: 每日更新 AI 中文资讯
+on:
+  schedule:
+    - cron: '20 0 * * *' # 每天北京时间 08:20（夏令时不影响北京时间）
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'index.html'
+      - 'update_news.py'
+      - 'news_fetcher.py'
+      - '.github/workflows/daily-news.yml'
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch feeds
+        run: python update_news.py
+      - name: Commit refreshed digest
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update daily Chinese AI digest"
+            git push
+          fi
