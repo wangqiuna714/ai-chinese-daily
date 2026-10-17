@@ -1,86 +1,79 @@
 {
-  "date": "2026-10-16",
-  "checked_at": "2026-10-16T09:00+08:00",
+  "date": "2026-10-17",
+  "checked_at": "2026-10-17T09:01+08:00",
   "items": {
     "news": [
       {
-        "title": "【特别关注】人工智能浪潮：全球南方现代化的机遇与挑战",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KLTNPYUk5RVItZk9rczc0OGNVLVk1cjJBSmFUUmpMUHI3a2lWZ3JkamFpTVZUeVlyX1l6aHNzYk04REFPOU9iWmNSYlBNVlpXbjhaMVBfLVJ0aGM3UEN4eW5FUFQ4Y3lCOXRvbw?oc=5",
-        "source": "中国社会科学网",
-        "published": "2026-10-16T07:43+08:00",
-        "category": "news"
-      },
-      {
-        "title": "口腔人工智能技术发展论坛暨同济口腔“十大人工智能场景”落地启动仪式举行",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfTVFoMkVWS0NEQ09aeHJkcHZUT1FVUDluRWhTUVFPVjltdEZhd1ByZkVmZVk3enE5SlBDa1RvRm1fbWVVVmYwUkdxQll6MmtxR2lkT2RsUF8wUQ?oc=5",
-        "source": "同济大学新闻网",
-        "published": "2026-10-15T15:34+08:00",
-        "category": "news"
-      },
-      {
-        "title": "德国政府计划与英伟达展开合作 以推动人工智能在工业领域的应用",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFeHF3RU05UTRpMHMwejM0LVFMZHJDU2xPQ3NUWGR0RHlOTzV6LVZzcTMzRGRfNEZDNkZPWEo0R3otT2J3UUJvOHplbElCOHBibmdNRDlSdEQ4NUVGc2lMTA?oc=5",
+        "title": "国常会：不断深化拓展“人工智能+”行动 让人工智能技术更好转化为现实生产力",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jSWNEX0Q1Nm9MYXdHZU9xZDNTMXFLOHVtckJHV1J4OGZGTkdQbVR6UWZ6OVMzRVYtSWJISV80RmFwVktIUnQ1bmNPVGdFS0Q0M2U2Ui1MOHNXZkhtdnpoSA?oc=5",
         "source": "东方财富",
-        "published": "2026-10-16T01:02+08:00",
+        "published": "2026-10-16T19:18+08:00",
         "category": "news"
       },
       {
-        "title": "联合国警告：人工智能、绿色能源和经济转型可能导致弱势群体被抛在后面",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCT043UDlCaVhYX2s4aXUtUkxTSk1KSGlNdWhrRzNxVkIzMkpGWlRtMWMyWmFEbW1PbG5PUjVBdHpjZ2ZuTWFYVDFoU3NLNnVYNEdQdDFRWQ?oc=5",
-        "source": "UN News",
-        "published": "2026-10-16T02:13+08:00",
+        "title": "人工智能如何赋能基础研究",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SS04xcFFkRE1aMVNfUTFoQ2FHeF96ZjZENjA2dS02SmFMOFFETjNxdXdsdUJabkptY2h5VVNSNFNvN0YtT0hqaUxWMzgtNThFMzFJeWJ3?oc=5",
+        "source": "南京大学",
+        "published": "2026-10-16T23:03+08:00",
         "category": "news"
       },
       {
-        "title": "重庆搭建人工智能“试验场” AI应用进车间、进医院、进火锅店",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10MVVtUXVtSFFDWEJUdmFJVFhuYjZLd2l4ZE5mc1c5c0U2ZExGUTJ4cWJPcGVibmZjcS1ucXUwZWhlbjA2cDRYR3JLUEo5R2QxSlRrVG5EaEt5TFRJaFV6WDFZU0M0Yl9rTFFV?oc=5",
-        "source": "华龙网",
-        "published": "2026-10-16T06:45+08:00",
+        "title": "舆见｜垂域智能齐鲁七星，扎根实体向新而行|山东省|大模型|模型|人工智能|产业",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBERGx6WFE5NHk1RDZfdG1uQmp1MW9rdEpYS0x1R0Vndl9yc1l5SGZDcEdCTFNhMmhoYUx5dzdqTkpLRE52emRfQlY1czNVcDhTb2dxZkxtWVpKZUR0VlRTUy1yVHBqd2EyYi16Y2NXbUdhM04taUE?oc=5",
+        "source": "新浪新闻",
+        "published": "2026-10-17T08:43+08:00",
         "category": "news"
       },
       {
-        "title": "中移九天与山东移动联合发布观海大模型体系",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uN2ljZFNEUldfRDJ4NjljRE9nTVZ1b09lWjlzMk00OHMtMEk4RzRrYTJ5WGNlMWo2SENhelVMM2pGMlpfTzY5NzhVaU4wcllRUjJ3MXdRUzF3SGZxMl9WaHFJMkM1SWpycVhBSVd3cWY?oc=5",
-        "source": "中国科技网",
-        "published": "2026-10-15T19:31+08:00",
+        "title": "台湾拟收紧对中国芯片出口管制与美接轨，北京也宣布限制人工智能技术出口",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYVAzRFlYVGx6UGVWZTAwZG9kZFdRN3VWaDJSQk1idFNMNVhfeGtzMXJLZXZKY3FrcmlXd2ZPZ1hGWkVDeVBtdEdWZkIwc09pNXBPVW1aUzBRV0JvLXoyeGt0X1lVSUZVV2xMNTJ3TU1fNXhFaFBMbmVuMU5yMmZDdFV0NDFRcFotVnBhUU9xeG9hRTBIV1NvOEF3UmZKYzNrVnF6WHFBQ2lsRVdZblI5dmFnOU53R1lzNDZQeE1aWUNTV2JiV01v0gHKAUFVX3lxTE5FbllPaEI5NzNiZUJESFF5ZWc2eGJBSG1FWkVQQmx3eDc0R2NveXItZnNkN05fQ0Y5YW1NbmNHUF9IMldSbkVIY0s0MWI4SWZ0VkZqd1Nja0NMNGQyaWdNdVlpUkpwbTJ4Ym9IVkFRbjVmTjJrQnJjbXJDdmRHdlkybzRrcXltSjdlZDEzbWxNUWtJRnZsa2Y0RHp5R1dhS1dHNFZRbnpveWxXYTZUYmFtX1JCUk5oRXU0OUdpNTBEN3Y2a0F3Mnl3UGc?oc=5",
+        "source": "美国之音",
+        "published": "2026-10-17T03:16+08:00",
         "category": "news"
       },
       {
-        "title": "2026人工智能产业大会丨场景牵引人工智能创新 加快赋能千行百业",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3b2NLM1JCZmIxc0xCa2FwaVZ0SmI1ZTJfZnFYVGVCRTBRb2NERE5BcTJ3TmpTZUZWbnhqOEt2M01fUWgxLVEtMDFFSl9ZVnBlLWtUV01fc2l3dWQ2d3UzZVpFVnlsc3c0UEFMVVRubGxzQQ?oc=5",
-        "source": "新浪网",
-        "published": "2026-10-16T05:12+08:00",
+        "title": "禁止出口限制出口技术目录拟修订 增列人工智能、生物医药、光伏三个领域40项技术",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yVHhUOThXbjVpcG0yY2JFWWxzd3hOeXhUS3BRX1k4dzVMTkVZNFNoNFNDRXc4UlZrdFpGSEV2RVRCc3o3NjJIcHBzT3IyeF93Rmcwc2RsX0IzSjFLWk11cw?oc=5",
+        "source": "证券之星",
+        "published": "2026-10-17T07:41+08:00",
         "category": "news"
       },
       {
-        "title": "材料学院林元华团队合作运用人工智能为超微芯片电容设计高性能介电材料",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ROG13dktHSFZZX3RpYVhkclppeFpEWDBXWDIzSkttOFZkNF91TXFIRDNlbW1naXF0Q3cyem5SNV9nZ2JFWEJSWWdHSl91cjNCS2RId0J6TWFtaWhS?oc=5",
-        "source": "清华大学",
-        "published": "2026-10-15T16:09+08:00",
+        "title": "广东AI发展敢冲又合规！已备案195款大模型位居全国前列",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT1hNNE9MTjh4MkdfNS10T3V5RWpqOHFmZ1RIWGdFRjBVcXljRFd3SXllb29DV3RqTTVqb2NiWGFkUE1qWmxsdGtndEtmcUl2Zkt5YWctNEg2NlNLdFFKU0tJUEJFTTdiTGhTS1psWlFMTTU1aDlvX2tXTzRmVktpTlVNSzJZaVJjektva1NSUQ?oc=5",
+        "source": "21财经",
+        "published": "2026-10-17T01:40+08:00",
         "category": "news"
       },
       {
-        "title": "“军团作战”，山东人工智能产业发展的务实新解法",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5WUmtrd1JVOHhHWDluWXdwZlYtalJmNjJWcHhIZloybGdtZ3h3VGxHbzI5aDdoTlNpOTdZbmQtSUF5VHFqbGNZUGZ3?oc=5",
-        "source": "凤凰网山东",
-        "published": "2026-10-16T07:03+08:00",
+        "title": "端侧人工智能赛道迎来业绩兑现期",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jbTVpN3hOWFNjbG1fZ1JhX0l1ZDduM3E1anBxZTYtSE5laWwwZGRBNzk0NEJYQWlYUzJPbUtJX2YySUljdjBBamZEUU5vcy0wWkRfX0ZxU2ZqR3F5T0E4MVp1MTc2VERaN0xFdDNWcHhwVGdlS1ZYV0QxQQ?oc=5",
+        "source": "zqrb.cn",
+        "published": "2026-10-17T01:13+08:00",
+        "category": "news"
+      },
+      {
+        "title": "促进算法服务科技金融",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtTDR2d2wyVi1iZE1KTlZUSmhzcHN6RlZ5WlR5RUk2d3l4NkttWE1qa0U4OGxCbnZ6TnVlb1dWVk9HMjZVSnFicldTZjZ5elRidzZJZVprcFNOQ3hKNGdWNTlDWjlfXzNwR2tN?oc=5",
+        "source": "中国经济网",
+        "published": "2026-10-17T06:09+08:00",
+        "category": "news"
+      },
+      {
+        "title": "[北京晚报]人工智能技术催生新型网络乱象—— AI霸总围猎银发群体，如何破解？",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FbkF4TzZQYWN6Ny1peFh0YmtPdWN0bmJUaXcydTdQOG12aGRNVllzNlJQeDdGMXhxM3BRMFg4U2g5MFMteWhpYmN1TWJEY1RydlQtS1pqOWtTMTho?oc=5",
+        "source": "人大新闻网",
+        "published": "2026-10-16T22:11+08:00",
         "category": "news"
       }
     ],
     "fashion": [],
     "education": [
       {
-        "title": "AI少年派·育少年成长 2026年重庆市中小学人工智能日活动在沙坪坝区举行",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52REJhS0J6UU9kTm4tYTRRVEMzd0FhZU84SDdxWWFXTkp3bmVWZzVuaGd6YXhQejBkbmxXVHEtOXNWRkFiQkwxejk5MG1sTU9SM2JTRzUwWmhmTXJnTWdJRGtMSFFwM09BakFN?oc=5",
-        "source": "华龙网",
-        "published": "2026-10-09T20:26+08:00",
-        "category": "education"
-      },
-      {
-        "title": "猿辅导携手深圳科技馆 打造青少年AI素养教育新场景",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94d0JaRXpOTkNLaDI1ZHpVbF9MVU8xbjRUWGJSa05vTzVVYnpGbVZRNHVvUHFCX2FSYUo3aE82aHJwa1hpRmRpY25xMkd6R3M1R2lDbkR0b2hUa0dEX2ZpN1pEWTRLMkVtelZtOXVjNVhYYk9GaG8tcWpCQjN1QQ?oc=5",
-        "source": "新浪网",
-        "published": "2026-10-13T12:14+08:00",
+        "title": "教科文组织携手编程猫开展“青少年AI中国行”，深化亚非人工智能教育合作",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOanFHYWNHOGszN1otWG1UbjhUNzljOXdLbXc4QlZZYlM2UnhFdWpRSGxrdmhuMmxXdFhaNk8tMVRJb2xSdGYydkdwRlp4U1FwUUl4VUJYOVhMeGJQMGdtSFRiSXdXV1ZiNGxDS0Qxc2VXR1BZOVpBelZra25iLU82aV9yc29QbXptN19yeFhVbnpvS296N0JwZktlUVQ2ZG1MQkV0d3dnczhHbEZpYUZWSGxKWFE4VGRvUkVfWGdvVW9ZSFlDMUQyYUdCcFVmNkZN?oc=5",
+        "source": "UNESCO",
+        "published": "2026-10-17T01:42+08:00",
         "category": "education"
       },
       {
@@ -91,17 +84,17 @@
         "category": "education"
       },
       {
-        "title": "张逸中：AI赋能科技教育还是弱化思维能力？",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aLUlzNEE5Qnc5T1ZKYTNNemtob0FEemhWYXA2dHZrdHA0REx1U3pzYy12ckV4WHNqRDBmX0Q5MFBoeWtibmhPQUg3U2x6amhQZlA5b3pB?oc=5",
-        "source": "华东师范大学",
-        "published": "2026-10-10T15:00+08:00",
-        "category": "education"
-      },
-      {
         "title": "青少年AI素养提升报告发布，学而思AI启蒙课程成企业实践样本",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40TVlXdC1oNkZseHlLSFlMcXJsampybk1JLUtNNkdwWkZ6eDh5SU1GUGZpOG95MmRZdVZTc1NnNEN5cV9HVkZJN0hwV2dHaUdlcVJSY3V6YlBtNkU3bExwVjU5dkVZc3ZQN0I3LUFn?oc=5",
         "source": "中国教育在线",
         "published": "2026-10-15T08:36+08:00",
+        "category": "education"
+      },
+      {
+        "title": "猿辅导携手深圳科技馆 打造青少年AI素养教育新场景",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lUG1lVHJoaW1Zckh6aHNMcjBWWlBvYTJwMkVBdkZTWHI4Z2VNejhGb3JLbm1mNXdJMzFXT0V5dUZ3aHN5aG5xbm95ZVFIWVE?oc=5",
+        "source": "芥末堆",
+        "published": "2026-10-12T14:25+08:00",
         "category": "education"
       },
       {
@@ -126,10 +119,17 @@
         "category": "education"
       },
       {
-        "title": "学习需要“认知摩擦”，而AI或“外包认知”，AI时代教育评价如何创新？",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FRm1MUlU0VEZiNU9wTV9FRWJLdnJLeTgyZGlHc21IUlp2UG0zTko5MFBJOGkwZmZPWEd6akV4MWt6OVdpdHB6V0stcExJRXM2RTYtUDBMWGRnUQ?oc=5",
-        "source": "上观新闻",
-        "published": "2026-10-11T18:21+08:00",
+        "title": "“希望工程·AI科学角”捐赠仪式在温州苍南举行",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYa2hXbUVFRDRvN3F4MXJEakRmenoxREU5ZWxSdmxvdF9zZTd3b1laNmNzUy1mVHd4QTdpZHBSVFVZYk1wZ3c4aldRUm8yWGJXZXJHSTBDbFMtQUtObTdDVjlsY0V0by1WS1BTUVVWbnVObFpZWG5yaQ?oc=5",
+        "source": "新浪财经",
+        "published": "2026-10-11T12:22+08:00",
+        "category": "education"
+      },
+      {
+        "title": "阅读，究竟能在何种意义上塑造人",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XNGZrNWxlTU8yY1lPc0lOU2UzWkUtb1FBTE9lVXB1Y1NDV280U3ZBdDYyT1hhUTBBVnlNX2tjSmRudmJ6NXlQeDRleTEzYzItaExzeVNxaGdHYkdaLXJHSVQ4bEZ4d3hPRXpv?oc=5",
+        "source": "中国教育新闻网",
+        "published": "2026-10-14T09:19+08:00",
         "category": "education"
       }
     ],
@@ -142,31 +142,52 @@
         "category": "future"
       },
       {
-        "title": "中国互联网协会人工智能工委会指导，沙利文、头豹、君合、嘉源联合编制《中国端侧AI产业发展与应用实践蓝皮书（2026）》，案例征集进行中",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50VzN1NTlHc3pnTHkxSVdRanhMUjBZWGRZQnpnc3VsZnRPbzB3MVg4TzdlODBsdTdNbTBjWVFLU3d3cm5sWVZhUk4xS2kydUxOcEFKaU02YndXYlBkR3I3SXh4WnZDLXR4WXdLWlgxNk5TRmhvdDFQTy1DYUZRb0E?oc=5",
-        "source": "frostchina.com",
-        "published": "2026-10-09T18:56+08:00",
+        "title": "“把握AI发展机遇 赋能产业提质增效”专题培训在湖南长沙举行",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PUElFTE5BMFRNX3ZnNThuZXBpZEF6RG42MlFDRld6bjVad3Ztc2tTb3pCMUk4cWdoWFFvY213OUJOMUhRU0pwd2xKWnVsUnV5WE54eEFQN1lKZHEwX1ZWdUgyc1FTc0ZzNFpBUzl2Umg?oc=5",
+        "source": "中国科技网",
+        "published": "2026-10-16T12:50+08:00",
         "category": "future"
       },
       {
-        "title": "以协商之智点燃AI发展新动能——“中国式商量·AI共绘新蓝景”网络主题宣传活动综述",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FRFV3M1duQUE1eG1xWWFXM3pxWlhPTDB0QWFSUktHSkoweFM1NnhKWVlUTnBpRWJaOGlGN1JXUy1tTzNrVGxNT0tOVjB1clE?oc=5",
+        "title": "2026人工智能产业大会在济南开幕- 中国日报网",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00NGlaRU51T1hla3JUU1BmcUhhZ0FLeTNkV2UzelVqQWtyS0ZiRDNhZWtadDlNbVZabDdoX0o4MUQ4WmFkZThMcUtoYWVCT3hVWTJvYWJobWEyNWVYZWFWMER3YXE2NzdiVnhOVl9EaUpFcUhfR0VEV3AxNHo?oc=5",
+        "source": "China Daily",
+        "published": "2026-10-16T11:29+08:00",
+        "category": "future"
+      },
+      {
+        "title": "信通院联合发布《面向智能体能力构建的高质量数据集建设指南（2026年）》",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkN21zajJybGVpUzJhbDViRW9JTDd1aVNNSDIyTzhBQTlCTl9aZUVQaFlia3NHNS1kZmFZcVVaXzM0OVhwaURGV2JEYXhtQQ?oc=5",
+        "source": "安全内参",
+        "published": "2026-10-16T21:23+08:00",
+        "category": "future"
+      },
+      {
+        "title": "国家人工智能应用中试基地启动共建，青岛两家企业参与",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LMlN6emxreEJsNTQtX2FNdkVhWFpZUFpkN1NobEFsY2htTW1PM0E4cHM3WkNMRUNsWU1UWnRjTGppdHF0bmdtSXNoMmEtRmdoMkJLeWc0bGo?oc=5",
+        "source": "青岛日报",
+        "published": "2026-10-15T19:24+08:00",
+        "category": "future"
+      },
+      {
+        "title": "山东省政协以协商之智点燃AI发展新动能",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1NjZ4Tk9TMmIyaDIzNUxEVk50SlRFUTdIc3ZkTTNXQnBHRVBHTktoWW5sVk9pNkhpeGtxUWhqc3ZzSFB2eTVtSzY1OEZrZVE?oc=5",
         "source": "海报新闻",
-        "published": "2026-10-09T20:17+08:00",
+        "published": "2026-10-11T15:30+08:00",
         "category": "future"
       },
       {
-        "title": "浙江温州首期AI行业翻译专项能力培训班开班",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYTdzYm5LeG5zQVdaSzVKUkd4RU14b3lfMUdmSTFnM0dWVlZZOWdmRUlndEhvZlplbGxUaVYxbTBxWnBrSDI2aFBRYzV6Wi1Sd3p4UjFSaUVlRGpEb05FVDB3aWxiMjhGQnpIZV9QenNCb0c2RUVrSGRzOEtfcG9fUFdR?oc=5",
-        "source": "新华网浙江",
-        "published": "2026-10-10T14:42+08:00",
+        "title": "广州以“AI+”赋能乡村振兴建设 打造“穗农智汇”新标杆",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LMGRnTE5BYWdGYUZjeEc5dTdjcVhFRHI4RmRiVkNTMUVRUnJxbDZGN0NQYmgyOVdWZ3o3V3pUZ3dVNWlZQk5XZEZ3YXdQZ1MyTmgtZ3NSRWRZb09UTjZKTWFrZDYtYnRoTy1FemRjN0ltY25fNGtCLWpKRQ?oc=5",
+        "source": "广州市人民政府",
+        "published": "2026-10-12T10:00+08:00",
         "category": "future"
       },
       {
-        "title": "中国工程院院士谭建荣走进武汉工程科技学院 纵论智能机器人发展趋势",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WRGdzUDdXUnVkLVUwTjlHcjNJVjZPNE5IUUdWaHNHSDQ0T3Q0SzM4UmJoWkFHYU5iZEdFZVhjSzRnbVJMTHVxZEFvQ09QZHM4VFFRNEp5NWxwdDZhSGpyUlR3UmxMVWdlMmpN?oc=5",
-        "source": "中华网",
-        "published": "2026-10-15T15:15+08:00",
+        "title": "AI产业何以展图山东 | 2026人工智能产业大会侧记",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb0Rkb0pqZWQxMWExanJFV2p1Vlg0M24yX2xmbXZ1R1lPS01mNlg4RzJqZ3VJeEM5SWFUaU53QVJaVHMtV3ZWRFJjVUxCNGc2ZFk3LVE3VkVnWHZOX2o0VlRQcnNFcVlSSTNyemdXOVNlNFYzN3J6b1U0N3VXeDk2WHNWVG5yM3Zz?oc=5",
+        "source": "搜狐",
+        "published": "2026-10-16T17:43+08:00",
         "category": "future"
       },
       {
@@ -175,42 +196,14 @@
         "source": "m.zqrb.cn",
         "published": "2026-10-15T16:50+08:00",
         "category": "future"
-      },
-      {
-        "title": "人工智能这匹千里马如何既跑得快又跑得稳？北京用一枚标识作探索",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53MDR0dU1RQUdRSkpnYXJ4SUhmeFduLXRLOUNTcWhkOTR3RElOMWdrTlVBSmF3Y2t0S3Q2UVBSV0xJcnh0QUp4UHlkSGw2aDdxbm84alFYWl9mdmpvV0NLUFlRYmFtWlVrOEdDQU1IVm9kZw?oc=5",
-        "source": "京报网",
-        "published": "2026-10-09T14:25+08:00",
-        "category": "future"
-      },
-      {
-        "title": "上海启动新一代智能制造行动，推动AI从场景应用走向制造全流程",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Kcjd6YWF4dlpFd0NpbHJJUVFpc2JSTTFnaEplN2NfMUE0bVo0UUhSMUh1MVgyYjY4RGU2THhSVFlLUFJDSTRSNmp1X3Y4aEkySnMwWnFCVUZlbEk0OUZ3?oc=5",
-        "source": "国际金融报",
-        "published": "2026-10-12T17:15+08:00",
-        "category": "future"
-      },
-      {
-        "title": "南通海门：深耕人工智能赛道、构建“AI”产业生态",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRdUI4UDdzaUs4aFdENzVNX0M3UlhXMnJ3MzVyRVQ4d0JPeHM0Rjk1eFJLTGV2Q1NBVi1OTVFNSVJSbFFocEMtaTF1OHBHRkQ4cDNIZ2NoX3lUX0FOWjFZdkdGQjk?oc=5",
-        "source": "南京广播电视台",
-        "published": "2026-10-12T22:32+08:00",
-        "category": "future"
       }
     ],
     "tools": [
       {
-        "title": "美图秀秀领涨国内AI应用，美图设计室、WHEE均上榜",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMRWFlZS1ZNkRZMzFJNFpLMVlzVTNlV3c2ODYzZlBRVF9HZ2xIYjZwbG4xRjlqbHUtNTg2Y1BHWlZ5NEdNMnFaVVlhenJNZGxMcWtkUy1WQzUwblFf?oc=5",
+        "title": "长城证券：模型能力持续跃迁有望带动AI应用生态繁荣 云计算产业步入二次加速期",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWDlhdmZJaUwxVVJIb1kzR3RkSFJHWS1Td0pBM1QzbjMwTnNRY0hBa0NDZnZXNFFmRTJSUFFrZnI3Vk9ic0ZyWHlqZkh3RDJ4RnlON25fNVdhZkhJS2ZkSHdCeXRaXzB3SVktRS02bi1GTTlPempLcE5MZnNwNm9DOVNwUk10TTB5dXFtQzdjTDhaU18weGZuS01TMEZHWDBkd3ZYNzhzRGVvN0RMcUI4cHozLUtJdXNiRXJZMHZWcw?oc=5",
         "source": "Moomoo",
-        "published": "2026-10-09T11:10+08:00",
-        "category": "tools"
-      },
-      {
-        "title": "豆包工作上线新功能，支持跨AI产品一键导入已有配置",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtblY0RlJtRElSaXZ4YmdnYV9UNVVxRHJDTDJYMjFHSGM5ZUZ4ZGJYaEs3ODdiMUp6cTVjNGk1NF9tX3FGbWlyUzgyalZob2ZMYk1waVVSakxPVHFzS21wdXBtbXM?oc=5",
-        "source": "CSDN博客",
-        "published": "2026-10-14T15:46+08:00",
+        "published": "2026-10-13T09:50+08:00",
         "category": "tools"
       },
       {
@@ -221,10 +214,10 @@
         "category": "tools"
       },
       {
-        "title": "长城证券：模型能力持续跃迁有望带动AI应用生态繁荣 云计算产业步入二次加速期",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWDlhdmZJaUwxVVJIb1kzR3RkSFJHWS1Td0pBM1QzbjMwTnNRY0hBa0NDZnZXNFFmRTJSUFFrZnI3Vk9ic0ZyWHlqZkh3RDJ4RnlON25fNVdhZkhJS2ZkSHdCeXRaXzB3SVktRS02bi1GTTlPempLcE5MZnNwNm9DOVNwUk10TTB5dXFtQzdjTDhaU18weGZuS01TMEZHWDBkd3ZYNzhzRGVvN0RMcUI4cHozLUtJdXNiRXJZMHZWcw?oc=5",
+        "title": "国泰海通：金融AI应用持续落地 Agent安全受到关注",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN241OU5MLW1CVTJIaUh3T3d5dXhYdWZQWGg4X3ZKbDFlbURTRG5ESlBMREtCVmZweGhNaXRaMlhNbHZEYmR6OXFKbGEzMzdDVUpJOWpGWTZISGRZN0k3ZmRMLUNTUW5odHZ6X1hPT1hhYjByMjdmblJfY1k2czA4R2psd3g4dTN2Q2UtSDNoNkpVR194aUdsOWNIeDRGdjNSUXF5Rm1JSmNUNUE1NGRtQk9jQjVuZUxSUnFtWHRvUQ?oc=5",
         "source": "Moomoo",
-        "published": "2026-10-13T09:50+08:00",
+        "published": "2026-10-12T11:12+08:00",
         "category": "tools"
       },
       {
@@ -235,10 +228,10 @@
         "category": "tools"
       },
       {
-        "title": "国泰海通：金融AI应用持续落地 Agent安全受到关注",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN241OU5MLW1CVTJIaUh3T3d5dXhYdWZQWGg4X3ZKbDFlbURTRG5ESlBMREtCVmZweGhNaXRaMlhNbHZEYmR6OXFKbGEzMzdDVUpJOWpGWTZISGRZN0k3ZmRMLUNTUW5odHZ6X1hPT1hhYjByMjdmblJfY1k2czA4R2psd3g4dTN2Q2UtSDNoNkpVR194aUdsOWNIeDRGdjNSUXF5Rm1JSmNUNUE1NGRtQk9jQjVuZUxSUnFtWHRvUQ?oc=5",
+        "title": "美股异动 | AI应用软件股持续活跃 赛富时(CRM.US)涨超3%",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa0UtN1NvbTJRb2tCOHNSWFppMXg3V0lFTFNnX2FNRjd2eXFoZnpHOElySWpYQ1ozZlY1dzhqUkhEWE9DV3l3UDdaaEEwVkxYa09zTGRPajVPNnNVZ1lQclU0LXBHNm9MajNUblpzWENQZDZDTVNXamRFb3VvZE9nVG1BRVdJUEFVdG45bVgxM2EwVFV3Q0ctLUtMaHFiaWszUjBEVE9jTEhmdURHUWYxc0pEWWJTUVd6Q05B?oc=5",
         "source": "Moomoo",
-        "published": "2026-10-12T11:12+08:00",
+        "published": "2026-10-12T21:58+08:00",
         "category": "tools"
       },
       {
@@ -246,13 +239,6 @@
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUzhCMmF4eURjdzFOVi1HX0pTdGlDWFlyY05rV191SU11eXhnelpVM3RmQzVobFY4WTg3QnpMOUxicDczTGpCUTBTcGtxM1RkdGEtTFNXUEY0OVpEMFRWM0llR19kY0VtMC1fUkNNMWxFdUMwbXEzMHUzNVI0YzNTcXZkWGdveUNkczE0WWpPdnhhcTA2ek9Sb1NB?oc=5",
         "source": "Pasquale Pillitteri",
         "published": "2026-10-15T15:32+08:00",
-        "category": "tools"
-      },
-      {
-        "title": "美股异动 | AI应用软件股持续活跃 赛富时(CRM.US)涨超3%",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa0UtN1NvbTJRb2tCOHNSWFppMXg3V0lFTFNnX2FNRjd2eXFoZnpHOElySWpYQ1ozZlY1dzhqUkhEWE9DV3l3UDdaaEEwVkxYa09zTGRPajVPNnNVZ1lQclU0LXBHNm9MajNUblpzWENQZDZDTVNXamRFb3VvZE9nVG1BRVdJUEFVdG45bVgxM2EwVFV3Q0ctLUtMaHFiaWszUjBEVE9jTEhmdURHUWYxc0pEWWJTUVd6Q05B?oc=5",
-        "source": "Moomoo",
-        "published": "2026-10-12T21:58+08:00",
         "category": "tools"
       },
       {
