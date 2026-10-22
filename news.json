@@ -1,12 +1,321 @@
 {
-  "updated_at": "",
-  "daily_summary_zh": "自动更新流程启用后，这里会每天生成中文总结：梳理重要技术发布、产品能力变化与值得继续观察的趋势。",
+  "updated_at": "2026-10-22T10:13:40.677034+08:00",
+  "daily_summary_zh": "今日中文总结合成暂未成功。以下保留可追溯的原始资讯，请通过原文核对内容。",
   "takeaways_zh": [
-    "优先核对官方公告、论文、代码仓库和原始报道。",
-    "区分已发布产品、研究演示、媒体报道与社区推测。",
-    "判断技术价值时，关注真实工作流、成本、速度与可靠性。"
+    "优先核对官方公告、论文或代码仓库。",
+    "区分已发布功能、研究演示和社区推测。",
+    "关注真实应用效果、成本、速度与可靠性。"
   ],
-  "news": [],
+  "news": [
+    {
+      "title_en": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "title_zh": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
+      "category": "行业与研究",
+      "published_at": "2026-10-22T06:51:22+08:00"
+    },
+    {
+      "title_en": "Data centers could erase decades of air quality gains",
+      "title_zh": "Data centers could erase decades of air quality gains",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "source": "The Verge AI",
+      "source_type": "media",
+      "category": "行业与研究",
+      "published_at": "2026-10-22T06:33:44+08:00"
+    },
+    {
+      "title_en": "Walmart is inviting AI agents to shop for you",
+      "title_zh": "Walmart is inviting AI agents to shop for you",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "source": "The Verge AI",
+      "source_type": "media",
+      "category": "AI Agent",
+      "published_at": "2026-10-22T05:36:21+08:00"
+    },
+    {
+      "title_en": "Meta to create a new class of shares to fund AI push",
+      "title_zh": "Meta to create a new class of shares to fund AI push",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+      "source": "The Verge AI",
+      "source_type": "media",
+      "category": "行业与研究",
+      "published_at": "2026-10-22T05:30:02+08:00"
+    },
+    {
+      "title_en": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "title_zh": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
+      "category": "行业与研究",
+      "published_at": "2026-10-22T05:16:20+08:00"
+    },
+    {
+      "title_en": "Meta says Muse has over 10M users, with shopping a top activity",
+      "title_zh": "Meta says Muse has over 10M users, with shopping a top activity",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
+      "category": "行业与研究",
+      "published_at": "2026-10-22T05:14:19+08:00"
+    },
+    {
+      "title_en": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "title_zh": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
+      "category": "AI Coding",
+      "published_at": "2026-10-22T04:27:41+08:00"
+    },
+    {
+      "title_en": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "title_zh": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "source": "The Verge AI",
+      "source_type": "media",
+      "category": "AI Agent",
+      "published_at": "2026-10-22T03:54:52+08:00"
+    },
+    {
+      "title_en": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "title_zh": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
+      "category": "AI Agent",
+      "published_at": "2026-10-22T03:30:00+08:00"
+    },
+    {
+      "title_en": "The bridge to agent-scale Git infrastructure",
+      "title_zh": "The bridge to agent-scale Git infrastructure",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "source": "GitHub Blog",
+      "source_type": "official",
+      "category": "AI Agent",
+      "published_at": "2026-10-22T00:00:00+08:00"
+    },
+    {
+      "title_en": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "title_zh": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "source": "The Verge AI",
+      "source_type": "media",
+      "category": "AI Agent",
+      "published_at": "2026-10-21T21:57:43+08:00"
+    },
+    {
+      "title_en": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
+      "title_zh": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+      "source": "NVIDIA Blog",
+      "source_type": "official",
+      "category": "端侧 AI 与硬件",
+      "published_at": "2026-10-21T18:30:25+08:00"
+    },
+    {
+      "title_en": "Interspecies communication",
+      "title_zh": "Interspecies communication",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
+      "source": "MIT Technology Review",
+      "source_type": "media",
+      "category": "AI Coding",
+      "published_at": "2026-10-21T17:00:00+08:00"
+    },
+    {
+      "title_en": "Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models",
+      "title_zh": "Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://arxiv.org/abs/2610.26904",
+      "source": "arXiv AI",
+      "source_type": "research",
+      "category": "AI Coding",
+      "published_at": "2026-10-21T12:00:00+08:00"
+    },
+    {
+      "title_en": "LightCRS: Lightweight Multi-Domain Conversational Recommendation System",
+      "title_zh": "LightCRS: Lightweight Multi-Domain Conversational Recommendation System",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://arxiv.org/abs/2610.26948",
+      "source": "arXiv AI",
+      "source_type": "research",
+      "category": "多模态与视频生成",
+      "published_at": "2026-10-21T12:00:00+08:00"
+    },
+    {
+      "title_en": "Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs",
+      "title_zh": "Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://arxiv.org/abs/2610.27103",
+      "source": "arXiv AI",
+      "source_type": "research",
+      "category": "AI Coding",
+      "published_at": "2026-10-21T12:00:00+08:00"
+    },
+    {
+      "title_en": "EDMA: Entropy-Driven Multimodal Answering",
+      "title_zh": "EDMA: Entropy-Driven Multimodal Answering",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://arxiv.org/abs/2610.27120",
+      "source": "arXiv AI",
+      "source_type": "research",
+      "category": "多模态与视频生成",
+      "published_at": "2026-10-21T12:00:00+08:00"
+    },
+    {
+      "title_en": "MoSAIK: Motion Search with Artificial Intelligence in K-space",
+      "title_zh": "MoSAIK: Motion Search with Artificial Intelligence in K-space",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://arxiv.org/abs/2610.27156",
+      "source": "arXiv AI",
+      "source_type": "research",
+      "category": "AI Coding",
+      "published_at": "2026-10-21T12:00:00+08:00"
+    },
+    {
+      "title_en": "Replan for Error Recovery: Training Embodied VLMs through Verifiable Interaction with Action-Grouped Turn-GSPO",
+      "title_zh": "Replan for Error Recovery: Training Embodied VLMs through Verifiable Interaction with Action-Grouped Turn-GSPO",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://arxiv.org/abs/2610.27003",
+      "source": "arXiv Robotics",
+      "source_type": "research",
+      "category": "AI 具身智能",
+      "published_at": "2026-10-21T12:00:00+08:00"
+    },
+    {
+      "title_en": "ACE-Brain-0.6: Scaling Spatial Grounding for Physical Foundation Models",
+      "title_zh": "ACE-Brain-0.6: Scaling Spatial Grounding for Physical Foundation Models",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://arxiv.org/abs/2610.27040",
+      "source": "arXiv Robotics",
+      "source_type": "research",
+      "category": "多模态与视频生成",
+      "published_at": "2026-10-21T12:00:00+08:00"
+    },
+    {
+      "title_en": "Visual Task Modeling and Automated Planning for Humanoid Robots in Education of Individuals with Autism Spectrum Disorder",
+      "title_zh": "Visual Task Modeling and Automated Planning for Humanoid Robots in Education of Individuals with Autism Spectrum Disorder",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://arxiv.org/abs/2610.27162",
+      "source": "arXiv Robotics",
+      "source_type": "research",
+      "category": "AI 具身智能",
+      "published_at": "2026-10-21T12:00:00+08:00"
+    },
+    {
+      "title_en": "Which Depth Estimator for Jetson AGX Orin? A 2026 Benchmark of Monocular and Stereo Methods",
+      "title_zh": "Which Depth Estimator for Jetson AGX Orin? A 2026 Benchmark of Monocular and Stereo Methods",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://arxiv.org/abs/2610.27199",
+      "source": "arXiv Robotics",
+      "source_type": "research",
+      "category": "端侧 AI 与硬件",
+      "published_at": "2026-10-21T12:00:00+08:00"
+    },
+    {
+      "title_en": "EmbodyHOI: Embodiment-Aware Generation of Hand-Object Interactions for Humanoid Dexterous Manipulation",
+      "title_zh": "EmbodyHOI: Embodiment-Aware Generation of Hand-Object Interactions for Humanoid Dexterous Manipulation",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://arxiv.org/abs/2610.27242",
+      "source": "arXiv Robotics",
+      "source_type": "research",
+      "category": "AI 具身智能",
+      "published_at": "2026-10-21T12:00:00+08:00"
+    },
+    {
+      "title_en": "XoNav: An Exoskeleton as a Personalized Haptic Interface for Assisted Navigation",
+      "title_zh": "XoNav: An Exoskeleton as a Personalized Haptic Interface for Assisted Navigation",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://arxiv.org/abs/2610.27271",
+      "source": "arXiv Robotics",
+      "source_type": "research",
+      "category": "端侧 AI 与硬件",
+      "published_at": "2026-10-21T12:00:00+08:00"
+    },
+    {
+      "title_en": "What Would Removing This Corruption Change? Failure Attribution for Vision-Language-Action Models",
+      "title_zh": "What Would Removing This Corruption Change? Failure Attribution for Vision-Language-Action Models",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://arxiv.org/abs/2610.27277",
+      "source": "arXiv Robotics",
+      "source_type": "research",
+      "category": "多模态与视频生成",
+      "published_at": "2026-10-21T12:00:00+08:00"
+    },
+    {
+      "title_en": "Design and Control of a Multimodal Legged-Aerial Robot Through Separate Control Contraction Metrics",
+      "title_zh": "Design and Control of a Multimodal Legged-Aerial Robot Through Separate Control Contraction Metrics",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://arxiv.org/abs/2610.27315",
+      "source": "arXiv Robotics",
+      "source_type": "research",
+      "category": "多模态与视频生成",
+      "published_at": "2026-10-21T12:00:00+08:00"
+    },
+    {
+      "title_en": "EchoNav: Evidential BEV Completion from Historical Observations for Visual Navigation",
+      "title_zh": "EchoNav: Evidential BEV Completion from Historical Observations for Visual Navigation",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://arxiv.org/abs/2610.27616",
+      "source": "arXiv Robotics",
+      "source_type": "research",
+      "category": "AI 具身智能",
+      "published_at": "2026-10-21T12:00:00+08:00"
+    },
+    {
+      "title_en": "Adaptive Traversal Tubes for Posture-Aware Navigation of Bipedal Humanoids",
+      "title_zh": "Adaptive Traversal Tubes for Posture-Aware Navigation of Bipedal Humanoids",
+      "summary_zh": "中文摘要生成失败，请阅读原文。",
+      "why_it_matters": "请以原文为准，进一步核对其实际能力与影响。",
+      "url": "https://arxiv.org/abs/2610.27688",
+      "source": "arXiv Robotics",
+      "source_type": "research",
+      "category": "AI 具身智能",
+      "published_at": "2026-10-21T12:00:00+08:00"
+    }
+  ],
   "source_count": 12,
-  "note": "首次自动更新后显示最新资讯。"
+  "note": "自动汇总仅作信息参考；请查看原文核验。"
 }
