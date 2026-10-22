@@ -1,69 +1,69 @@
 {
-  "date": "2026-10-21",
-  "checked_at": "2026-10-21T09:05+08:00",
+  "date": "2026-10-22",
+  "checked_at": "2026-10-22T09:02+08:00",
   "items": {
     "news": [
       {
-        "title": "国常会：人工智能是影响未来发展的关键变量",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE16S19KdS1WbDNaT1FpWjA5cENKQUFyZnV5b0MzRDdqMkFmOHhTSzZUVTVDaWZJZ0VSVktqblpQRjFZN2J3SmJDSw?oc=5",
-        "source": "财联社",
-        "published": "2026-10-21T04:40+08:00",
+        "title": "中办、国办：全面实施“人工智能+”行动 推动人工智能全方位赋能千行百业",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5va3hoYXB6M2pzUVYzV0UycFlUZ0hTd1hmWUozd2FNQ25YR3BITndtMm5VX3N0d2Etdm1KYW1oRGZWZHpRN3hYLVEzSVg3ZDhkSF9hUnJkc1NNdllJLXkzZw?oc=5",
+        "source": "东方财富",
+        "published": "2026-10-22T03:07+08:00",
         "category": "news"
       },
       {
-        "title": "青报经济述评 | 人工智能：从数字世界走进产业现场",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BcDBBMG9DTVdQMXlDQWZNLV9OLWVkNmsweFJVSnJCS3FnNnY5dVV4Y19zc0tOVjJiN1FWcEZ1YW03TTNIelp2T1ItMktBZGFBYkxpM3Z2Wl8?oc=5",
-        "source": "青岛日报",
-        "published": "2026-10-21T06:21+08:00",
+        "title": "人工智能与计算机学院走进湖南大学无锡智能控制研究院，探寻智能控制产业新机遇",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ORExYd3R1Zmpmb1BiVDktZEtjWnZ3WmFNUTJSTjFud004SXY4aFoyNHktS013X3RoamhFdnZ2SEV1dlBGWEJPYmtLeUZwSWJWaU1LS1R3OWR0NUZOZEE?oc=5",
+        "source": "江南大学新闻网",
+        "published": "2026-10-22T08:27+08:00",
         "category": "news"
       },
       {
-        "title": "美国人工智能事务主管：负责任开发AI的建议将很快发布",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvbkZKWlhvaV8yVnhSRGhGR3NhUTF5bWswWVg1N3MxNzQwZ0NlcGNVSDY3cUt5bEFyZmlzVkJkZWZ5Yl9PYXptZlVkUDVlRHR1b0tF?oc=5",
-        "source": "华尔街见闻",
-        "published": "2026-10-21T04:53+08:00",
+        "title": "全国首个聚焦两岸文化融合垂直大模型“同源观澜”发布",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11Z2hGbVYwMldGTXg2UEdMQkZUajRwTHQ5YlB6M2VOdzJtUHVHY29xdlptNTktOWZKLW1IYWJqTExlT3d0T1pseWNWU0VpV0o4S3VMUG9pYXZBblV2dWc?oc=5",
+        "source": "同花顺财经",
+        "published": "2026-10-22T06:37+08:00",
         "category": "news"
       },
       {
-        "title": "人工智能时代，怎样破解“卡脖子”难题？",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pZGhXellwcE9sT0hoaDBVS3hJNnBRTkxQU3JHY1JWekVJT3p3djRYc3M5Tks4RXRSWlJxeXhOOENDR2U0UVNzOGRCUkdIMjRPSUJqdy1NTm5pVy1qSTlJc3ItaVgtdS1xejFvZ0lDaWRkbDhYX0xFQ0JkVVY?oc=5",
-        "source": "求是",
-        "published": "2026-10-20T21:52+08:00",
+        "title": "谭铁牛书记为万名新生讲授人工智能通识核心课第一讲",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BUDJQbjdRa2hQb2hERTAtQlhxZXBJRWhiWllsV0RpeHJSc2Z4bm5zYWpPbUhLa1FDLU16ekEtNU11aTBsMHhLTEo1VGRwbG1JZnZUdnlB?oc=5",
+        "source": "南京大学",
+        "published": "2026-10-21T20:40+08:00",
         "category": "news"
       },
       {
-        "title": "人工智能加速落地应用 成为经济增长新引擎",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhR2FJWlNZTHhlaXVTQnNTdVZLVHdFZVU4VGZvZ2pFazNuRnhnX2l6OEpxbFVFYjVfUGFoWllZcnBJWWNtbTZvd0RaZ2dyLUVRQnJ2am41ZnJYdk42UTEwdV9UZ0lmWnNVeHJpVjQyQnFaTEVqM1E?oc=5",
-        "source": "新浪新闻_手机新浪网",
-        "published": "2026-10-21T07:04+08:00",
+        "title": "中办、国办：全面实施“人工智能+”行动 ；工信部：稳妥有序扩大智能网联汽车场景应用丨盘前情报",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb2dNYXVBWE5mMWNzX0ZsWjA3SDQ1REUxTFFvNWZ6aWVETkItbkwxbWtFSHh0WmJ1eW1FN2VYSzFNV0FvVEhyczhZNmJjSHdoVUkyRm5FSzRyRUpOWGpTNFM2bHlMZmFLZEFtM2tLWmZTTmlTbktHSzB1T1VMUXJqdVBtVXlxZTZCZ1F1YVVTcw?oc=5",
+        "source": "21财经",
+        "published": "2026-10-22T08:15+08:00",
         "category": "news"
       },
       {
-        "title": "我商务部： 干扰中美人工智能合作",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa3BmdXo0ZGJiaHhRSlNveE9PSG1HZ1BtejdqSUd3MHNJWXR4QWs0Y2MzVXpIRXJiT3ZWLVlseFMtSV85U3RRY2RRWExueXU1Wmc4M3BvRlF3Z1BqWG9VajZhSGJGSWZzcjhQc3ZoaW5UUktaOXYyemNUTm1HWWRlOUR3?oc=5",
-        "source": "天津日报",
-        "published": "2026-10-21T06:06+08:00",
+        "title": "江苏开辟41个人工智能专利预审通道，1.1万件专利快速获权",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcmxTVU1fMllHSDB5amlXR0dlUXJBU0pDYThIQkplcDRLMFdkNzlYVkduS0prek9xX194S1pBcU1IZHp2WUdMR2tzbHFyWU4tVXJMVXRoWnk0OVR4NDVvZjZXVjR4QUE3cFZGUWpNeDFKaEJjZmVlZV9FVEJ2YmJJRk9nMTd5dGhlUENn?oc=5",
+        "source": "中国江苏网",
+        "published": "2026-10-21T20:24+08:00",
         "category": "news"
       },
       {
-        "title": "第二届国际人工智能科学家大会在京举行",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JQUFXck1Xcnd6Tml2dTJ6bHplTzJDVkp5d29zRTljNFZaVTJzeFRBcXE4b09mb3RseHVONnktcUZpVElVUmhmbnBqcmZMSmVKblBCSjJ5MVBNOXRQb25PQ3p2ekpCR3NtVWtpS002cWE?oc=5",
-        "source": "中国科技网",
-        "published": "2026-10-20T13:44+08:00",
+        "title": "江苏：人工智能赋能千行百业",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aVzRfRy0tNzZPaG5WTmhLNVk2clRHZTA4VFkyUjVqQV9YaFdGT19wNUVrT3VZMnF2WTlibzhaajJOeUhybjhhZzAxUWtXcHVNZWR5eElrNEpmS1pScGVlT0xOTkZoQzY1ZHc?oc=5",
+        "source": "人民网－江苏频道",
+        "published": "2026-10-21T21:39+08:00",
         "category": "news"
       },
       {
-        "title": "在第二届国际人工智能科学家大会上，专家表示—— 人工智能拥有答案，而人类需要提出好问题",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4UDhEZEVJeGNsTk1URktnQ1N4TDI5N21kZTduWkZNRHI4Wk8tWUdCTTc1akw3TE5vR0h2RF9ZSkVsX3JYZzBEWTR6WktzcG5WelNkWEVITmdxLTdpYmpDZERCZ3JuOTZ1eW5fSktxQXViUQ?oc=5",
-        "source": "西藏自治区科学技术厅",
-        "published": "2026-10-20T18:26+08:00",
+        "title": "2026中外工程师工程能力提升研修活动（人工智能领域）在南京举行",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUmE0cVhWRWtDY3pxaWJSSi1vMDZERVV0QXk5M2VyRlcwTlR0RXZXWjV0cTlNbW05QVZLVFhTMWZxU3RaQ1lvUEg3amlLMEg1LXJKU2tqR29OYnFZQWZobVg5aDlOLWs3YWdhMExWM1l6LU9xS3BrbEpIaWVLbVdITmNuU241SnpOOFE5blNYbjg?oc=5",
+        "source": "中国科学技术协会",
+        "published": "2026-10-21T16:02+08:00",
         "category": "news"
       },
       {
-        "title": "孙一洲︱从人力智能到人造智能：人工智能的劳动史",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDQ2hWMTBXWXlqZUhpZ0RnNlJURndDelUtUHF3N3YxUnhISlFDTzlrdVZwMUpjNjd1TUI2SGJicWhwZ0J1dUhRQ3lXOVdTbGxNbVBvUVhUY2M1ak9LanIxRA?oc=5",
-        "source": "ThePaper.cn",
-        "published": "2026-10-21T06:53+08:00",
+        "title": "人工智能技术加速演进 业界如何驭智前行？",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ERjdQTm5zelVVZVZQeGxfRDFXVmRaRGpETldTQi1VZmxwYWM0VVQ4ZGVBMjk0UjBLTUZ3Q1poaWFIeTQzSHo2X012SGpmNGdBT1ZJeGFpWUhhWENIZDh5WWNBdGw0S1ZU?oc=5",
+        "source": "中国新闻网",
+        "published": "2026-10-21T21:14+08:00",
         "category": "news"
       }
     ],
@@ -84,17 +84,45 @@
         "category": "education"
       },
       {
-        "title": "富顺县成功举办第二届人工智能教育项目专项赛展示活动",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kUnFpeExKcF9wSjRONXNidHdFZEhFdHFyUzNqek9ydE5DX1pSa1NLUlNhdGJydi1qRXVqUEpNMWRYYVpzWTFTQ19VbTBnQVNoTmc?oc=5",
-        "source": "自贡网",
-        "published": "2026-10-14T11:39+08:00",
+        "title": "青报智库 | AI浪潮下的育人之变：当“答案”唾手可得，教育该如何重新定义",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByNTh4RXpQTUJ3Rkk3S1RaVE5wV05Mc1FvZGV4VWpxSEZ0MlRnVmdLMXhlNzN4SWNRVzAxd1ZEdk5SblNlQ2x1TXJyd3JaNC16VEpRUl8zZ0M?oc=5",
+        "source": "青岛日报",
+        "published": "2026-10-20T06:56+08:00",
         "category": "education"
       },
       {
-        "title": "中国青少年AI素养提升报告：学而思给第一代“AI原住民”的一节AI课",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3a2IzY242U19OVEpqZE8ydzhSczZjYXdoZEsxcFZXdlVRdUhHN2pFMEV2Zk5ONzVZXzBra0dobV9jemdwaEdGUVVtSHpnSEk?oc=5",
-        "source": "芥末堆",
-        "published": "2026-10-14T18:47+08:00",
+        "title": "【上海科技报网站】AI时代重塑科创育人逻辑",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmdVl4eGN2WUpzQ0dvdDMzSk03WXJlbHBxbmFuSHZhc2s0MzJzOTF5cTBoZzZDTE9TWEU2Y2NidXBaYkVELWgwRWhwT1ZzYkFUVC1sV0tiNy1sQQ?oc=5",
+        "source": "同济大学新闻网",
+        "published": "2026-10-15T11:55+08:00",
+        "category": "education"
+      },
+      {
+        "title": "警惕AI代写作业催生思维惰性",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RRTlSNXZoelRJMXhXSFRSd0pQQ21TdUtzdXhqdHlSSU1yY3RHbXR3LTBaaUdyNmVXa3FVRl9oc0tEM0VGcTBxakE4ajE2VWcwRDN0aUNHTGg2RVVrYW1zdjdjZklFVnE4XzA4?oc=5",
+        "source": "中国教育新闻网",
+        "published": "2026-10-21T10:14+08:00",
+        "category": "education"
+      },
+      {
+        "title": "当AI重塑世界，基础教育如何应答？港科大上海中心携手长三角高中共话未来",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5INE5pWUpPaF8zSDI4Q0VkOE5fS2NuZjlaWlZyQmVXa2xUb3kxQUZLbEIxUklCWjVPN3dHR0RkSDN3aWlYU25XOUVJZUNHMU85NXkwcHA5ZndsdHQzb0E?oc=5",
+        "source": "上观新闻",
+        "published": "2026-10-19T19:59+08:00",
+        "category": "education"
+      },
+      {
+        "title": "400余位教育学者齐聚深圳理工，共探AI时代育人新路径",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MaEVob1hZejc0d0lEQUxJc2JYbldYaFNUdkNwSXlzQUpPVHkyTWNBZFZJZjl5ZzExeVZKV3pzbmxXNDlyWFQwV0d4bk0wTjJ1RkhxRlpUOUFZcUlGckNnX1FVYzBCbkFpZUJGdlhZc0hLLU1IQ0E?oc=5",
+        "source": "深圳新闻网",
+        "published": "2026-10-19T15:23+08:00",
+        "category": "education"
+      },
+      {
+        "title": "产业场景向青少年开放，长三角发明创新节启动“AI+绿色低碳”专题活动",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoVHNtSzc2YmlORUxfTFM1UXdyU0Z2X1FWREpqNlpsWG1IV00xN01fU1ZfLWpLVkpObHpyTTBsZ1BTdGtBcmdNZ3IyeG01VHFISzFUM1Z6bjNFRFRN?oc=5",
+        "source": "上观新闻",
+        "published": "2026-10-19T20:32+08:00",
         "category": "education"
       },
       {
@@ -103,70 +131,21 @@
         "source": "京报网",
         "published": "2026-10-17T21:32+08:00",
         "category": "education"
-      },
-      {
-        "title": "京城学子上演人工智能科创实践秀",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0SkZhUGR6NEhKeHFGWlREMGFHak9BZ0t5Z1JMNE5CeEJaTHRadENHLWpVdXpidGRfMmZLUGt1NWhXSUhoeXU3RlpsQnVjTDQyd3JwU3pLbGpVOWgyVmhCUTN2alFpSlcwRmc?oc=5",
-        "source": "中国新闻网",
-        "published": "2026-10-17T21:01+08:00",
-        "category": "education"
-      },
-      {
-        "title": "2026中国—中亚青年科学家人工智能对话活动在西安举办",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4NmFLS0VNZUhBYWRoOGNadXBjbzRWRlBjSVBYbzl0S3hta3JaR0dIbjNabkxkdnh0UDdUS0xYSjVPVHEydGRjVlBxV191MkRKWXR6ZVh2VkozRmFpaEow?oc=5",
-        "source": "华商网",
-        "published": "2026-10-19T15:45+08:00",
-        "category": "education"
-      },
-      {
-        "title": "京城学子逐 “智” 展锋芒 聚焦真实生活场景 上演人工智能科创盛宴",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMHdJTTljc09mamp1VjVySGJXQXh1VlZJQ3h6a3VYUmF5TEpfR1dDNXNVcUNic0NhWlZIRVVsLVRBeWtpbUl3OFhPa2JfVXlBZ2RaUEcyZHJiY1Z6Ql9KajNYbzlKMjMybmJObkdoM0dYRk1ucVRWUEx1X2Q4NDN6enB2ZzM1NHdh?oc=5",
-        "source": "搜狐",
-        "published": "2026-10-18T17:07+08:00",
-        "category": "education"
-      },
-      {
-        "title": "“科奇少年”专项活动在上海发布，邀中外青少年组队申报科学探究课题",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56QmRkV0R6bG91Um9zZVU0aC1TSjQzRkdEbzNxT1hVMFVMRWxTTGtkemRuMVphMF8zc3RlODU4bVVrc3ZHUk1VMFpwNUxhRmMxVEZjZWZqSmpxVVVY?oc=5",
-        "source": "上观新闻",
-        "published": "2026-10-14T19:35+08:00",
-        "category": "education"
       }
     ],
     "future": [
       {
-        "title": "“把握AI发展机遇 赋能产业提质增效”专题培训在湖南长沙举行",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PUElFTE5BMFRNX3ZnNThuZXBpZEF6RG42MlFDRld6bjVad3Ztc2tTb3pCMUk4cWdoWFFvY213OUJOMUhRU0pwd2xKWnVsUnV5WE54eEFQN1lKZHEwX1ZWdUgyc1FTc0ZzNFpBUzl2Umg?oc=5",
-        "source": "中国科技网",
-        "published": "2026-10-16T12:50+08:00",
+        "title": "读懂新趋势：2026 人工智能产业十大关键词出炉",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uOU82WkdlR0I4WU1qZHRIdXhNUnRLVmdCb2VQYTM3anRjdWlVTFdSOTNMelFBXzlXR2IxaGx2Q09fWHV3eWRVOW1BUzRZOE50a2RGeVEtYVZlbURoZUM1eXNmc25xT0QyR19wZ3hnaFZDT2Zi?oc=5",
+        "source": "通信世界网",
+        "published": "2026-10-20T09:03+08:00",
         "category": "future"
       },
       {
-        "title": "国际关系学院举办人工智能专题讲座",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HR1NCR1A2eWdpUUFsRDNPLXNleXdVQXdPb0pWLXpwMUNmbHNUOHBDX2hhdk56VEZBa0R6YmhPNEY4WUhZMEgtWDZueHFzdEdBc000bWtWWHI?oc=5",
-        "source": "北京大学新闻网",
-        "published": "2026-10-19T15:24+08:00",
-        "category": "future"
-      },
-      {
-        "title": "青报经济述评 | 人工智能：从数字世界走进产业现场",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BcDBBMG9DTVdQMXlDQWZNLV9OLWVkNmsweFJVSnJCS3FnNnY5dVV4Y19zc0tOVjJiN1FWcEZ1YW03TTNIelp2T1ItMktBZGFBYkxpM3Z2Wl8?oc=5",
-        "source": "青岛日报",
-        "published": "2026-10-21T06:21+08:00",
-        "category": "future"
-      },
-      {
-        "title": "“人工智能+”行动部署落地产业趋势明确，南方基金旗下科创人工智能ETF南方(589230)跟踪标的指数上证科创板人工智能指数(950180)前一交易日上涨0.87%",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1aQi14QjZQR3V1R1pPNHJmOXhsTTd1ekw5Zk1YUHJfVm5CYWZWQjZiUFVZclgxRGJOX0hVOHV3LUI2Mks1QjVQLQ?oc=5",
-        "source": "财联社",
-        "published": "2026-10-19T11:46+08:00",
-        "category": "future"
-      },
-      {
-        "title": "财联社:《人工智能+市场大热点趋势追踪 10月16日历史新高公司｜投资分析》",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9iWkVYWGxNMjdGNmRodk1kWk12SlRhY2lQZlFheUpLRDBfdXpMNlFmbWJfTGlyMnMtS010VjRnUm1RaVR4RjhnbEV0VW5fNnNi?oc=5",
-        "source": "发现报告",
-        "published": "2026-10-19T22:26+08:00",
+        "title": "高通孟樸：终端侧AI正发挥重要作用，智能体的发展进一步加速这一趋势",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Qc2pGS2l0REU2RWZFUzZ1aDZHR2RVOU5Ed1loR1FvaktiMXFLc0NoQmpqZzhfZXJ3UWdIS2t1UmJkZ1VDZXdCb215Z1N4dm5EdE5ZWW9WNzB6NUVUVWNhQjZTQkRVYUZLd2h0akJCckM1Q29lY3Aw?oc=5",
+        "source": "新浪财经",
+        "published": "2026-10-18T15:40+08:00",
         "category": "future"
       },
       {
@@ -177,17 +156,31 @@
         "category": "future"
       },
       {
-        "title": "AI产业何以展图山东 | 2026人工智能产业大会侧记",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tMDVoMm80WDI4bkN1aTdtSFNKYXlfdzJ0SG4wVDkzekVBWHltaHduZFVfUUtOTVp3cmdNcnF6bHRKZ2V4dDR4cEJYVHZlYWFpYzE4M0hfamJmd3JfWlRNNzUyRDdDZGUxZGVmdnJza2NqWS02Z1EtTlJKWnZRQQ?oc=5",
-        "source": "新浪网",
-        "published": "2026-10-17T13:55+08:00",
+        "title": "财联社:《人工智能+市场大热点趋势追踪 10月16日历史新高公司｜投资分析》",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9iWkVYWGxNMjdGNmRodk1kWk12SlRhY2lQZlFheUpLRDBfdXpMNlFmbWJfTGlyMnMtS010VjRnUm1RaVR4RjhnbEV0VW5fNnNi?oc=5",
+        "source": "发现报告",
+        "published": "2026-10-19T22:26+08:00",
         "category": "future"
       },
       {
-        "title": "高通孟樸：终端侧AI正发挥重要作用，智能体的发展进一步加速这一趋势|Agent|沈阳市|辽宁省|产业|人工智能",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdW96VVRHQm9XUm5EZFFzSHQ4eGRUTmI5Ry13bGMtRFNuckFTbjUwTnU1WWdkNkp3OHp1bV9STlJXMWpyajhrdGVmNVhHQTFzSUhRLXI3N3lpOVUxMzdGLV91WUV1U3ZockJodVJpbzVnTUxZWVg0QVQyUWhhYUVvOWRLTklKeFFweTVLZkRfMG5Lel9jeG5uOGFuVXo3UmlqX3ZSWFpkcmxLT1E?oc=5",
-        "source": "新浪财经",
-        "published": "2026-10-18T16:19+08:00",
+        "title": "聚焦具身智能 “瞭望·企业家AI大讲堂”正式开讲",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TT252ZmhtN1laLVdyVGNOekFaaU8xLU9SbTIxNG9sRWdHLVVNZjlxZXRoa2RzdGRnbldXLUMySVloYkVzdlpEeA?oc=5",
+        "source": "品玩",
+        "published": "2026-10-16T18:00+08:00",
+        "category": "future"
+      },
+      {
+        "title": "沈阳市新联会成功举办《人工智能发展及企业应用》专题讲座",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wT3dVODBDZXVEa0t1R280NDcwMk5kZm5PSXVKNUlJUmF5RkctU2Y5YzNiR2YzaWlJWFR6bTZ6am1sUDNQb1JhMV9OMk5jOUdFdXRNa21EcURlWXotcXV3VXNROXhvektVaWc?oc=5",
+        "source": "中国新闻网",
+        "published": "2026-10-21T14:51+08:00",
+        "category": "future"
+      },
+      {
+        "title": "中国工程院院士谭建荣走进武汉工程科技学院 纵论智能机器人发展趋势",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBObi1HOUF1X3RNeFc3cndaSEs3RGVKc3p2SndLV2xaekxHMEhTMV9SM1BRQ1ROMHR2QTdZTENrQkMwM3c5cUl4LU9TaVBDS3ZqeGh3RWRzbXU3bTM2aHE4aG56TG45UW15?oc=5",
+        "source": "中国教育在线",
+        "published": "2026-10-15T15:08+08:00",
         "category": "future"
       },
       {
@@ -196,14 +189,21 @@
         "source": "奥一网",
         "published": "2026-10-16T23:19+08:00",
         "category": "future"
+      },
+      {
+        "title": "国际研究型大学变革趋势",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aSHpfZ2I2aU53U0R3NGNWazdhR3dCU3VSNW4wbkVzc0E4ME96VlNaWDk0cWUyY1dmWDdzdnBzUERRZUFzNDhBc0ZYcjlYYm1ad3FyVDJWeFlQOU84YV9WN09RM1V5TFNCOHFR?oc=5",
+        "source": "中国教育新闻网",
+        "published": "2026-10-15T09:38+08:00",
+        "category": "future"
       }
     ],
     "tools": [
       {
-        "title": "Gradual disempowerment 是什么？不需要机器造反的 AI 风险",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUFg5S0tLN3FteWlvdDZvS1NEdlNhMGhCZ05sRmFSaEVJX3hzUFpQaGh1MjZPNllPcDlKQnkyOFZhRlFiNXota0pxY21pMHYzUFYwNXFjS3J2SG1LTHlfU1NISEF4RVNseU16UFB0WUpScUQwdWpiU3llSmJHcHRmc3VaNTlXdkJHblZZbjBILW8zamM?oc=5",
+        "title": "DeepLearning.AI 和 Hugging Face 免费 AI 课程指南 2026",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUmpWcU1MTG16bUE4M292dzhNSVhhUXUwa1ZjTnc4d3ZMMnhPYVktbmgwVXBWZVRfRkRZYmNWZW15TjJGTHRvN1duUnQxUDdvNkh2bzZ5VkdQamFfS1NPdms2MHhIbmFhLTBKVWIyTXJxX0NYdVBqeUo4Sm5ieDRWcllrSG5la2NScXI5RDVGZGlRTEZTT0c4QUI4Q1VxS3c?oc=5",
         "source": "Pasquale Pillitteri",
-        "published": "2026-10-20T16:54+08:00",
+        "published": "2026-10-18T03:51+08:00",
         "category": "tools"
       },
       {
@@ -214,6 +214,20 @@
         "category": "tools"
       },
       {
+        "title": "Gradual disempowerment 是什么？不需要机器造反的 AI 风险",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUFg5S0tLN3FteWlvdDZvS1NEdlNhMGhCZ05sRmFSaEVJX3hzUFpQaGh1MjZPNllPcDlKQnkyOFZhRlFiNXota0pxY21pMHYzUFYwNXFjS3J2SG1LTHlfU1NISEF4RVNseU16UFB0WUpScUQwdWpiU3llSmJHcHRmc3VaNTlXdkJHblZZbjBILW8zamM?oc=5",
+        "source": "Pasquale Pillitteri",
+        "published": "2026-10-20T16:54+08:00",
+        "category": "tools"
+      },
+      {
+        "title": "cleanyourtv 发布，用 Claude Code 去掉智能电视上的广告",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd2tPck5xbHM3dElUYTc4RkFUSVdCQjdEeldtaWxaaE85d3ppdVItMVNaWFIzQUJVZ2lCbGpSandBbllWM3hrN0h4ZW5aZ2hCR1E2UExwb3I0amhLVDV4Vzl6dnF0cVNnNTdkYko0dGlOcE0wcmpRRERaZXFGRm1iX0NDa3o0YlJZSzdINERhV2JDMXNFZ1RF?oc=5",
+        "source": "Pasquale Pillitteri",
+        "published": "2026-10-20T16:08+08:00",
+        "category": "tools"
+      },
+      {
         "title": "GPT-6.1 Sol 在 Codex 中消耗额度更快？OpenAI 未确认",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeU9oMTk4VmU3M08xblpKTTlGT01GcVJ3S0N3MzVJdmg2Yy02endSbWRPZUJzU1E4R05waG42ejZ2RUN0Wks4LVNBZm1aSWhqSmdQWVNTaWYyVzhRRzJOQWFRYVJxMi1zRTBnbnhid0M5V055VjJsc3I0TWZZRzBNTE1qWVBUOTY0ZjU4?oc=5",
         "source": "Pasquale Pillitteri",
@@ -221,10 +235,10 @@
         "category": "tools"
       },
       {
-        "title": "学生免费AI订阅全攻略 2026年哪些真能白拿",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX3NGZlNRWll5V291UW1XYng1WG9hR1RyLXJ3Q2pZcU9haV9QLTVkeDFuN2NXYmVhLWRTRnNaRkdldXZldm9USXdPaUJJYVR5LXEzZ1dQVE5tV0ZNaFkwbXJNZzRGWk5UUENTUUFjM3JPNWJFU3NWdmtxYW9ldmRBOVdPcnZ3MlFGT2I5UA?oc=5",
+        "title": "哪些 AI 助手能替你购物，各自在哪些地方可用",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb2lSZUk3bjh1ci1HYzQxdmhEZl9CdzRwVnhMUjJhNUFvZXFWclM0ZUNnN1hacFFoN0ZSRHd6NUl5bjZvaGxpNG9QWEVCVkNKdGpENk9RcHRIY084b3U5UkxJcFdEZ2duUWJJQWRTdGt4MUlBMzdJQW9ISkszN1RRcnhnbGo?oc=5",
         "source": "Pasquale Pillitteri",
-        "published": "2026-10-14T15:31+08:00",
+        "published": "2026-10-17T00:58+08:00",
         "category": "tools"
       },
       {
@@ -235,31 +249,17 @@
         "category": "tools"
       },
       {
-        "title": "台湾遭定向攻击，AI伪造的活动邀请窃取Google账号",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOejIxeWZSclJGXy1tdUtsTDdvMGRzUVc2bHRBSG5pVnF4YTFUZG1wSEdsMEozeXJNYWx3eHh5QjY3Z2dYLVpZZlZiX3ZrQ0RjUEZmVkdsVHFYbG1fVjhPWUpPRUxJcERFdW9Rc2N3aENONkpxd3J4clgwT0ctY0plbjJOQWFhUWtKcTk4SWpDaHFJRVRaVlpDd2pDcw?oc=5",
+        "title": "Google AI Professional Certificate, 含 8 门课程的 Google 证书指南",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbk5zMTNyRTh5T3dvNjByUEhNeWd5ZW5YZ3ZxMmVsdHBvNWJIdDRXYUpWWDNrb0dMN1pNdFZ5VXQ0YzNVcS1Ub1hUZWJJRlUxbF9iZk1nYlFfbWM3dllOTlY5UFBsNHlDcDRPNTFJZF9VSlJaMW9qc1hiWDZSUkNTa0VoclRFS21nYkF2YnRn?oc=5",
         "source": "Pasquale Pillitteri",
-        "published": "2026-10-14T22:54+08:00",
+        "published": "2026-10-18T03:07+08:00",
         "category": "tools"
       },
       {
-        "title": "DeepLearning.AI 和 Hugging Face 免费 AI 课程指南 2026",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUmpWcU1MTG16bUE4M292dzhNSVhhUXUwa1ZjTnc4d3ZMMnhPYVktbmgwVXBWZVRfRkRZYmNWZW15TjJGTHRvN1duUnQxUDdvNkh2bzZ5VkdQamFfS1NPdms2MHhIbmFhLTBKVWIyTXJxX0NYdVBqeUo4Sm5ieDRWcllrSG5la2NScXI5RDVGZGlRTEZTT0c4QUI4Q1VxS3c?oc=5",
+        "title": "Ray-Ban Meta 更新后疑似故障，未说 Hey Meta 也在录音",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZUlRdVhiZGc1OFRsMXdFVF9JUDFMQ1ZYLV8xMEMtcmU2UHYxNG5Dcm9pZVN5R1dlc01Xa3dhaVVGVDB5d3lrLXp4Zm9hMEdUTnZ4djFtWGdYTW0tVFJ1Y3pwZjdvcUp0STJhMHJ5NlZ2VGFFNXVuUUJLQmpRaEZmYkxqTjctdDhTLTVDMEdJRzY4T0tM?oc=5",
         "source": "Pasquale Pillitteri",
-        "published": "2026-10-18T03:51+08:00",
-        "category": "tools"
-      },
-      {
-        "title": "2026年适用于PC和服务器的最佳本地OCR",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhQVN1Q3dWQV9uZWp6b0Z4M3JHY2lfcmZlX3c1RWZDQlVSNkIyQmFSV2wtUkQ4bUdWT3FFcjRRYm9KaXJ6ZUtHc1VuZjAweGZNZTZZNENmR2V2My1BUEZnVE9uTFRDQzhpVnFHVWVnWmpNNktUTTJuT1dHU0Q?oc=5",
-        "source": "Pasquale Pillitteri",
-        "published": "2026-10-19T19:51+08:00",
-        "category": "tools"
-      },
-      {
-        "title": "微软发布MAI-Base-2，一款2.8万亿参数的模型",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcDNDdV80c29kejBpOUFQUUhBMkNmTlpIdXdFZUlfbHBxM1MwOG1KOXE4eGlPcDYwX1pYTXN3UHVTbkhxRWdIRXg3OXdTZk9SX2tzajhHUmduZ0RISVhXTm1LT0k0RVpHdzhZZE51eTBDMm1uTU5NZU5XUlFJNEZKYm9RZHRubU9GWFpKOF9n?oc=5",
-        "source": "Pasquale Pillitteri",
-        "published": "2026-10-16T04:09+08:00",
+        "published": "2026-10-16T03:09+08:00",
         "category": "tools"
       }
     ]
