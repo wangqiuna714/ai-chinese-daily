@@ -1,33 +1,143 @@
 {
-  "updated_at": "2026-10-22T14:25:03.140827+08:00",
-  "daily_summary_zh": "今日共采集 25 条近 10 天资讯。赛道分布：AI Agent 5 条；AI 具身智能 5 条；行业与研究 5 条；AI Coding 4 条；多模态与视频生成 4 条。优先浏览：OpenAI CLI；欧洲领先的金融服务组织采用开放模式来构建专有情报；NVIDIA Cosmos 开放新工具来训练、评估和部署世界模型。本总结依据新闻标题、来源和分类自动整理，不代表对新闻事实或技术效果的独立验证；重要结论请查看原文。",
+  "updated_at": "2026-10-23T09:08:12.266583+08:00",
+  "daily_summary_zh": "今日共采集 25 条近 10 天资讯。赛道分布：AI Agent 5 条；AI 具身智能 5 条；多模态与视频生成 5 条；行业与研究 5 条；AI Coding 4 条。优先浏览：独自无事可做，人工智能代理开始玩；绘制北方天空图；Docker 很奇怪。本总结依据新闻标题、来源和分类自动整理，不代表对新闻事实或技术效果的独立验证；重要结论请查看原文。",
   "takeaways_zh": [
     "今日采集较多的方向：AI Agent（5 条）。",
     "今日采集较多的方向：AI 具身智能（5 条）。",
-    "今日采集较多的方向：行业与研究（5 条）。"
+    "今日采集较多的方向：多模态与视频生成（5 条）。"
   ],
   "news": [
     {
-      "title_en": "OpenAI CLI",
-      "title_zh": "OpenAI CLI",
-      "summary_zh": "文章网址：https://github.com/openai/openai-cli 评论网址：https://news.ycombinator.com/item?id=50191507 积分：7 # 评论：2",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。 标题翻译暂不可用，请结合英文原文判断。",
-      "url": "https://github.com/openai/openai-cli",
+      "title_en": "Left alone with nothing to do, AI agents started playing",
+      "title_zh": "独自无事可做，人工智能代理开始玩",
+      "summary_zh": "麻省理工学院的研究人员将 13 名人工智能困在一个虚拟岛上，他们的反应是发明游戏、哀悼丢失的戒指，并最终在工作中取得更好的成绩。",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
+      "category": "AI Agent",
+      "published_at": "2026-10-23T08:45:37+08:00"
+    },
+    {
+      "title_en": "Mapping the Northern Sky",
+      "title_zh": "绘制北方天空图",
+      "summary_zh": "文章网址：https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/ 评论网址：https://news.ycombinator.com/item?id=50202766 积分：7 # 评论：0",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
       "source": "Hacker News",
       "source_type": "community",
       "category": "行业与研究",
-      "published_at": "2026-10-22T13:23:11+08:00"
+      "published_at": "2026-10-23T07:56:39+08:00"
     },
     {
-      "title_en": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
-      "title_zh": "欧洲领先的金融服务组织采用开放模式来构建专有情报",
-      "summary_zh": "在 GTC Berlin 上，银行、支付公司和金融数据提供商展示了生产规模智能的样子——基于 NVIDIA 加速计算构建，由开放权重模型提供支持并在自己的基础设施上运行。 Revolut 正在单一基础模型 PRAGMA 上重建其技术堆栈，该模型由 NVIDIA 加速计算提供支持。使用 NVIDIA cuDF [...]",
+      "title_en": "Docker Is Weird",
+      "title_zh": "Docker 很奇怪",
+      "summary_zh": "文章网址：https://codeandcake.dev/posts/2026-10-22-docker-is-weird 评论网址：https://news.ycombinator.com/item?id=50202681 积分：37 # 评论：16",
       "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
-      "source": "NVIDIA Blog",
-      "source_type": "official",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "source": "Hacker News",
+      "source_type": "community",
       "category": "行业与研究",
-      "published_at": "2026-10-22T13:00:56+08:00"
+      "published_at": "2026-10-23T07:45:56+08:00"
+    },
+    {
+      "title_en": "AI compute is the new oil–and needs a new market",
+      "title_zh": "人工智能计算是新的石油——需要新的市场",
+      "summary_zh": "文章网址：https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market 评论网址：https://news.ycombinator.com/item?id=50202671 积分：6 # 评论：2",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "行业与研究",
+      "published_at": "2026-10-23T07:45:16+08:00"
+    },
+    {
+      "title_en": "LLMs are making formal software verification feasible at a much larger scale",
+      "title_zh": "法学硕士正在使正式软件验证在更大范围内变得可行",
+      "summary_zh": "文章网址：https://www.anthropic.com/research/formal-verification 评论网址：https://news.ycombinator.com/item?id=50202217 积分：69 # 评论：25",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "行业与研究",
+      "published_at": "2026-10-23T06:54:43+08:00"
+    },
+    {
+      "title_en": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "title_zh": "将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体",
+      "summary_zh": "该来源未提供摘要；请点击“阅读原文”查看详情。",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "source": "Hugging Face",
+      "source_type": "official",
+      "category": "AI Agent",
+      "published_at": "2026-10-23T06:24:34+08:00"
+    },
+    {
+      "title_en": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "title_zh": "OpenAI 致力于在 IPO 前以 1.25T 美元的估值进行新的 30B 美元融资",
+      "summary_zh": "如果 OpenAI 在这一轮融资中获得超过 1 万亿美元的估值，它将打破有史以来估值最高的私营公司的记录。",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
+      "category": "行业与研究",
+      "published_at": "2026-10-23T06:08:24+08:00"
+    },
+    {
+      "title_en": "Canva’s first AI image model plans designs before generating them",
+      "title_zh": "Canva 的第一个 AI 图像模型在生成之前规划设计",
+      "summary_zh": "Canva 进一步深入人工智能领域，推出了图像生成模型，与 OpenAI、微软和谷歌的图像生成模型直接竞争。该模型名为 Canva Craft，采用两阶段架构，可以在生成图像之前规划设计，从而实现“更高的精度、一致性和控制”，根据 […]",
+      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "source": "The Verge AI",
+      "source_type": "media",
+      "category": "多模态与视频生成",
+      "published_at": "2026-10-23T05:53:22+08:00"
+    },
+    {
+      "title_en": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+      "title_zh": "在 Meta 的未来版本中，我会让我的缪斯调用你的缪斯",
+      "summary_zh": "马克·扎克伯格正在奔向这样一个未来：一个由人工智能代理组成的自治网络将管理我们的生活——为我们购物、为我们工作、为我们与其他人的人工智能代理交谈。人类准备好迎接这种非常具体且无情的生活愿景了吗？在这种生活中，我们主要通过机器人代理进行交流？ […]",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+      "source": "The Verge AI",
+      "source_type": "media",
+      "category": "AI Agent",
+      "published_at": "2026-10-23T04:30:41+08:00"
+    },
+    {
+      "title_en": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "title_zh": "1Password 推出了一种让 AI 代理代表您登录而无需查看您的密码的方法",
+      "summary_zh": "新功能允许代理登录客户的个人帐户，同时仍然保护保护这些帐户的私人凭据。",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
+      "category": "AI Agent",
+      "published_at": "2026-10-23T03:07:09+08:00"
+    },
+    {
+      "title_en": "Canva releases its first image generation model",
+      "title_zh": "Canva 发布首个图像生成模型",
+      "summary_zh": "Canva 正在向所有用户提供其新的图像模型，承诺以更低的成本提供更好、更可定制的性能。",
+      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
+      "category": "多模态与视频生成",
+      "published_at": "2026-10-23T03:00:00+08:00"
+    },
+    {
+      "title_en": "Discord now formats Markdown previews right",
+      "title_zh": "Discord 现在可以正确格式化 Markdown 预览",
+      "summary_zh": "Discord 今天发布的最新更新对 Markdown 预览进行了重大改进：据该公司称，它们现在应该正确呈现，而不是使用“一堆符号”。 LLM 和 AI 代理通常依赖 Markdown 文件来获取说明和上下文，因此这些改进的预览可能有助于人们共享有关 AI 项目的信息 [...]",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+      "source": "The Verge AI",
+      "source_type": "media",
+      "category": "AI Agent",
+      "published_at": "2026-10-23T02:58:19+08:00"
     },
     {
       "title_en": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
@@ -41,17 +151,6 @@
       "published_at": "2026-10-22T13:00:27+08:00"
     },
     {
-      "title_en": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
-      "title_zh": "公司如何使用 NVIDIA DSX 打破功耗瓶颈",
-      "summary_zh": "世界各地的公司都在 NVIDIA DSX AI 工厂平台上进行构建，将电网和 AI 工厂作为一个系统进行规划、模拟和运行，从变电站到机架。他们采用该平台解决了一个尖锐的问题。电力现在是基础设施的最大瓶颈。超过 3000 亿美元 […]",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://blogs.nvidia.com/blog/dsx-power/",
-      "source": "NVIDIA Blog",
-      "source_type": "official",
-      "category": "行业与研究",
-      "published_at": "2026-10-22T13:00:25+08:00"
-    },
-    {
       "title_en": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
       "title_zh": "NVIDIA 实现欧洲零售业转型，从数字发现到实体运营",
       "summary_zh": "欧洲零售商正在跨用例使用开放模型和物理智能——从将推理成本削减 90% 的商务平台到在数字孪生内模拟不同机器人车队协作的履行中心。开放模型的前沿成果欧洲各地的零售领导者和技术公司正在使用 NVIDIA 加速的开放 [...]",
@@ -61,39 +160,6 @@
       "source_type": "official",
       "category": "AI 具身智能",
       "published_at": "2026-10-22T13:00:23+08:00"
-    },
-    {
-      "title_en": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
-      "title_zh": "欧洲各地的先驱者部署 NVIDIA Earth-2 开放模型来支持真实世界的天气和气候预测",
-      "summary_zh": "天气预报不仅仅影响每日计划；及时的天气信息对于能源生产商、保险公司和运输运营商针对不断变化的情况制定计划至关重要。全球预报可以显示风暴正在形成，但有关太阳能发电场、航线或保险财产的决定取决于当地发生的情况。 NVIDIA Earth-2 为开发人员和研究人员提供了 [...]",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
-      "source": "NVIDIA Blog",
-      "source_type": "official",
-      "category": "行业与研究",
-      "published_at": "2026-10-22T13:00:19+08:00"
-    },
-    {
-      "title_en": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
-      "title_zh": "NVIDIA 开放模型为新一波欧洲公共部门项目提供动力",
-      "summary_zh": "政府需要现代解决方案来为公众服务，同时控制敏感信息。开放模型提供了一条前进的道路，让政府对其进行评估，使其适应当地语言和公共服务，在他们控制的基础设施上运行它们，应用自己的保护措施并将敏感数据保存在受控环境中。一些开放模型走得更远，[...]",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
-      "source": "NVIDIA Blog",
-      "source_type": "official",
-      "category": "行业与研究",
-      "published_at": "2026-10-22T13:00:02+08:00"
-    },
-    {
-      "title_en": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
-      "title_zh": "Navalia：通过可验证的任务综合和长期培训后推进协同工作代理",
-      "summary_zh": "arXiv:2610.26887v1 公告类型：新 摘要：大型语言模型 (LLM) 代理正在从对话助理发展为能够自主规划、工具使用和复杂任务执行的协同工作代理。财务分析要求这些代理整合跨文档证据并执行多步骤数值推理，但专家任务编写成本高昂，而直接法学硕士综合很难产生具有可靠答案的挑战性任务。我们引入了 Navalia，这是一个 Cowork Agent 框架，它将可验证的任务合成与长期后期训练相结合。使用企业财务报告作为数据源，Navalia s",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://arxiv.org/abs/2610.26887",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "AI Agent",
-      "published_at": "2026-10-22T12:00:00+08:00"
     },
     {
       "title_en": "Large language model and reinforcement learning based autonomous construction and progress updates",
@@ -115,50 +181,6 @@
       "source": "arXiv AI",
       "source_type": "research",
       "category": "AI Coding",
-      "published_at": "2026-10-22T12:00:00+08:00"
-    },
-    {
-      "title_en": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
-      "title_zh": "MedPAO-Assist：可边缘部署、模态感知的代理 AI，用于构建放射学报告",
-      "summary_zh": "arXiv:2610.26913v1 公告类型：新 摘要：采用大型语言模型进行放射学报告构建主要是基于专有云的模型或需要部署高端 GPU 的大型开放模型，这是在需要数据隐私和离线操作的放射学工作流程中临床采用的关键瓶颈。为了解决这个问题，我们推出了 MedPAO-Assist，这是一种可边缘部署的代理框架，可直接根据放射科医生的听写和语音命令生成结构化放射学报告，仅需要 $\\approx3.3$ GB 峰值 RAM，并实现 $\\approx31$ 的平均端到端延迟",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://arxiv.org/abs/2610.26913",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "AI Agent",
-      "published_at": "2026-10-22T12:00:00+08:00"
-    },
-    {
-      "title_en": "DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution",
-      "title_zh": "DataPraxis：通过验证的工作空间演进扩展分析任务",
-      "summary_zh": "arXiv:2610.26924v1 公告类型：新 摘要：人们越来越期望通用代理能够执行专业的分析工作，这需要持续的推理、迭代调查和可靠的证据。训练这些能力需要多样化且具有挑战性的任务。然而，直接从原始数据生成任务通常会忽略分析中出现的更深层次的问题，并提供有限的验证证据。为了解决这些限制，我们引入了 DataPraxis，这是一个基于经过验证的工作空间演变的分析任务综合框架。该框架通过经过验证的发现逐步丰富工作空间",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://arxiv.org/abs/2610.26924",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "AI Agent",
-      "published_at": "2026-10-22T12:00:00+08:00"
-    },
-    {
-      "title_en": "Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing",
-      "title_zh": "工业代理人工智能：法学硕士驱动的新一代智能制造代理",
-      "summary_zh": "arXiv:2610.26941v1 公告类型：新 摘要：大型语言模型 (LLM) 使代理能够超越预定义的工作流程，转向自主规划和执行，为智能制造创造新的机会。然而，动态环境、复杂的物理约束和严格的可靠性要求阻碍了通用智能体在智能制造中的直接部署。本文系统地概述了法学硕士驱动的工业代理。首先，我们分析了五个关键挑战，并讨论了产业代理的概念和核心特征。然后我们建立一个涵盖应用程序的统一分类法",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://arxiv.org/abs/2610.26941",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "AI Agent",
-      "published_at": "2026-10-22T12:00:00+08:00"
-    },
-    {
-      "title_en": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
-      "title_zh": "MAMath-Bench：多模态多智能体数学推理的过程感知和鲁棒评估",
-      "summary_zh": "arXiv:2610.26943v1 发布类型：新 摘要：数学推理是大型语言模型（LLM）教育应用的一项基本能力，其中可靠的问题解决不仅需要正确的答案，还需要连贯且可验证的推理过程。通过利用多个 LLM 代理之间的协作和验证，多代理系统 (MAS) 在该领域显示出越来越大的潜力。然而，现有的评估主要关注纯文本环境中最终答案的正确性，对多模态推理能力、中间推理步骤的可靠性和鲁棒性的了解有限。",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://arxiv.org/abs/2610.26943",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "AI Agent",
       "published_at": "2026-10-22T12:00:00+08:00"
     },
     {
@@ -192,17 +214,6 @@
       "source": "arXiv AI",
       "source_type": "research",
       "category": "AI Coding",
-      "published_at": "2026-10-22T12:00:00+08:00"
-    },
-    {
-      "title_en": "EDMA: Entropy-Driven Multimodal Answering",
-      "title_zh": "EDMA：熵驱动的多模态应答",
-      "summary_zh": "arXiv:2610.27120v1 公告类型：新 摘要：多模态问答（MMQA）基于集成异构数据源、选择性地利用相关模态并忽略干扰因素。基于多模态大型语言模型 (MLLM) 的现有方法通过将任务拆分为中间步骤来提高性能，但没有量化每种模态如何有助于达到最终答案。我们认为，量化每种模式对回答过程的影响可以提高过程的可追溯性和最终性能。因此，我们提出熵驱动多模态应答（EDMA），它使用逻辑熵",
-      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
-      "url": "https://arxiv.org/abs/2610.27120",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "多模态与视频生成",
       "published_at": "2026-10-22T12:00:00+08:00"
     },
     {
@@ -266,17 +277,6 @@
       "summary_zh": "arXiv:2610.28950v1 公告类型：新 摘要：我们推出了 HyperDrone，这是一款速度极快的四旋翼飞行器模拟器，专注于高性能批量渲染，比现有最先进的批量四旋翼飞行器模拟器快 20 倍以上。 HyperDrone 将高度优化的多旋翼动力学与 HyperLux 相结合，HyperLux 是一种新的光线追踪引擎，支持 Nvidia OptiX、Vulkan、Apple Metal 和 WebGPU 后端，充分利用现代光线追踪硬件，能够完全在 GPU 上运行这两个组件。 HyperLux 以可配置的级别渲染 RGB、深度、语义/实例分割、表面法线和光流观察",
       "why_it_matters": "关注本地运行能力，以及延迟、隐私、能耗和硬件成本之间的取舍。",
       "url": "https://arxiv.org/abs/2610.28950",
-      "source": "arXiv Robotics",
-      "source_type": "research",
-      "category": "端侧 AI 与硬件",
-      "published_at": "2026-10-22T12:00:00+08:00"
-    },
-    {
-      "title_en": "GGraph: A GPU-Accelerated Library for Graph-Based Robot Deployment and Learning",
-      "title_zh": "GGraph：用于基于图形的机器人部署和学习的 GPU 加速库",
-      "summary_zh": "arXiv:2610.28953v1 公告类型：新 摘要：自主移动机器人需要能够捕获几何和语义的空间表示，同时保持足够的稀疏性，以便在大型未知环境中进行规划。图为此目的提供了自然的表示，并支持经典的规划方法和不断增长的强化学习 (RL) 策略。然而，强化学习训练需要数百到数千个并行环境，每个环境都构建和更新自己的图。现有的图库通常是为单机器人部署或固定图而设计的，基于CPU的图构建限制了可扩展的流量",
-      "why_it_matters": "关注本地运行能力，以及延迟、隐私、能耗和硬件成本之间的取舍。",
-      "url": "https://arxiv.org/abs/2610.28953",
       "source": "arXiv Robotics",
       "source_type": "research",
       "category": "端侧 AI 与硬件",
