@@ -1,165 +1,143 @@
 {
-  "updated_at": "2026-10-30T09:23:34.151270+08:00",
-  "daily_summary_zh": "今日共采集 18 条近 10 天资讯。赛道分布：AI Agent 5 条；行业与研究 5 条；多模态与视频生成 4 条；AI Coding 2 条；AI 具身智能 1 条。优先浏览：你不需要相信上帝就能获得在工作中使用人工智能的宗教豁免；科马克·麦卡锡图书馆；Jassy 表示，AWS 将成为一项价值 1T 美元的业务。但首先，它将花费大量资金。。本总结依据新闻标题、来源和分类自动整理，不代表对新闻事实或技术效果的独立验证；重要结论请查看原文。",
+  "updated_at": "2026-10-31T09:22:54.570751+08:00",
+  "daily_summary_zh": "今日共采集 16 条近 10 天资讯。赛道分布：AI Agent 5 条；行业与研究 5 条；多模态与视频生成 3 条；AI 具身智能 2 条；端侧 AI 与硬件 1 条。优先浏览：Nvidia 考虑担任西弗吉尼亚州 Nscale 人工智能数据中心的联合签署人；Show HN：为了纪念帕特里克·斯图尔特爵士，享受 TNG 剧集猜谜游戏；专注于隐私的人工智能助手 Ollie 即将关闭。本总结依据新闻标题、来源和分类自动整理，不代表对新闻事实或技术效果的独立验证；重要结论请查看原文。",
   "takeaways_zh": [
     "今日采集较多的方向：AI Agent（5 条）。",
     "今日采集较多的方向：行业与研究（5 条）。",
-    "今日采集较多的方向：多模态与视频生成（4 条）。"
+    "今日采集较多的方向：多模态与视频生成（3 条）。"
   ],
   "news": [
     {
-      "title_en": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "title_zh": "你不需要相信上帝就能获得在工作中使用人工智能的宗教豁免",
-      "summary_zh": "肯塔基大学行政人员戴维·杜尔曼 (David Durman) 最近获得了在工作场所使用人工智能的宗教豁免。",
+      "title_en": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "title_zh": "Nvidia 考虑担任西弗吉尼亚州 Nscale 人工智能数据中心的联合签署人",
+      "summary_zh": "当投资者对人工智能支出感到紧张时，让销售芯片的芯片制造商联合签署贷款会有所帮助。",
       "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
       "source": "TechCrunch AI",
       "source_type": "media",
       "category": "行业与研究",
-      "published_at": "2026-10-30T09:20:48+08:00"
+      "published_at": "2026-10-31T09:20:05+08:00"
     },
     {
-      "title_en": "Cormac McCarthy's Library",
-      "title_zh": "科马克·麦卡锡图书馆",
-      "summary_zh": "文章网址：https://cormacmccarthy.lib.utk.edu/ 评论网址：https://news.ycombinator.com/item?id=50298318 积分：3 # 评论：1",
+      "title_en": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "title_zh": "Show HN：为了纪念帕特里克·斯图尔特爵士，享受 TNG 剧集猜谜游戏",
+      "summary_zh": "文章网址：https://tng.episodle.com/ 评论网址：https://news.ycombinator.com/item?id=50311686 积分：33 # 评论：11",
       "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://cormacmccarthy.lib.utk.edu/",
+      "url": "https://tng.episodle.com/",
       "source": "Hacker News",
       "source_type": "community",
       "category": "行业与研究",
-      "published_at": "2026-10-30T08:31:00+08:00"
+      "published_at": "2026-10-31T07:51:24+08:00"
     },
     {
-      "title_en": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-      "title_zh": "Jassy 表示，AWS 将成为一项价值 1T 美元的业务。但首先，它将花费大量资金。",
-      "summary_zh": "亚马逊想成为AI云计算之王，成为第一个营收1万亿美元的企业。但该公司首席执行官周四表示，要做到这一点，公司必须继续大举资本支出。",
+      "title_en": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "title_zh": "专注于隐私的人工智能助手 Ollie 即将关闭",
+      "summary_zh": "随着越来越多的人工智能助手涌入市场，尊重用户隐私的助手 Ollie 的创始人表示，它将在一周内关闭。",
       "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
       "source": "TechCrunch AI",
       "source_type": "media",
       "category": "行业与研究",
-      "published_at": "2026-10-30T07:42:22+08:00"
+      "published_at": "2026-10-31T06:56:13+08:00"
     },
     {
-      "title_en": "Show HN: I Turned DOOM into a Transformer",
-      "title_zh": "Show HN：我把《DOOM》变成了变形金刚",
-      "summary_zh": "我没有尝试在事物上运行《DOOM》，而是决定使用《DOOM》（实际上是很多很多末日游戏）来创建一个变压器。对于所需的大量数学运算，我基本上必须使用《DOOM》游戏机制和巫毒娃娃（顺便说一句，《DOOM》是图灵完备的），并将它们与实际操作进行交换，本质上是创建 NumPy 的替代方案（速度慢 65000 倍）。因此，我很自豪地推出《DOOMFORMER》。以下是 DOOMFORMER 可以做的事情：它可以对 MNIST 数字进行分类，即使您将这些数字写在地图上！它可以说话（有点），你可以用它来做决定，所以，它可以玩《DOOM》。是的！您可以与数千名玩家一起玩《DOOM》",
+      "title_en": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "title_zh": "Apple Intelligence 终于携 iOS 27.3 登陆中国",
+      "summary_zh": "据 MacRumors 报道，苹果公司在其中文新闻编辑室网站上宣布，将通过 iOS 27.3 在中国推出 Apple Intelligence。 Apple Intelligence 功能将首先在定于 11 月 4 日发布的 iOS 27.3 测试版中提供，完整的 iOS 27.3 版本计划于 12 月发布。这次发布不会带来[...]",
       "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://github.com/mottopanikeiku/doomformer",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "行业与研究",
-      "published_at": "2026-10-30T07:25:46+08:00"
-    },
-    {
-      "title_en": "AI has come for Arizona’s water",
-      "title_zh": "人工智能已经来到亚利桑那州的水务领域",
-      "summary_zh": "一个巨大的灰色巨人从沙漠中升起。在内部，工程师为我们的手机、电脑和电器、流媒体服务、搜索引擎、聊天机器人以及振动编码的应用程序和网站提供了动力。该建筑群既庞大又低矮，与周围的群山相比显得相形见绌，而且一望无际。我开车经过一个[…]",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
       "source": "The Verge AI",
       "source_type": "media",
       "category": "行业与研究",
-      "published_at": "2026-10-30T07:03:22+08:00"
+      "published_at": "2026-10-31T06:32:53+08:00"
     },
     {
-      "title_en": "We ran AI agent swarms in Minecraft and Mindustry",
-      "title_zh": "我们在 Minecraft 和 Mindustry 中运行 AI 代理群",
-      "summary_zh": "文章网址：https://labs.ycombinator.com/projects/games/index.html 评论网址：https://news.ycombinator.com/item?id=50296486 积分：146 # 评论：55",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://labs.ycombinator.com/projects/games/index.html",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "AI Agent",
-      "published_at": "2026-10-30T05:40:28+08:00"
-    },
-    {
-      "title_en": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-      "title_zh": "在 Raspberry Pi Pico 2 W 上运行游戏的微型世界模型",
-      "summary_zh": "文章网址：https://github.com/SheepSeb/tinyworldformer 评论网址：https://news.ycombinator.com/item?id=50295450 积分：117 # 评论：8",
-      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
-      "url": "https://github.com/SheepSeb/tinyworldformer",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "多模态与视频生成",
-      "published_at": "2026-10-30T04:32:28+08:00"
-    },
-    {
-      "title_en": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-      "title_zh": "Palantir 前高管从 a16z 获得 1700 万美元推出 Dream，以构建用于建筑的人工智能世界模型",
-      "summary_zh": "梦想植根于真实的物理和建筑标准。正如法学硕士从文本中学习一样，Dream 的世界模型是根据从美国各地许可证档案中收集的超过 1 亿平方英尺的建筑数据进行训练的。",
-      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
-      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-      "source": "TechCrunch AI",
+      "title_en": "The biggest names in AI are backing a new way to opt out of scraping",
+      "title_zh": "人工智能领域的知名人士正在支持一种选择退出抓取的新方式",
+      "summary_zh": "正如搜索引擎圆桌会议早些时候报道的那样，OpenAI、谷歌、微软和 Anthropic 表示，他们将采用一项新标准，出版商可以使用该标准来选择不被人工智能抓取。通过这种控制，出版商可以将他们的人工智能培训偏好应用于多个人工智能公司，而不是单独设置。共享的“政策令牌”信号[...]",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "source": "The Verge AI",
       "source_type": "media",
-      "category": "多模态与视频生成",
-      "published_at": "2026-10-30T00:21:00+08:00"
+      "category": "行业与研究",
+      "published_at": "2026-10-31T06:04:23+08:00"
     },
     {
-      "title_en": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "title_zh": "走进全方位：开发人员如何利用前沿人工智能代理将想法转化为模拟",
-      "summary_zh": "将模拟想法转变为可行的应用程序意味着组装资源、连接物理和渲染，并检查场景是否按预期运行。开发人员正在将前沿 AI 模型与 NVIDIA Omniverse 库相结合，以帮助完成这项工作——构建用于探索场景、调查故障和改进设计的应用程序。开发人员通过 [...] 指导人工智能代理",
+      "title_en": "Last-minute Halloween costumes for tech nerds",
+      "title_zh": "科技迷们最后一刻的万圣节服装",
+      "summary_zh": "没有万圣节服装吗？只是一个看似可爱的 AI 代理图标、一个 PHP 漏洞或昏昏欲睡的 Bryan Johnson。",
       "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-      "source": "NVIDIA Blog",
-      "source_type": "official",
-      "category": "AI Agent",
-      "published_at": "2026-10-30T00:00:35+08:00"
-    },
-    {
-      "title_en": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-      "title_zh": "推出 HN：Simantic (YC F26) – AI 代理的固件模拟",
-      "summary_zh": "您好，HN，我们是来自 Simantic ( https://simantic.com ) 的 Ahnaf 和 Seungmin。我们正在构建模拟层，让工程师和人工智能代理无需硬件即可测试和验证固件。在加入 Simantic 之前，我们曾是 Neuralink 和 Tesla 等公司的固件工程师。我们曾参与过一些最酷的项目，例如 Cyber​​truck 和 Roadster，当时它们还是早期原型。当 ChatGPT 还不存在时，我们就开始研究固件，但多年来，我们看到随着前沿模型的改进，有多少工程和开发工作已经实现了自动化。在软件方面，人工智能可以运行和测试内部代码",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://news.ycombinator.com/item?id=50291116",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "AI Agent",
-      "published_at": "2026-10-29T23:56:32+08:00"
-    },
-    {
-      "title_en": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-      "title_zh": "Wabi，构建迷你应用程序的人工智能代理，最新一轮融资后估值现为 $1.25B",
-      "summary_zh": "周四，人工智能应用程序 Wabi（现在将自己描述为“个人代理”）表示，它已筹集 5500 万美元，估值为 12.5 亿美元。",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
       "source": "TechCrunch AI",
       "source_type": "media",
       "category": "AI Agent",
-      "published_at": "2026-10-29T22:35:26+08:00"
+      "published_at": "2026-10-31T05:26:59+08:00"
     },
     {
-      "title_en": "Anthropic is asking Wall Street to believe in AGI",
-      "title_zh": "Anthropic 要求华尔街相信 AGI",
-      "summary_zh": "今天在 Decoder 上，芯片和人工智能研究公司 SemiAnalysis 的分析师乔伊·布鲁克哈特 (Joey Brookhart) 与我一起，帮助我深入了解 Anthropic IPO 文件（一份称为 S-1 的文件）数据中的故事。 Anthropic 刚刚提交了 S-1 在纳斯达克上市，它可能会开始 [...]",
+      "title_en": "Google&#8217;s satellite AI server transmits its first response to Earth",
+      "title_zh": "谷歌的卫星人工智能服务器向地球传输第一个响应",
+      "summary_zh": "谷歌配备人工智能芯片的卫星首次从太空发出响应。在周五的一篇博文中，谷歌表示，它成功启动了卫星的张量处理单元 (TPU)，允许星载 Gemma 4 模型按照提示创建一首关于太空的俳句：下面的蓝色大理石数据流在 [...]",
       "why_it_matters": "关注本地运行能力，以及延迟、隐私、能耗和硬件成本之间的取舍。",
-      "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
       "source": "The Verge AI",
       "source_type": "media",
       "category": "端侧 AI 与硬件",
-      "published_at": "2026-10-29T21:47:56+08:00"
+      "published_at": "2026-10-31T02:21:38+08:00"
     },
     {
-      "title_en": "The Download: AI agent tracking and climate feedback loops",
-      "title_zh": "下载：人工智能代理跟踪和气候反馈循环",
-      "summary_zh": "这是今天版本的《下载》，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。观点：我们迫切需要实时监控 AI 代理的行为——来自 Partnership on AI 的 Madhulika Srikumar 和 Claire Leibowicz，这是一家致力于推进 AI 治理最佳实践的非营利组织。人工智能…",
+      "title_en": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "title_zh": "Zest 的新 AI 代理可以通过短信查找餐厅和预订",
+      "summary_zh": "无法就去哪里吃饭达成一致？ Zest 的人工智能礼宾服务可以结合每个人的口味，对餐厅选项进行投票并进行预订。",
       "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-      "source": "MIT Technology Review",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "source": "TechCrunch AI",
       "source_type": "media",
       "category": "AI Agent",
-      "published_at": "2026-10-29T20:10:00+08:00"
+      "published_at": "2026-10-31T01:47:12+08:00"
     },
     {
-      "title_en": "Akai is embracing vibe-coded mods with an open-source MPC",
-      "title_zh": "Akai 正在采用带有开源 MPC 的 vivi 编码模组",
-      "summary_zh": "MPC 示例密钥尚未正式公布，但 Akai 已经展示了改装社区正在通过氛围编码打造的内容。 Akai 决定拥抱黑客和定制固件开发人员的爆炸式增长，让他们尽早访问该设备，该设备将具有开源固件。它可能会运行[...]",
-      "why_it_matters": "关注它对开发效率、代码质量、测试能力和软件开发流程的实际影响。",
-      "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
-      "source": "The Verge AI",
+      "title_en": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+      "title_zh": "Show HN: Sketch Stadium – 观看你的经纪人玩Pictionary",
+      "summary_zh": "tl;dr：特工可以玩Pictionary。您可以连接自己的代理，或者只是在这里观看正在进行的游戏：https://sketch.wakeshift.ai/games/q5ucru 大家好！我最初将其构建为向人工智能代理发送推送通知的概念验证。观看特工们一起玩Pictionary 非常引人注目，所以我想我应该将其作为一个独立的演示来提供。在 Sketch Stadium 中，您的代理订阅游戏事件。特工们轮流绘画或猜测。简单的线索得 1 分，中等的线索得 2 分，困难的线索得 3 分。观看起来很有趣，有些图画令人印象深刻（而另一些则糟糕得令人难以置信）。这才是真正的操作",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://sketch.wakeshift.ai/games/q5ucru",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "AI Agent",
+      "published_at": "2026-10-30T23:23:11+08:00"
+    },
+    {
+      "title_en": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "title_zh": "夜间发出蜂鸣声的东西：智能人工智能加入寻找外星信号的行列",
+      "summary_zh": "虽然科幻小说的传说告诉我们，人类将以小绿人的形式遇到外星生命，但今年万圣节应该令人毛骨悚然的细节是这样的：对外星智慧生命的搜索在人工智能方面取得了重大飞跃，并且越来越关注由人类构建的人工智能代理，以监听人工智能代理的声音 […]",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+      "source": "NVIDIA Blog",
+      "source_type": "official",
+      "category": "AI Agent",
+      "published_at": "2026-10-30T23:00:10+08:00"
+    },
+    {
+      "title_en": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "title_zh": "DoorDash 表示，它只收到了来自人工智能代理的“数百个”订单",
+      "summary_zh": "DoorDash 表示，它愿意与第三方代理制造商合作。",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "source": "TechCrunch AI",
       "source_type": "media",
-      "category": "AI Coding",
-      "published_at": "2026-10-29T05:34:04+08:00"
+      "category": "AI Agent",
+      "published_at": "2026-10-30T21:54:25+08:00"
+    },
+    {
+      "title_en": "Making it easier for websites to express AI training preferences",
+      "title_zh": "让网站更容易表达人工智能训练偏好",
+      "summary_zh": "OpenAI 将尊重共享的 robots.txt 信号，以帮助网站运营商向参与的提供商传达他们的 AI 培训偏好。",
+      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "source": "OpenAI",
+      "source_type": "official",
+      "category": "AI 具身智能",
+      "published_at": "2026-10-30T17:30:00+08:00"
     },
     {
       "title_en": "Build specialized multimodal models with LFM3",
@@ -171,6 +149,17 @@
       "source_type": "official",
       "category": "多模态与视频生成",
       "published_at": "2026-10-28T01:16:52+08:00"
+    },
+    {
+      "title_en": "Genie 4: A new generation of world simulation",
+      "title_zh": "精灵4：新一代世界模拟",
+      "summary_zh": "Genie 4：我们的新世界模型在实时模拟中解锁了前所未有的真实感。",
+      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "source": "Google DeepMind",
+      "source_type": "official",
+      "category": "多模态与视频生成",
+      "published_at": "2026-10-28T00:01:38+08:00"
     },
     {
       "title_en": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
@@ -193,17 +182,6 @@
       "source_type": "official",
       "category": "AI 具身智能",
       "published_at": "2026-10-22T13:00:23+08:00"
-    },
-    {
-      "title_en": "How 3 Java Champions are using GitHub Copilot for increased productivity",
-      "title_zh": "3 位 Java Champion 如何使用 GitHub Copilot 提高工作效率",
-      "summary_zh": "三位 Java 冠军分享了他们如何使用 GitHub Copilot 解决问题、加速开发以及让人们对结果负责。这篇文章《3 个 Java Champion 如何使用 GitHub Copilot 提高生产力》首先出现在 GitHub 博客上。",
-      "why_it_matters": "关注它对开发效率、代码质量、测试能力和软件开发流程的实际影响。",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
-      "source": "GitHub Blog",
-      "source_type": "official",
-      "category": "AI Coding",
-      "published_at": "2026-10-21T00:05:03+08:00"
     }
   ],
   "source_count": 12,
