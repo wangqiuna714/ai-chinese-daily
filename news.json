@@ -1,132 +1,77 @@
 {
-  "updated_at": "2026-11-01T09:29:25.749370+08:00",
-  "daily_summary_zh": "今日共采集 17 条近 10 天资讯。赛道分布：AI Agent 5 条；行业与研究 5 条；多模态与视频生成 3 条；AI 具身智能 2 条；端侧 AI 与硬件 2 条。优先浏览：当电动汽车是女性的专利时；阿尔托兹项目；Memdoor：由 5 个 Qwen3.8-27B 模型组成的团队在 LiveCodeBench Hard 上击败了《神鬼寓言 5》。本总结依据新闻标题、来源和分类自动整理，不代表对新闻事实或技术效果的独立验证；重要结论请查看原文。",
+  "updated_at": "2026-11-02T09:29:05.673613+08:00",
+  "daily_summary_zh": "今日共采集 13 条近 10 天资讯。赛道分布：AI Agent 5 条；行业与研究 5 条；AI 具身智能 1 条；多模态与视频生成 1 条；端侧 AI 与硬件 1 条。优先浏览：美国数据中心：10,000 条市议会评论；阿波罗经济学家表示，人工智能为大多数公司带来“零财务回报”；OpenAI 可能会将其数据中心重新命名为“AI 计算园区”。本总结依据新闻标题、来源和分类自动整理，不代表对新闻事实或技术效果的独立验证；重要结论请查看原文。",
   "takeaways_zh": [
     "今日采集较多的方向：AI Agent（5 条）。",
     "今日采集较多的方向：行业与研究（5 条）。",
-    "今日采集较多的方向：多模态与视频生成（3 条）。"
+    "今日采集较多的方向：AI 具身智能（1 条）。"
   ],
   "news": [
     {
-      "title_en": "When electric cars were for women",
-      "title_zh": "当电动汽车是女性的专利时",
-      "summary_zh": "文章网址：https://spectrum.ieee.org/early-electric-vehicles 评论网址：https://news.ycombinator.com/item?id=50321130 积分：24 # 评论：3",
+      "title_en": "America on Data Centers: 10k city council comments",
+      "title_zh": "美国数据中心：10,000 条市议会评论",
+      "summary_zh": "文章网址：https://www.americansentiment.com/datacenters 评论网址：https://news.ycombinator.com/item?id=50331404 积分：10 # 评论：6",
       "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://spectrum.ieee.org/early-electric-vehicles",
+      "url": "https://www.americansentiment.com/datacenters",
       "source": "Hacker News",
       "source_type": "community",
       "category": "行业与研究",
-      "published_at": "2026-11-01T07:08:12+08:00"
+      "published_at": "2026-11-02T08:17:33+08:00"
     },
     {
-      "title_en": "Altoids Project",
-      "title_zh": "阿尔托兹项目",
-      "summary_zh": "文章网址：https://uvdn7.github.io/altoids-project/ 评论网址：https://news.ycombinator.com/item?id=50321048 积分：29 # 评论：0",
+      "title_en": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "title_zh": "阿波罗经济学家表示，人工智能为大多数公司带来“零财务回报”",
+      "summary_zh": "文章网址：https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ 评论网址：https://news.ycombinator.com/item?id=50330456 积分：150 # 评论：126",
       "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://uvdn7.github.io/altoids-project/",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
       "source": "Hacker News",
       "source_type": "community",
       "category": "行业与研究",
-      "published_at": "2026-11-01T06:54:55+08:00"
+      "published_at": "2026-11-02T06:10:45+08:00"
     },
     {
-      "title_en": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "title_zh": "Memdoor：由 5 个 Qwen3.8-27B 模型组成的团队在 LiveCodeBench Hard 上击败了《神鬼寓言 5》",
-      "summary_zh": "文章网址：https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve 评论网址：https://news.ycombinator.com/item?id=50320995 积分：62 # 评论：33",
+      "title_en": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "title_zh": "OpenAI 可能会将其数据中心重新命名为“AI 计算园区”",
+      "summary_zh": "数据中心非常不受欢迎。但如果我们用别的名字来称呼它们呢？",
       "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "source": "Hacker News",
-      "source_type": "community",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
       "category": "行业与研究",
-      "published_at": "2026-11-01T06:46:12+08:00"
+      "published_at": "2026-11-02T05:55:23+08:00"
     },
     {
-      "title_en": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "title_zh": "一位意大利农民在他的阁楼里发现了一些不知名的种子并把它们种下了",
-      "summary_zh": "文章网址：https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ 评论网址：https://news.ycombinator.com/item?id=50320963 积分：117 # 评论：41",
+      "title_en": "Game Off 2026: The theme is SHIFT",
+      "title_zh": "2026 年比赛结束：主题是 SHIFT",
+      "summary_zh": "GitHub 一年一度的为期一个月的游戏盛典又回来了，今年已经是第 14 届了！今年 11 月，制作一款以 SHIFT 为主题的游戏。改变齿轮、交换视角、扭曲现实，或者只是按下某个键。帖子 Game Off 2026：主题是 SHIFT 首先出现在 GitHub 博客上。",
       "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "source": "Hacker News",
-      "source_type": "community",
+      "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+      "source": "GitHub Blog",
+      "source_type": "official",
       "category": "行业与研究",
-      "published_at": "2026-11-01T06:41:06+08:00"
+      "published_at": "2026-11-02T05:36:00+08:00"
     },
     {
-      "title_en": "AI text watermarking and quality loss",
-      "title_zh": "AI文本水印和质量损失",
-      "summary_zh": "文章网址：https://blog.keyvan.net/p/ai-text-watermarking-and-quality 评论网址：https://news.ycombinator.com/item?id=50320599 积分：14 # 评论：1",
+      "title_en": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "title_zh": "人工智能可以让科技首席执行官的生活变得更轻松。其他人呢？",
+      "summary_zh": "在股票方面，我们讨论了为什么科技公司首席执行官的声明看起来如此充耳不闻。",
       "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-      "source": "Hacker News",
-      "source_type": "community",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
       "category": "行业与研究",
-      "published_at": "2026-11-01T05:50:13+08:00"
+      "published_at": "2026-11-02T04:57:58+08:00"
     },
     {
-      "title_en": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
-      "title_zh": "LRMoE：需求侧负载重新校准，以在内存受限节点上进行高效 MoE 训练",
-      "summary_zh": "arXiv:2610.37720v1 发布类型：新 摘要：稀疏专家混合 (MoE) 模型为 Web 应用程序提供可扩展的容量，但不均匀的路由会造成计算和通信瓶颈。现有的放置和复制方法会重新分配此工作负载，但额外的专家副本会与令牌相关的缓冲区竞争有限的 GPU 内存。我们提出了 LRMoE，这是一种内存感知的 MoE 培训系统，可以联合重新校准向后需求并平衡保留的工作负载。在正向执行期间，它会在资源限制下规划保留配额和专家放置，同时保留所有路由计算。在反向传播期间",
-      "why_it_matters": "关注本地运行能力，以及延迟、隐私、能耗和硬件成本之间的取舍。",
-      "url": "https://arxiv.org/abs/2610.37720",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "端侧 AI 与硬件",
-      "published_at": "2026-10-31T12:00:00+08:00"
-    },
-    {
-      "title_en": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
-      "title_zh": "OpenFrontiers：开放研究问题的集合和科学重新发现的基准",
-      "summary_zh": "arXiv:2610.37739v1 公告类型：新 摘要：大型语言模型 (LLM) 在解决研究级问题方面显示出越来越大的前景，但仍然缺少此类问题的全面收集，并且在研究级问题上评估它们仍然具有挑战性。我们介绍 OpenFrontiers，这是一个跨学科资源，它将开放研究问题的结构化语料库与最近解决的数学问题的回顾性基准相结合。该语料库记录了 12,151 个问题的问题陈述、背景、进度和其他信息。该基准测试包含 200 个问题，其中 110 个将于 2026 年解决，90 个仍悬而未决，",
+      "title_en": "Last-minute Halloween costumes for tech nerds",
+      "title_zh": "科技迷们最后一刻的万圣节服装",
+      "summary_zh": "没有万圣节服装吗？只是一个看似可爱的 AI 代理图标、一个 PHP 漏洞或昏昏欲睡的 Bryan Johnson。",
       "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://arxiv.org/abs/2610.37739",
-      "source": "arXiv AI",
-      "source_type": "research",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
       "category": "AI Agent",
-      "published_at": "2026-10-31T12:00:00+08:00"
-    },
-    {
-      "title_en": "WebAnything: From the Wild Web to Scalable Agent Environments",
-      "title_zh": "WebAnything：从狂野的网络到可扩展的代理环境",
-      "summary_zh": "arXiv:2610.37786v1 公告类型：新 摘要：Web 代理需要多样化、可执行且可重置的网站环境来进行可重复的培训和评估。人工辅助镜像需要针对每个站点进行工程设计，而生成式构建可能与指定的真实网站有所不同。捕获和重放保留了观察结果，交互范围受到捕获的内容和重放功能的限制。我们推出了 WebAnything，这是一个完全自动化的框架，它可以从真实的 URL 重建基于源代码的、可重用的 Web 环境，无需在初始设置和授权后针对每个站点进行手动实施或修复。探索者建造者",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://arxiv.org/abs/2610.37786",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "AI Agent",
-      "published_at": "2026-10-31T12:00:00+08:00"
-    },
-    {
-      "title_en": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
-      "title_zh": "本体抓住什么？策划、LLM 生成和数据衍生的本体作为知识图谱上 LLM 代理的检查器",
-      "summary_zh": "arXiv:2610.37809v1 公告类型：新 摘要：通过网络知识图回答问题的 LLM 代理越来越多地包含在从图本体派生的检查中，假设形式模式可以做出可靠的判断。然而，检查器也可能是错误的：它可能会错过错误，并且它可以标记正确的答案并推动代理“修复”它们。作为这样的法官，精心策划的本体是否值得付出代价，以及它如何与法学硕士编写的本体或从数据中挖掘的模式进行比较，都是未知的。我们把检查器本身作为研究对象。跨越策划的、法学硕士生成的和数据派生的本体，用作提示con",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://arxiv.org/abs/2610.37809",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "AI Agent",
-      "published_at": "2026-10-31T12:00:00+08:00"
-    },
-    {
-      "title_en": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
-      "title_zh": "测量代理智能合约综合中意图丢失的位置",
-      "summary_zh": "arXiv:2610.37830v1 公告类型：新 摘要：人工智能代理现在可以根据简单的英语描述编写软件，但运行的代码与执行要求的代码不同。这一差距对于智能合约来说最为重要，智能合约是 Web3 应用程序背后的程序，在区块链上转移资金，一旦部署就无法修复。我们询问如何检查人工智能编写的合约是否按其应有的方式运行，以及所请求的行为在哪里丢失。我们设计的评估基于执行而不是意见。我们在人工智能编写的合同上重播相同的交易，并且在原始合同上它应该重现并衡量他们同意的频率。我们特",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://arxiv.org/abs/2610.37830",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "AI Agent",
-      "published_at": "2026-10-31T12:00:00+08:00"
-    },
-    {
-      "title_en": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
-      "title_zh": "通过合作伙伴与外部人的积极倾听来检测人工智能代理之间的秘密勾结",
-      "summary_zh": "arXiv:2610.37849v1 公告类型：新摘要：共享秘密约定的人工智能代理可以通过看起来无辜的消息进行协调，因此只读取消息的监视器可能会错过它们。我们提出了一种行为测试：使用代码的合作伙伴会对消息的确切措辞做出反应，而坐在其座位上的未参与的代理则不会。合作伙伴——局外人积极倾听（PoPLi）是两个代理之间的差异，即当消息被改写并保留其含义时，他们的行为发生了多少变化，并且是在事后通过重播记录的提示来计算的。在具有五个条件的模拟市场中（无串通，a j",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://arxiv.org/abs/2610.37849",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "AI Agent",
-      "published_at": "2026-10-31T12:00:00+08:00"
+      "published_at": "2026-10-31T05:26:59+08:00"
     },
     {
       "title_en": "Google&#8217;s satellite AI server transmits its first response to Earth",
@@ -140,6 +85,39 @@
       "published_at": "2026-10-31T02:21:38+08:00"
     },
     {
+      "title_en": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "title_zh": "Zest 的新 AI 代理可以通过短信查找餐厅和预订",
+      "summary_zh": "无法就去哪里吃饭达成一致？ Zest 的人工智能礼宾服务可以结合每个人的口味，对餐厅选项进行投票并进行预订。",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
+      "category": "AI Agent",
+      "published_at": "2026-10-31T01:47:12+08:00"
+    },
+    {
+      "title_en": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "title_zh": "夜间发出蜂鸣声的事物：智能人工智能加入寻找外星信号的行列",
+      "summary_zh": "虽然科幻小说的传说告诉我们，人类将以小绿人的形式遇到外星生命，但今年万圣节应该令人毛骨悚然的细节是这样的：对外星智慧生命的搜索在人工智能方面取得了重大飞跃，并且越来越关注由人类构建的人工智能代理，以监听人工智能代理的声音 […]",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+      "source": "NVIDIA Blog",
+      "source_type": "official",
+      "category": "AI Agent",
+      "published_at": "2026-10-30T23:00:10+08:00"
+    },
+    {
+      "title_en": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "title_zh": "DoorDash 表示，它只收到了来自人工智能代理的“数百个”订单",
+      "summary_zh": "DoorDash 表示，它愿意与第三方代理制造商合作。",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
+      "category": "AI Agent",
+      "published_at": "2026-10-30T21:54:25+08:00"
+    },
+    {
       "title_en": "Making it easier for websites to express AI training preferences",
       "title_zh": "让网站更容易表达人工智能训练偏好",
       "summary_zh": "OpenAI 将尊重共享的 robots.txt 信号，以帮助网站运营商向参与的提供商传达他们的 AI 培训偏好。",
@@ -151,6 +129,17 @@
       "published_at": "2026-10-30T17:30:00+08:00"
     },
     {
+      "title_en": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "title_zh": "走进全方位：开发人员如何利用前沿人工智能代理将想法转化为模拟",
+      "summary_zh": "将模拟想法转变为可行的应用程序意味着组装资源、连接物理和渲染，并检查场景是否按预期运行。开发人员正在将前沿 AI 模型与 NVIDIA Omniverse 库相结合，以帮助完成这项工作——构建用于探索场景、调查故障和改进设计的应用程序。开发人员通过 [...] 指导人工智能代理",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "source": "NVIDIA Blog",
+      "source_type": "official",
+      "category": "AI Agent",
+      "published_at": "2026-10-30T00:00:35+08:00"
+    },
+    {
       "title_en": "Build specialized multimodal models with LFM3",
       "title_zh": "使用 LFM3 构建专门的多模式模型",
       "summary_zh": "该来源未提供摘要；请点击“阅读原文”查看详情。",
@@ -160,39 +149,6 @@
       "source_type": "official",
       "category": "多模态与视频生成",
       "published_at": "2026-10-28T01:16:52+08:00"
-    },
-    {
-      "title_en": "Genie 4: A new generation of world simulation",
-      "title_zh": "精灵4：新一代世界模拟",
-      "summary_zh": "Genie 4：我们的新世界模型在实时模拟中解锁了前所未有的真实感。",
-      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "source": "Google DeepMind",
-      "source_type": "official",
-      "category": "多模态与视频生成",
-      "published_at": "2026-10-28T00:01:38+08:00"
-    },
-    {
-      "title_en": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
-      "title_zh": "NVIDIA Cosmos 开放新工具来训练、评估和部署世界模型",
-      "summary_zh": "为了帮助开发人员快速构建世界模型，从而帮助物理 AI 系统理解和模拟现实世界，NVIDIA 通过新的训练工具、模拟检查点和 Cosmos 数据工厂蓝图扩展了 Cosmos 平台。 NVIDIA Cosmos 平台在六个不同的开放模型排行榜上排名前五，为世界模型构建者提供了前沿开放 [...]",
-      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
-      "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
-      "source": "NVIDIA Blog",
-      "source_type": "official",
-      "category": "多模态与视频生成",
-      "published_at": "2026-10-22T13:00:27+08:00"
-    },
-    {
-      "title_en": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
-      "title_zh": "NVIDIA 实现欧洲零售业转型，从数字发现到实体运营",
-      "summary_zh": "欧洲零售商正在跨用例使用开放模型和物理智能——从将推理成本削减 90% 的商务平台到在数字孪生内模拟不同机器人车队协作的履行中心。开放模型的前沿成果欧洲各地的零售领导者和技术公司正在使用 NVIDIA 加速的开放 [...]",
-      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
-      "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
-      "source": "NVIDIA Blog",
-      "source_type": "official",
-      "category": "AI 具身智能",
-      "published_at": "2026-10-22T13:00:23+08:00"
     }
   ],
   "source_count": 12,
