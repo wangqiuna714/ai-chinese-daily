@@ -1,12 +1,122 @@
 {
-  "updated_at": "2026-11-03T09:28:32.069275+08:00",
-  "daily_summary_zh": "今日共采集 24 条近 10 天资讯。赛道分布：AI Agent 5 条；AI 具身智能 5 条；多模态与视频生成 5 条；行业与研究 5 条；端侧 AI 与硬件 3 条。优先浏览：Y Combinator的Garry Tan使用人工智能代理太多，他每年在代币上花费高达20万美元$；问HN ：有人与克利夫兰地区的火腿俱乐部有联系吗？；英特尔股价崩盘因$ 3.5T芯片路由价差而恶化。本总结依据新闻标题、来源和分类自动整理，不代表对新闻事实或技术效果的独立验证；重要结论请查看原文。",
+  "updated_at": "2026-11-04T09:27:09.439850+08:00",
+  "daily_summary_zh": "今日共采集 18 条近 10 天资讯。赛道分布：AI Agent 5 条；行业与研究 5 条；AI 具身智能 3 条；多模态与视频生成 3 条；AI Coding 2 条。优先浏览：PC游戏中最大的改装网站正在对人工智能采取立场；请不要再问我AI泡沫什么时候会弹出；2026年中期选举：所有新闻。本总结依据新闻标题、来源和分类自动整理，不代表对新闻事实或技术效果的独立验证；重要结论请查看原文。",
   "takeaways_zh": [
     "今日采集较多的方向：AI Agent（5 条）。",
-    "今日采集较多的方向：AI 具身智能（5 条）。",
-    "今日采集较多的方向：多模态与视频生成（5 条）。"
+    "今日采集较多的方向：行业与研究（5 条）。",
+    "今日采集较多的方向：AI 具身智能（3 条）。"
   ],
   "news": [
+    {
+      "title_en": "The biggest modding site in PC gaming is taking a stance on AI",
+      "title_zh": "PC游戏中最大的改装网站正在对人工智能采取立场",
+      "summary_zh": "PC游戏模组存储库Nexus Mods今天宣布，上传新模组时必须披露有关人工智能的信息，这意味着模组作者将不得不声明“人工智能是否已被用于他们的工作” ，该网站今天宣布，这是关于平台上人工智能生成内容的大型帖子的一部分。“最一致的[…]",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "source": "The Verge AI",
+      "source_type": "media",
+      "category": "行业与研究",
+      "published_at": "2026-11-04T08:42:54+08:00"
+    },
+    {
+      "title_en": "Please stop asking me when the AI bubble will pop",
+      "title_zh": "请不要再问我AI泡沫什么时候会弹出",
+      "summary_zh": "包括这个员工在内的人们一直在不同程度上兴奋或恐惧地问我，人工智能泡沫什么时候会破裂。我会告诉你我告诉他们的：如果我知道这一点，我会在市场上做出改变生活的赌注，尽可能地提高杠杆，然后，在我赚钱之后， […]",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "source": "The Verge AI",
+      "source_type": "media",
+      "category": "行业与研究",
+      "published_at": "2026-11-04T07:37:45+08:00"
+    },
+    {
+      "title_en": "Midterm elections 2026: all the news",
+      "title_zh": "2026年中期选举：所有新闻",
+      "summary_zh": "2026年的中期选举将决定唐纳德·特朗普总统在任的最后两年的权力范围，并表明选民对2028年总统大选的关注程度。虽然今年的比赛预计将由可负担性问题最广泛地定义，但影响科技行业的几个话题[…]",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
+      "source": "The Verge AI",
+      "source_type": "media",
+      "category": "行业与研究",
+      "published_at": "2026-11-04T07:06:21+08:00"
+    },
+    {
+      "title_en": "Anthropic is working on a system to prove AI models’ identity",
+      "title_zh": "Anthropic正在开发一个系统来证明人工智能模型的身份",
+      "summary_zh": "这个名为FlashProve的系统可以让任何人检查AI响应是否真正来自它声称的模型。",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
+      "category": "行业与研究",
+      "published_at": "2026-11-04T06:41:03+08:00"
+    },
+    {
+      "title_en": "Data centers are turning to old jet engines as the wait for power grows",
+      "title_zh": "随着等待动力的增加，数据中心正在转向旧的喷气发动机",
+      "summary_zh": "对接入电网和新涡轮机的长时间等待导致数据中心建设者转向一种不寻常、效率较低且不太环保的解决方案：一次性废弃的喷气发动机。",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
+      "category": "行业与研究",
+      "published_at": "2026-11-04T06:19:53+08:00"
+    },
+    {
+      "title_en": "Stringman, an $800 open-source room scale gripper robot",
+      "title_zh": "Stringman ，一个$ 800的开源房间比例抓手机器人",
+      "summary_zh": "文章网址： https://neufangled.com/评论网址： https://news.ycombinator.com/item?id=50354358点数： 370 #评论： 141",
+      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
+      "url": "https://neufangled.com/",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "AI 具身智能",
+      "published_at": "2026-11-04T00:47:29+08:00"
+    },
+    {
+      "title_en": "Arnis turns any place on Earth into a Minecraft world",
+      "title_zh": "阿尼斯将地球上的任何地方变成了我的世界",
+      "summary_zh": "Louis Erbkamm在业余时间建造了第一个原型。现在， GitHub Copilot帮助他单独维护它。Arnis将地球上任何地方变成Minecraft世界的文章首先出现在GitHub博客上。",
+      "why_it_matters": "关注它对开发效率、代码质量、测试能力和软件开发流程的实际影响。",
+      "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
+      "source": "GitHub Blog",
+      "source_type": "official",
+      "category": "AI Coding",
+      "published_at": "2026-11-04T00:00:00+08:00"
+    },
+    {
+      "title_en": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+      "title_zh": "下载：控制人工智能代理和“超级智能”忠诚度测试",
+      "summary_zh": "这是今天的The Download版本，我们的工作日时事通讯，提供有关技术世界每日发生的事情的信息。“反向博弈论”如何让AI智能体受到控制一种被称为“反向博弈论”的新方法旨在通过设计激励他们……的系统来控制强大的AI模型",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+      "source": "MIT Technology Review",
+      "source_type": "media",
+      "category": "AI Agent",
+      "published_at": "2026-11-03T21:10:00+08:00"
+    },
+    {
+      "title_en": "How “reverse game theory” could keep AI agents in check",
+      "title_zh": "“反向博弈论”如何控制AI智能体",
+      "summary_zh": "一种被称为“反向博弈论”的新方法旨在通过设计激励他们遵守规则的系统来控制强大的人工智能模型。随着人工智能模型变得越来越强大，安全研究人员正在争先恐后地确保它们与人类的欲望“保持一致” --换句话说，确保流氓特工不会违法， ……",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "source": "MIT Technology Review",
+      "source_type": "media",
+      "category": "AI Agent",
+      "published_at": "2026-11-03T18:43:41+08:00"
+    },
+    {
+      "title_en": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+      "title_zh": "全球城市通过NVIDIA物理和Agent AI构建和扩展AI服务",
+      "summary_zh": "城市从摄像头、传感器和运营系统产生大量数据，但将其转化为有用的行动--用于规划、维护和公共服务--仍然是一个挑战。物理和代理人工智能提供了缩小这一差距的新方法，从基础设施规划的数字孪生到视觉和服务代理，同时保持地方政府[…]",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+      "source": "NVIDIA Blog",
+      "source_type": "official",
+      "category": "AI Agent",
+      "published_at": "2026-11-03T15:00:12+08:00"
+    },
     {
       "title_en": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
       "title_zh": "Y Combinator的Garry Tan使用人工智能代理太多，他每年在代币上花费高达20万美元$",
@@ -17,83 +127,6 @@
       "source_type": "media",
       "category": "AI Agent",
       "published_at": "2026-11-03T08:35:52+08:00"
-    },
-    {
-      "title_en": "Ask HN: Does anyone have a contact with Cleveland-area Ham club?",
-      "title_zh": "问HN ：有人与克利夫兰地区的火腿俱乐部有联系吗？",
-      "summary_zh": "我填写了Cuyahoga业余无线电俱乐部的网络表格，但它可能是循环归档的……我提供了一些关于大量无线电设备的信息，这些设备需要从家中取出，否则将被放入垃圾桶。很多都是全新的。如果您认识俱乐部的任何人，请告诉他们检查收到他们网络表单输入的内容。评论网址： https://news.ycombinator.com/item?id=50346164积分： 13 #评论： 1",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://news.ycombinator.com/item?id=50346164",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "行业与研究",
-      "published_at": "2026-11-03T08:09:36+08:00"
-    },
-    {
-      "title_en": "Intel stock collapse worsens as $3.5T chip rout spreads",
-      "title_zh": "英特尔股价崩盘因$ 3.5T芯片路由价差而恶化",
-      "summary_zh": "文章网址： https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html评论网址： https://news.ycombinator.com/item?id=50346153点数： 39 #评论： 12",
-      "why_it_matters": "关注本地运行能力，以及延迟、隐私、能耗和硬件成本之间的取舍。",
-      "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "端侧 AI 与硬件",
-      "published_at": "2026-11-03T08:08:53+08:00"
-    },
-    {
-      "title_en": "GUI64 – GUI for the Commodore 64 running on top of the built-in ROM",
-      "title_zh": "GUI64 –运行在内置ROM之上的Commodore 64的GUI",
-      "summary_zh": "文章网址： https://www.c64-wiki.com/wiki/GUI64评论网址： https://news.ycombinator.com/item?id=50345735点数： 4 #评论： 0",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://www.c64-wiki.com/wiki/GUI64",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "行业与研究",
-      "published_at": "2026-11-03T07:32:22+08:00"
-    },
-    {
-      "title_en": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-      "title_zh": "《纽约时报》起诉Brave网络浏览器进行人工智能抓取和绕过付费墙",
-      "summary_zh": "据路透社报道，《纽约时报》和其他一些出版物已经对该公司提起诉讼，该公司让Brave网络浏览器涉嫌非法抓取以训练人工智能，并允许用户绕过他们的付费墙。根据《纽约每日新闻》、《芝加哥论坛报》和",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-      "source": "The Verge AI",
-      "source_type": "media",
-      "category": "行业与研究",
-      "published_at": "2026-11-03T07:20:01+08:00"
-    },
-    {
-      "title_en": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "title_zh": "Trajectory筹集了$ 4500万，使非技术专家能够获得人工智能模型培训",
-      "summary_zh": "这家成立一年的初创公司现在的估值为3亿美元。",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "source": "TechCrunch AI",
-      "source_type": "media",
-      "category": "行业与研究",
-      "published_at": "2026-11-03T07:13:53+08:00"
-    },
-    {
-      "title_en": "Anthropic clamps down on Claude’s AI video game clones",
-      "title_zh": "Anthropic压制Claude的人工智能视频游戏克隆",
-      "summary_zh": "据Tom's Hardware报道， Anthropic已更新Claude Code的系统提示，以防止人工智能工具被用于重新创建现有视频游戏。复古游戏目前被人工智能制作的反编译、重新编译和端口所淹没，但尽管Anthropic仍将允许人们使用Claude Code制作游戏，但它不希望人们[…]",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "source": "The Verge AI",
-      "source_type": "media",
-      "category": "行业与研究",
-      "published_at": "2026-11-03T06:57:16+08:00"
-    },
-    {
-      "title_en": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-      "title_zh": "启动HN ： Momentic (YC W24) –使用应用程序捕获错误的代理",
-      "summary_zh": "嗨， HN ，我们是Wei-Wei和Jeff。我们正在构建Momentic质量保证代理，可在您的网络、iOS、Android和（即将推出的）桌面应用程序中自主规划、探索和bug-bash控件和用户流程，以发现bug。这里有一个演示： https://youtu.be/BFsM-Se1Fh8我们都是软件工程师，我们的职业生涯都是在Robinhood、Retool、WeWork和Qualtrics等公司的开发工具和基础设施上度过的。测试总是让人头疼（特别是剧作家和Sele",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://momentic.ai/",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "AI Agent",
-      "published_at": "2026-11-03T01:05:25+08:00"
     },
     {
       "title_en": "Raising the quality of insights in agentic analytics",
@@ -118,135 +151,25 @@
       "published_at": "2026-11-03T00:30:00+08:00"
     },
     {
-      "title_en": "Stop counting tokens, start counting what ships",
-      "title_zh": "停止计算代币，开始计算发货量",
-      "summary_zh": "当开发人员给AI代理一个编码任务时，代理会多次回答。它计划、生成代码、运行测试并重复该过程以更正错误。单个任务可以使用比基本聊天提示多10到50倍的令牌。客服代表越有用，呼叫就越多……",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-      "source": "MIT Technology Review",
-      "source_type": "media",
-      "category": "AI Agent",
-      "published_at": "2026-11-02T21:10:32+08:00"
-    },
-    {
-      "title_en": "The Download: the agentic web arrives and the drive for safer roads",
-      "title_zh": "下载：代理网络到来，驱动更安全的道路",
-      "summary_zh": "这是今天的The Download版本，我们的工作日时事通讯，提供有关技术世界每日发生的事情的信息。代理网络就在这里2001年，在发明万维网十年后，蒂姆·伯纳斯-李（ Tim Berners-Lee ）阐述了一个新的愿景：一个由自主软件代理导航的互联网，可以解决我们的……",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
-      "source": "MIT Technology Review",
-      "source_type": "media",
-      "category": "AI Agent",
-      "published_at": "2026-11-02T21:10:00+08:00"
-    },
-    {
-      "title_en": "WorldBridge: Bridging Video and Action for Task Generalization in World Action Models",
-      "title_zh": "WorldBridge ：为世界行动模型中的任务泛化搭建视频和行动的桥梁",
-      "summary_zh": "arXiv: 2610.40748v1公告类型：新摘要：在物理环境中实现具体化模型的广泛任务泛化仍然是机器人学习的核心挑战。我们通过两种互补的功能来研究世界动作模型（ WAM ）中的这一挑战：视频泛化，它预测新任务的视觉演变，以及动作泛化，它通过视频将这些预测转化为可执行行为",
-      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
-      "url": "https://arxiv.org/abs/2610.40748",
-      "source": "arXiv Robotics",
-      "source_type": "research",
-      "category": "AI 具身智能",
-      "published_at": "2026-11-02T13:00:00+08:00"
-    },
-    {
-      "title_en": "From Teleoperation to Long-Horizon Dexterity: Evaluating Visuomotor Skills and Offline Proxies for Dexterous Manipulation",
-      "title_zh": "从远程操作到长距离灵巧性：评估灵巧操纵的视觉运动技能和离线代理",
-      "summary_zh": "arXiv: 2610.40828v1公告类型：新摘要：模仿学习策略旨在使机器人操作对挑战预编程运动的对象姿势、外观和环境的变化具有鲁棒性。然而，现实世界的性能仍然难以预测，因为传统的优化信号（如验证损失）与机器人成功没有一致的关系。识别管理现实世界的设计选择",
+      "title_en": "Incongruence-Aware Evaluation of Multimodal Speech Emotion Recognition in Audio Large Language Models",
+      "title_zh": "音频大型语言模型中多模态语音情感识别的不一致感知评估",
+      "summary_zh": "arXiv: 2610.40883v1 Announce Type: new Abstract:语音交互式大型语言模型处理说话者所说的内容以及说话方式，但两种渠道并不总是一致。我们询问这种分歧是否会降低语音情感识别。将文本和音频映射到共享价-唤醒-优势空间中，我们将它们之间的距离转换为具有双分量高斯混合的连续无阈值不一致分数",
       "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
-      "url": "https://arxiv.org/abs/2610.40828",
-      "source": "arXiv Robotics",
+      "url": "https://arxiv.org/abs/2610.40883",
+      "source": "arXiv AI",
       "source_type": "research",
       "category": "多模态与视频生成",
       "published_at": "2026-11-02T13:00:00+08:00"
     },
     {
-      "title_en": "FlapSim: A Composable MuJoCo Simulation Platform and Reduced-Order Aerodynamic Model Hierarchy for Flapping-Wing Robotics",
-      "title_zh": "FlapSim ：用于扑翼机器人的可组合MuJoCo仿真平台和简化阶空气动力学模型层次结构",
-      "summary_zh": "arXiv: 2610.40902v1公告类型：新摘要：扑翼模拟必须将高频翼拍空气动力学与飞行控制和强化学习相关的较慢动力学相协调。我们提出了FlapSim ，这是一个模块化的开源MuJoCo模拟平台，它将机器人描述、机翼几何形状和可组合的空气动力学模型结合在一个确定性的模拟管道中。跨越$ 48 $的跨频率场景， gi",
+      "title_en": "FrontierMat: Benchmarking Language Models at the Frontier of Materials R&D",
+      "title_zh": "FrontierMat ：在材料研发前沿对标语言模型",
+      "summary_zh": "arXiv: 2610.41162v1公告类型：新摘要：为了加速材料发现，语言模型必须能够解决研究前沿的问题。然而，教科书和考试衍生的基准主要评估已建立的知识，使得前沿研究问题的表现在很大程度上未经测试。我们引入了FrontierMat ，这是从航空航天等领域的前沿学术和工业研究得出的330个问题的基准",
       "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
-      "url": "https://arxiv.org/abs/2610.40902",
-      "source": "arXiv Robotics",
+      "url": "https://arxiv.org/abs/2610.41162",
+      "source": "arXiv AI",
       "source_type": "research",
       "category": "AI 具身智能",
-      "published_at": "2026-11-02T13:00:00+08:00"
-    },
-    {
-      "title_en": "Confidence-Modulated Safety Filtering for End-to-End Policies",
-      "title_zh": "针对端到端策略的置信度调制安全过滤",
-      "summary_zh": "arXiv: 2610.40922v1 Announce Type: new Abstract:端到端策略，从任务特定的控制器到机器人基础模型，从原始观察中学习复杂的行为，但不能保证保持安全，因此它们通常被封装在安全过滤器中。生成的系统在两个域下运行：过滤器的运行设计域（ ODD ） ，其假设成立且安全得到认证，以及政策的权限域，其",
-      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
-      "url": "https://arxiv.org/abs/2610.40922",
-      "source": "arXiv Robotics",
-      "source_type": "research",
-      "category": "AI 具身智能",
-      "published_at": "2026-11-02T13:00:00+08:00"
-    },
-    {
-      "title_en": "STAR: Steering Action Representations during Inference",
-      "title_zh": "STAR ：推理过程中的转向动作表示",
-      "summary_zh": "arXiv: 2610.41009v1公告类型：新摘要：视觉-语言-行动模型（ VLA ）将语言指令和视觉观察映射到机器人动作，在机器人操作任务中显示出强大的能力。然而，在我们的探测实验中，我们发现动作输出附近的动作表示不能完全保留与任务相关的视觉基础。在后层接地间隙的激励下，我们引入了STAR ，用于转向动作",
-      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
-      "url": "https://arxiv.org/abs/2610.41009",
-      "source": "arXiv Robotics",
-      "source_type": "research",
-      "category": "多模态与视频生成",
-      "published_at": "2026-11-02T13:00:00+08:00"
-    },
-    {
-      "title_en": "Contact Imitation Interface: Transferring Dexterous Skills by Showing How Contact Unfolds",
-      "title_zh": "联系人模仿界面：通过展示联系人如何展开来传授灵巧技能",
-      "summary_zh": "arXiv: 2610.41028v1公告类型：新摘要：无机器人人类演示为扩展灵巧操作数据提供了一条有希望的途径。关键的挑战是保持演示者的自然灵活性，同时进行接触式观察和动作，并将其转移到机器人手中。我们介绍接触模拟界面（ CIMI ） ，这是一个具有接触式接地演示和学习界面的框架。演示界面",
-      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
-      "url": "https://arxiv.org/abs/2610.41028",
-      "source": "arXiv Robotics",
-      "source_type": "research",
-      "category": "AI 具身智能",
-      "published_at": "2026-11-02T13:00:00+08:00"
-    },
-    {
-      "title_en": "A Capability-Aware Backup-Recoverability Filter for Heterogeneous Multi-Robot Navigation",
-      "title_zh": "用于异构多机器人导航的功能感知备份可恢复性过滤器",
-      "summary_zh": "arXiv: 2610.41188v1公告类型：新摘要：异构多机器人团队中的安全导航面临两个耦合的挑战：机器人制动和转弯能力的差异限制了每个机器人对接近的邻居的反应，而同时交互需要单个控制动作来满足多个防撞约束。这些挑战加在一起，可能会使本地安全限制与机器人不兼容。",
-      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
-      "url": "https://arxiv.org/abs/2610.41188",
-      "source": "arXiv Robotics",
-      "source_type": "research",
-      "category": "AI 具身智能",
-      "published_at": "2026-11-02T13:00:00+08:00"
-    },
-    {
-      "title_en": "TRACE: Target-State Risk-Aligned Conditional Execution for Embodied Tracking",
-      "title_zh": "TRACE ：针对具体跟踪的目标状态风险一致性条件执行",
-      "summary_zh": "arXiv: 2610.41275v1 Announce Type: new Abstract: Embodied visual tracking要求机器人在遮挡、外观相似的干扰源和模棱两可的指令下跟随语言指定的人。我们发现，改进追踪持续性可以同时增加安全违规行为。我们使用带有冻结骨干的紧凑型0.6B视觉-语言-行动(VLA)跟踪器，仅使用近端策略优化(PPO)更新规划器头。PPO imp",
-      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
-      "url": "https://arxiv.org/abs/2610.41275",
-      "source": "arXiv Robotics",
-      "source_type": "research",
-      "category": "多模态与视频生成",
-      "published_at": "2026-11-02T13:00:00+08:00"
-    },
-    {
-      "title_en": "Learning from Physical Experience:Context-Space Adaptation for Robotic Manipulation",
-      "title_zh": "从物理经验中学习：机器人操纵的情境空间适应",
-      "summary_zh": "arXiv: 2610.41320v1公告类型：新摘要：最近的多模式基础模型表现出强大的感知、推理和上下文学习能力，但将这些能力转化为身体行动仍然具有挑战性。通过对不同操纵任务的现实世界实验，我们发现ChatGPT-6-Astra是一种最先进的通用推理机，可以作为一种物理上可操作的、上下文响应的操纵策略，",
-      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
-      "url": "https://arxiv.org/abs/2610.41320",
-      "source": "arXiv Robotics",
-      "source_type": "research",
-      "category": "多模态与视频生成",
-      "published_at": "2026-11-02T13:00:00+08:00"
-    },
-    {
-      "title_en": "GPU-accelerated Incremental Euclidean Distance Transform for Online Motion Planning of Mobile Robots",
-      "title_zh": "用于移动机器人在线运动规划的GPU加速增量欧氏距离变换",
-      "summary_zh": "arXiv: 2610.41667v1公告类型：新摘要：在这封信中，我们提出了一个体积映射系统，该系统使用并行计算有效地计算占用网格图（ OGM ）和欧几里得距离变换（ EDT ）。与这些用于高精度结构重建的映射器不同，我们的系统逐步构建全局EDT ，并输出高频局部距离信息，用于在线机器人运动规划。建议的系统缺点",
-      "why_it_matters": "关注本地运行能力，以及延迟、隐私、能耗和硬件成本之间的取舍。",
-      "url": "https://arxiv.org/abs/2610.41667",
-      "source": "arXiv Robotics",
-      "source_type": "research",
-      "category": "端侧 AI 与硬件",
       "published_at": "2026-11-02T13:00:00+08:00"
     },
     {
@@ -261,15 +184,26 @@
       "published_at": "2026-11-02T08:00:00+08:00"
     },
     {
-      "title_en": "Google&#8217;s satellite AI server transmits its first response to Earth",
-      "title_zh": "谷歌的卫星人工智能服务器向地球传输第一个响应",
-      "summary_zh": "谷歌配备人工智能芯片的卫星首次从太空发出响应。在周五的一篇博文中，谷歌表示，它成功启动了卫星的张量处理单元 (TPU)，允许星载 Gemma 4 模型按照提示创建一首关于太空的俳句：下面的蓝色大理石数据流在 [...]",
-      "why_it_matters": "关注本地运行能力，以及延迟、隐私、能耗和硬件成本之间的取舍。",
-      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-      "source": "The Verge AI",
-      "source_type": "media",
-      "category": "端侧 AI 与硬件",
-      "published_at": "2026-10-31T02:21:38+08:00"
+      "title_en": "Making it easier for websites to express AI training preferences",
+      "title_zh": "让网站更容易表达人工智能培训偏好",
+      "summary_zh": "OpenAI将尊重共享的robots.txt信号，以帮助网站运营商向参与的提供商传达其人工智能培训偏好。",
+      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "source": "OpenAI",
+      "source_type": "official",
+      "category": "AI 具身智能",
+      "published_at": "2026-10-30T17:30:00+08:00"
+    },
+    {
+      "title_en": "Build specialized multimodal models with LFM3",
+      "title_zh": "使用LFM3构建专门的多式联运模型",
+      "summary_zh": "该来源未提供摘要；请点击“阅读原文”查看详情。",
+      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "source": "Hugging Face",
+      "source_type": "official",
+      "category": "多模态与视频生成",
+      "published_at": "2026-10-28T01:16:52+08:00"
     }
   ],
   "source_count": 12,
