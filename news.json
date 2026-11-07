@@ -1,176 +1,187 @@
 {
-  "updated_at": "2026-11-06T09:31:38.518524+08:00",
-  "daily_summary_zh": "今日共采集 25 条近 10 天资讯。赛道分布：AI Agent 5 条；AI Coding 5 条；AI 具身智能 5 条；行业与研究 5 条；多模态与视频生成 4 条。优先浏览：OpenAI 退出数据中心项目的 NDA；Airbnb 正在开发人工智能旅行社；Inkling 2 小号。本总结依据新闻标题、来源和分类自动整理，不代表对新闻事实或技术效果的独立验证；重要结论请查看原文。",
+  "updated_at": "2026-11-07T09:24:38.232130+08:00",
+  "daily_summary_zh": "今日共采集 25 条近 10 天资讯。赛道分布：AI Agent 5 条；AI 具身智能 5 条；多模态与视频生成 5 条；行业与研究 5 条；AI Coding 3 条。优先浏览：随着竞争对手Anthropic接近IPO ， OpenAI的估值为1.25万$；Libghostty 1.0；现在所有组织都可以使用出站SIP呼叫。本总结依据新闻标题、来源和分类自动整理，不代表对新闻事实或技术效果的独立验证；重要结论请查看原文。",
   "takeaways_zh": [
     "今日采集较多的方向：AI Agent（5 条）。",
-    "今日采集较多的方向：AI Coding（5 条）。",
-    "今日采集较多的方向：AI 具身智能（5 条）。"
+    "今日采集较多的方向：AI 具身智能（5 条）。",
+    "今日采集较多的方向：多模态与视频生成（5 条）。"
   ],
   "news": [
     {
-      "title_en": "OpenAI is stepping back from NDAs for data center projects",
-      "title_zh": "OpenAI 退出数据中心项目的 NDA",
-      "summary_zh": "继本周的中期选举后，选民强烈反对数据中心扩建，OpenAI 今天宣布对其正在开展数据中心项目的社区做出新的承诺，包括不会与公职人员签订保密协议 (NDA)。许多数据中心项目因依赖保密协议来隐藏讨论而受到审查 [...]",
+      "title_en": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "title_zh": "随着竞争对手Anthropic接近IPO ， OpenAI的估值为1.25万$",
+      "summary_zh": "据彭博社报道， OpenAI目前在新一轮融资中的估值为1.25万亿美元，该轮融资又筹集了110亿美元。这将使它成为世界上最有价值的公司之一，在3月份以8520亿美元的估值从投资者那里筹集了1220亿美元后不久。与英国《金融时报》和《华尔街日报》相呼应[…]",
       "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
       "source": "The Verge AI",
       "source_type": "media",
       "category": "行业与研究",
-      "published_at": "2026-11-06T08:37:56+08:00"
+      "published_at": "2026-11-07T07:46:18+08:00"
     },
     {
-      "title_en": "Airbnb is working on an AI travel agent",
-      "title_zh": "Airbnb 正在开发人工智能旅行社",
-      "summary_zh": "Airbnb 在今天发布的 2026 年第三季度盈利股东信中表示，该公司计划在 2027 年上半年推出人工智能代理，帮助用户计划和预订旅行。 Airbnb 表示：“如今的人工智能代理擅长执行简单的日常任务，例如预订餐厅或安排预约。” “但 […]",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "title_en": "Libghostty 1.0",
+      "title_zh": "Libghostty 1.0",
+      "summary_zh": "文章网址： https://mitchellh.com/writing/libghostty-1-0评论网址： https://news.ycombinator.com/item?id=50399933点数： 112 #评论： 15",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。 标题翻译暂不可用，请结合英文原文判断。",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "行业与研究",
+      "published_at": "2026-11-07T07:30:52+08:00"
+    },
+    {
+      "title_en": "Outbound SIP calling is now available to all organizations",
+      "title_zh": "现在所有组织都可以使用出站SIP呼叫",
+      "summary_zh": "文章网址： https://developers.openai.com/api/docs/guides/voice-sip评论网址： https://news.ycombinator.com/item?id=50399695点数： 24 #评论： 13",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://developers.openai.com/api/docs/guides/voice-sip",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "行业与研究",
+      "published_at": "2026-11-07T07:03:55+08:00"
+    },
+    {
+      "title_en": "Sodium-ion batteries approach cost parity with LFP",
+      "title_zh": "钠离子电池接近与LFP的成本平价",
+      "summary_zh": "文章网址： https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/评论网址： https://news.ycombinator.com/item?id=50399657点数： 113 #评论： 50",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "行业与研究",
+      "published_at": "2026-11-07T07:00:46+08:00"
+    },
+    {
+      "title_en": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "title_zh": "据报道，中国招募人工智能高管监视Jensen Huang",
+      "summary_zh": "据《纽约时报》报道，中国情报机构聘请了Megaspeed高管黄爱丽丝（ Alice Huang ）监视英伟达（ Nvidia ）首席执行官黄延森（ Jensen Huang ）。国家安全部（ MSS ）邀请她收集有关美国人工智能芯片的信息，并“可能影响公司推动向中国提供最先进的芯片。“超高速[…]",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
       "source": "The Verge AI",
       "source_type": "media",
-      "category": "AI Agent",
-      "published_at": "2026-11-06T08:06:12+08:00"
-    },
-    {
-      "title_en": "Inkling 2 Small",
-      "title_zh": "Inkling 2 小号",
-      "summary_zh": "文章网址：https://thinkingmachines.ai/news/inkling-2-small/ 评论网址：https://news.ycombinator.com/item?id=50386338 积分：38 # 评论：13",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
-      "source": "Hacker News",
-      "source_type": "community",
       "category": "行业与研究",
-      "published_at": "2026-11-06T08:00:24+08:00"
+      "published_at": "2026-11-07T07:00:44+08:00"
     },
     {
-      "title_en": "Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data",
-      "title_zh": "巴西信用担保人基金数据泄露影响 PII 和支付数据",
-      "summary_zh": "文章网址：https://www.fgc.org.br/comunicado 评论网址：https://news.ycombinator.com/item?id=50386104 积分：15 # 评论：2",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://www.fgc.org.br/comunicado",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "行业与研究",
-      "published_at": "2026-11-06T07:32:36+08:00"
-    },
-    {
-      "title_en": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "title_zh": "库班：Facebook 故意投放人工智能深度伪造诈骗广告；文档称欺诈收入为 $16B",
-      "summary_zh": "文章网址：https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html 评论网址：https://news.ycombinator.com/item?id=50385870 积分：70 # 评论：23",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "行业与研究",
-      "published_at": "2026-11-06T07:09:57+08:00"
-    },
-    {
-      "title_en": "Muse has a voice mode now",
-      "title_zh": "Muse现在有语音模式",
-      "summary_zh": "首席执行官马克扎克伯格今天宣布，Meta 现在可以让你与 Muse AI 代理进行实时语音对话。该功能已向我推出，我在撰写本文时在 iOS 应用程序上试用了它。当您与 Muse 代理聊天时，头像位于 [...]",
+      "title_en": "Beyond code generation: A developer’s guide to agentic engineering",
+      "title_zh": "超越代码生成：代理工程开发人员指南",
+      "summary_zh": "编写代码的速度更快。围绕它的工作没有。了解如何使用GitHub Copilot规划、编写代码、审查更改和调查生产问题，以及哪些工作仍需要您的判断。《Beyond code generation: A developer's guide to agentic engineering》一文首次出现在GitHub博客上。",
       "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
-      "source": "The Verge AI",
-      "source_type": "media",
-      "category": "AI Agent",
-      "published_at": "2026-11-06T06:45:04+08:00"
-    },
-    {
-      "title_en": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "title_zh": "Airbnb 表示将于 2027 年上半年推出人工智能旅行社",
-      "summary_zh": "Airbnb 表示，其即将推出的人工智能代理将帮助旅行者计划旅行、比较选择、管理预订并在整个住宿期间获得帮助。",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "source": "TechCrunch AI",
-      "source_type": "media",
-      "category": "AI Agent",
-      "published_at": "2026-11-06T06:40:55+08:00"
-    },
-    {
-      "title_en": "Perplexity launches its own take on AI agents for work",
-      "title_zh": "Perplexity 推出了自己的人工智能工作代理",
-      "summary_zh": "Perplexity 正在通过自己的以工作为中心的人工智能代理来挑战 OpenAI 和 Anthropic。该初创公司全新的始终在线的“队友”可以在工作空间中扮演多个角色，同时从您已经使用的 Perplexity 工具中提取现有项目、技能和记忆。队友与 Perplexity Computer 集成，这是一个可以在您的设备上部署代理的人工智能系统 [...]",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-      "source": "The Verge AI",
-      "source_type": "media",
-      "category": "AI Agent",
-      "published_at": "2026-11-06T06:26:50+08:00"
-    },
-    {
-      "title_en": "Claude Code sends your email address to websites",
-      "title_zh": "克劳德·代码将您的电子邮件地址发送到网站",
-      "summary_zh": "文章网址：https://github.com/anthropics/claude-code/issues/107757 评论网址：https://news.ycombinator.com/item?id=50385272 积分：454 # 评论：160",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "行业与研究",
-      "published_at": "2026-11-06T06:17:15+08:00"
-    },
-    {
-      "title_en": "Inside GitHub’s new Git storage architecture",
-      "title_zh": "GitHub 新的 Git 存储架构内部",
-      "summary_zh": "GitHub 的新 Git 存储架构的构建使得数千个代理可以同时推送到单个存储库。这是它的工作原理。 《Inside GitHub 新的 Git 存储架构》一文首先出现在 GitHub 博客上。",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
       "source": "GitHub Blog",
       "source_type": "official",
       "category": "AI Agent",
-      "published_at": "2026-11-06T04:23:21+08:00"
+      "published_at": "2026-11-07T06:15:59+08:00"
     },
     {
-      "title_en": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-      "title_zh": "Agility是第一家上市的纯人形机器人公司。你买吗？",
-      "summary_zh": "Agility 今天登陆纳斯达克，成为第一家公开交易的纯人形机器人公司。",
+      "title_en": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "title_zh": "Meta引入了Spaces ，这是一种与Muse代理进行协作的新方法",
+      "summary_zh": "Meta的Muse代理继续获得新功能和集成。Spaces有望成为与人工智能助手互动的新方式。",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
+      "category": "AI Agent",
+      "published_at": "2026-11-07T02:44:20+08:00"
+    },
+    {
+      "title_en": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+      "title_zh": "Rune ：适用于macOS、Windows、Linux和Web的原生GPU渲染Rust UI框架",
+      "summary_zh": "文章网址： https://github.com/anomalyco/rune评论网址： https://news.ycombinator.com/item?id=50394569点数： 153 #评论： 107",
+      "why_it_matters": "关注本地运行能力，以及延迟、隐私、能耗和硬件成本之间的取舍。",
+      "url": "https://github.com/anomalyco/rune",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "端侧 AI 与硬件",
+      "published_at": "2026-11-07T00:31:32+08:00"
+    },
+    {
+      "title_en": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "title_zh": "ToyBlocks ：机器人学习和评估的受控世界",
+      "summary_zh": "该来源未提供摘要；请点击“阅读原文”查看详情。",
       "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
-      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "source": "Hugging Face",
+      "source_type": "official",
+      "category": "AI 具身智能",
+      "published_at": "2026-11-06T22:00:48+08:00"
+    },
+    {
+      "title_en": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "title_zh": "下载：人形清理房屋，三星为人工智能热潮打造",
+      "summary_zh": "这是今天的The Download版本，我们的工作日时事通讯，提供有关技术世界每日发生的事情的信息。我看着一个人形机器人打扫我的公寓。这感觉就像是未来的味道。—Grace Huckins当我看到一篇关于新的人形机器人清洁服务的X帖子时……",
+      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+      "source": "MIT Technology Review",
+      "source_type": "media",
+      "category": "AI 具身智能",
+      "published_at": "2026-11-06T21:10:00+08:00"
+    },
+    {
+      "title_en": "Physicl raises $10M to make the digital world real enough for robots",
+      "title_zh": "Physicl筹集了$ 1000万，使数字世界对机器人来说足够真实",
+      "summary_zh": "Physicl正试图通过最初为在线销售商品而构建的管道来解决模拟与真实之间的差距。",
+      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
+      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
       "source": "TechCrunch AI",
       "source_type": "media",
       "category": "AI 具身智能",
-      "published_at": "2026-11-05T20:00:00+08:00"
+      "published_at": "2026-11-06T21:00:00+08:00"
     },
     {
-      "title_en": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
-      "title_zh": "置信门控分层法学硕士推理的可行性条件",
-      "summary_zh": "arXiv:2611.05394v1 公告类型：新摘要：分层推理将大型语言模型计算分布在从设备上和边缘硬件到数据中心的设备层次结构中，并且越来越多地作为实现更便宜、更低延迟和更私密服务的途径。大多数此类系统都会编排冻结的模型检查点，并且大多数系统会使用前向部署模型产生的置信信号来决定要在本地解决什么问题以及要升级什么问题。我们给出了一个封闭形式的条件，即当该信号上没有阈值时，相对于将每个查询发送到后备器而言，分层级联值得。路由决策建模",
-      "why_it_matters": "关注本地运行能力，以及延迟、隐私、能耗和硬件成本之间的取舍。",
-      "url": "https://arxiv.org/abs/2611.05394",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "端侧 AI 与硬件",
-      "published_at": "2026-11-05T13:00:00+08:00"
+      "title_en": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "title_zh": "我看着一个人形机器人打扫我的公寓。这感觉就像是未来的味道。",
+      "summary_zh": "我不是那种通常为房屋清洁工付费的人。我太节俭了，我有点喜欢播客，喜欢带着魔法橡皮擦在浴缸里去城里。但是，当我看到一篇关于旧金山新人形机器人清洁服务的X帖子时，我立即签署了……",
+      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "source": "MIT Technology Review",
+      "source_type": "media",
+      "category": "AI 具身智能",
+      "published_at": "2026-11-06T18:00:00+08:00"
     },
     {
-      "title_en": "BrainBind: Bridging Synchronized EEG and fMRI through Long-Form Naturalistic Video Representations",
-      "title_zh": "BrainBind：通过长格式自然视频表示桥接同步脑电图和功能磁共振成像",
-      "summary_zh": "arXiv:2611.05581v1 公告类型：新 摘要：现实世界的视觉是动态的、场景丰富的，而脑电图和功能磁共振成像则在互补的时间和空间尺度上解决它。然而，大多数神经解码系统都是孤立地对齐一种模态，并且主要针对静态图像或短片。我们研究同步案例：脑电图和功能磁共振成像是在相同的长形式自然主义观看过程中记录的，提供了共同的刺激，但也提供了反复出现的叙事背景和许多语义相似的候选者。我们提出了 BrainBind，一个框架，它将同步脑电图和功能磁共振成像映射到冻结的长格式视频嵌入空间中，并将这些空间视为常见的 vi",
-      "why_it_matters": "关注它对开发效率、代码质量、测试能力和软件开发流程的实际影响。",
-      "url": "https://arxiv.org/abs/2611.05581",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "AI Coding",
-      "published_at": "2026-11-05T13:00:00+08:00"
+      "title_en": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "title_zh": "Palo Alto Networks正在洽谈以5亿美元收购人工智能代理安全初创公司Clutch",
+      "summary_zh": "据一位消息人士称，由Lightspeed和SignalFire支持的Clutch最后估值为8500万美元$。",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
+      "category": "AI Agent",
+      "published_at": "2026-11-06T14:28:32+08:00"
     },
     {
-      "title_en": "Verified but Vacuous: Three Failure Surfaces of LLM-Driven Verified Code Generation",
-      "title_zh": "已验证但空洞：LLM 驱动的验证代码生成的三个失败面",
-      "summary_zh": "arXiv:2611.05590v1 公告类型：新 摘要：评估 LLM 生成的代码时“已验证”意味着什么？许多现有管道报告单一验证号。我们认为这破坏了条件审计序列中测量的三个不同属性：验证者接受度（表面 A）、\\emph{语法规范绑定（表面 B：证明义务是否与规范绑定？）和 \\emph{语义规范保真度}（表面 C：规范是否捕获了非正式需求？）。两个经验演示表明表面是分离的。 \\textbf{First ($A \\neq B$)，来自 Li@Opus（\\citet{li2025dafny} 的同型号复制品",
-      "why_it_matters": "关注它对开发效率、代码质量、测试能力和软件开发流程的实际影响。",
-      "url": "https://arxiv.org/abs/2611.05590",
+      "title_en": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+      "title_zh": "人工智能时代逆问题的形式化：可能性、陷阱和邀请",
+      "summary_zh": "arXiv: 2611.06962v1 Announce Type: new Abstract: Proof assistants如Lean check mathematical proofs down to the axioms ， AI agent最近使得编写这样的证明变得便宜。我们描述了AutoIP ，这是一个精益库，其中经典的线性正则化理论及其所依赖的函数分析已被AI代理自形式化。机器检查的证明只证明它证明的正式陈述，因此剩下的人",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://arxiv.org/abs/2611.06962",
       "source": "arXiv AI",
       "source_type": "research",
-      "category": "AI Coding",
-      "published_at": "2026-11-05T13:00:00+08:00"
+      "category": "AI Agent",
+      "published_at": "2026-11-06T13:00:00+08:00"
     },
     {
-      "title_en": "Hybrid Spark: Adaptive Speculative Decoding That Lets the Content Choose the Drafter",
-      "title_zh": "Hybrid Spark：自适应推测解码，让内容选择起草者",
-      "summary_zh": "arXiv:2611.05611v1 公告类型：新摘要：推测解码（SD）加速大型语言模型（LLM）服务，但其增益取决于工作负载的 \\emph{shape}，例如批量大小和上下文长度，以及其 \\emph{content}。基于模型的起草者建议对任何内容使用短块，而无模型起草者（例如 n-gram 查找）则在输出重复其输入（如代码编辑中）时几乎免费提出长副本。自适应验证将批次范围的验证预算花费在最有可能被接受的草稿令牌上，但它仅支持一个基于模型的起草者。无模型起草者不提供每个令牌的置信度",
-      "why_it_matters": "关注它对开发效率、代码质量、测试能力和软件开发流程的实际影响。",
-      "url": "https://arxiv.org/abs/2611.05611",
+      "title_en": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
+      "title_zh": "双分类账模型：跨云、模型和记录系统的多代理AI系统的交易粒度成本核算",
+      "summary_zh": "arXiv: 2611.06989v1公告类型：新摘要：企业通过跨云、大型语言模型(LLM)、编排线束和记录系统的多代理AI系统运行业务交易。财务仅在结算粮食时收到AI成本，按SKU和计费期汇总。业务问题（此订单、索赔或案例成本在人工智能中是什么？ ）无法从账单数据中得到答案，因为提供商从未看到企业",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://arxiv.org/abs/2611.06989",
       "source": "arXiv AI",
       "source_type": "research",
-      "category": "AI Coding",
-      "published_at": "2026-11-05T13:00:00+08:00"
+      "category": "AI Agent",
+      "published_at": "2026-11-06T13:00:00+08:00"
+    },
+    {
+      "title_en": "CST-Bench: Benchmarking Counterfactual Spatial Transition Reasoning with Causal Transition On-Policy Self-Distillation",
+      "title_zh": "CST-Bench ：基准反事实空间转换推理与因果转换政策自我蒸馏",
+      "summary_zh": "arXiv: 2611.07541v1公告类型：新摘要：空间推理是多模态大型语言模型（ MLLM ）的基本功能，但现有基准主要侧重于静态场景理解。当对象被移动或交换时，模型不仅必须推断空间关系，还必须推断干预措施如何改变场景状态。为了解决这个问题，我们引入了反事实空间推理的基准CST-Bench。CST-Bench con",
+      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
+      "url": "https://arxiv.org/abs/2611.07541",
+      "source": "arXiv AI",
+      "source_type": "research",
+      "category": "多模态与视频生成",
+      "published_at": "2026-11-06T13:00:00+08:00"
     },
     {
       "title_en": "Ctrl-F: Force as an Interface for Humanoid Loco-Manipulation",
@@ -181,18 +192,7 @@
       "source": "arXiv Robotics",
       "source_type": "research",
       "category": "AI 具身智能",
-      "published_at": "2026-11-05T13:00:00+08:00"
-    },
-    {
-      "title_en": "MESA: An Evaluation Framework for Compositional, Semantic, and Spatial Generalization in Robotics",
-      "title_zh": "MESA：机器人组合、语义和空间泛化的评估框架",
-      "summary_zh": "arXiv:2611.05567v1 公告类型：新 摘要：尽管人们对机器人操纵基础模型的兴趣日益浓厚，但对其能力的系统评估仍然难以实现。现有基准要么狭窄且饱和，在 SOTA 方法上提供的信号很少，范围广泛，以受控实验为代价提供多样性，要么需要对大型、混乱的开源数据集进行训练。我们引入 MESA，这是一个评估框架，旨在精确、可重复地测量语言条件政策泛化。 MESA 提供了五种评估套件，可隔离分布性能和四个不同的轴",
-      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
-      "url": "https://arxiv.org/abs/2611.05567",
-      "source": "arXiv Robotics",
-      "source_type": "research",
-      "category": "AI 具身智能",
-      "published_at": "2026-11-05T13:00:00+08:00"
+      "published_at": "2026-11-06T13:00:00+08:00"
     },
     {
       "title_en": "ELA: End-to-End Latent Action Policy Learning from Video Demonstrations",
@@ -203,29 +203,7 @@
       "source": "arXiv Robotics",
       "source_type": "research",
       "category": "AI Coding",
-      "published_at": "2026-11-05T13:00:00+08:00"
-    },
-    {
-      "title_en": "Contact-Implicit Whole-Body Trajectory Optimization for Dynamic Humanoid Locomotion on Parameterizable Uneven Terrain",
-      "title_zh": "可参数化不平坦地形上动态人形运动的接触隐式全身轨迹优化",
-      "summary_zh": "arXiv:2611.05585v1 公告类型：新 摘要：这封信介绍了一种用于人形机器人的轨迹规划器，可使用隐式接触全身优化框架在复杂、可参数化的地形上执行动态运动。考虑到机器人的完整动力学和运动学，规划器无需预定义接触序列即可生成可行的运动。为了规划台阶、坡​​道和其他地形上的双足运动，我们提出了一个数学模型来近似具有光滑表面的地面几何形状。通过新颖的接触约束对机器人与地面之间的刚性相互作用进行建模，扩展了适用范围",
-      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
-      "url": "https://arxiv.org/abs/2611.05585",
-      "source": "arXiv Robotics",
-      "source_type": "research",
-      "category": "AI 具身智能",
-      "published_at": "2026-11-05T13:00:00+08:00"
-    },
-    {
-      "title_en": "$\\mathcal{C}^\\infty$ Smooth Trajectory Planning with Application to Soft Robots",
-      "title_zh": "$\\mathcal{C}^\\infty$ 平滑轨迹规划及其在软体机器人中的应用",
-      "summary_zh": "arXiv:2611.05615v1 公告类型：新 摘要：高运动性能和避免结构振动依赖于平滑的轨迹规划。由于关节和连杆的灵活性，平滑度要求取决于机器人在自由度和系统阶数方面的复杂性。对于工业机器人，平滑度要求已确定并随后予以考虑。虽然软连续体机器人未知，但确切的平滑度要求可能比以前考虑的要大得多，例如协作机器人的 $\\mathbf{\\mathcal{C}^4}$ 和 $\\mathbf{\\mathcal{C}^5}$",
-      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
-      "url": "https://arxiv.org/abs/2611.05615",
-      "source": "arXiv Robotics",
-      "source_type": "research",
-      "category": "AI 具身智能",
-      "published_at": "2026-11-05T13:00:00+08:00"
+      "published_at": "2026-11-06T13:00:00+08:00"
     },
     {
       "title_en": "Correct Robots Before They Make Mistakes: Proactive Human-in-the-Loop Intervention via Preference Learning",
@@ -236,7 +214,7 @@
       "source": "arXiv Robotics",
       "source_type": "research",
       "category": "多模态与视频生成",
-      "published_at": "2026-11-05T13:00:00+08:00"
+      "published_at": "2026-11-06T13:00:00+08:00"
     },
     {
       "title_en": "ZipDrift: Generating Multimodal Short-Horizon MPC Costs with One-Step Drifting Models",
@@ -247,7 +225,7 @@
       "source": "arXiv Robotics",
       "source_type": "research",
       "category": "多模态与视频生成",
-      "published_at": "2026-11-05T13:00:00+08:00"
+      "published_at": "2026-11-06T13:00:00+08:00"
     },
     {
       "title_en": "Time-to-Goal: Learned Temporal Metrics for Long-Horizon Planning with JEPA World Models",
@@ -258,7 +236,7 @@
       "source": "arXiv Robotics",
       "source_type": "research",
       "category": "多模态与视频生成",
-      "published_at": "2026-11-05T13:00:00+08:00"
+      "published_at": "2026-11-06T13:00:00+08:00"
     },
     {
       "title_en": "LumiTac: Compact, High-Rate Six-Axis Optical Tactile Sensing for Human-Robot Interaction",
@@ -269,7 +247,7 @@
       "source": "arXiv Robotics",
       "source_type": "research",
       "category": "AI Coding",
-      "published_at": "2026-11-05T13:00:00+08:00"
+      "published_at": "2026-11-06T13:00:00+08:00"
     },
     {
       "title_en": "Can Astra Solve RoboMME without Breaking the Bank?",
@@ -280,7 +258,29 @@
       "source": "arXiv Robotics",
       "source_type": "research",
       "category": "多模态与视频生成",
-      "published_at": "2026-11-05T13:00:00+08:00"
+      "published_at": "2026-11-06T13:00:00+08:00"
+    },
+    {
+      "title_en": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "title_zh": "近距离观察Phonon TTS。推出超越基准的高质量设备上演讲。",
+      "summary_zh": "该来源未提供摘要；请点击“阅读原文”查看详情。",
+      "why_it_matters": "关注本地运行能力，以及延迟、隐私、能耗和硬件成本之间的取舍。",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "source": "Hugging Face",
+      "source_type": "official",
+      "category": "端侧 AI 与硬件",
+      "published_at": "2026-11-05T08:00:00+08:00"
+    },
+    {
+      "title_en": "Arnis turns any place on Earth into a Minecraft world",
+      "title_zh": "阿尼斯将地球上的任何地方变成了我的世界",
+      "summary_zh": "Louis Erbkamm在业余时间建造了第一个原型。现在， GitHub Copilot帮助他单独维护它。Arnis将地球上任何地方变成Minecraft世界的文章首先出现在GitHub博客上。",
+      "why_it_matters": "关注它对开发效率、代码质量、测试能力和软件开发流程的实际影响。",
+      "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
+      "source": "GitHub Blog",
+      "source_type": "official",
+      "category": "AI Coding",
+      "published_at": "2026-11-04T00:00:00+08:00"
     }
   ],
   "source_count": 12,
