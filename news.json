@@ -1,66 +1,88 @@
 {
-  "updated_at": "2026-11-07T09:24:38.232130+08:00",
-  "daily_summary_zh": "今日共采集 25 条近 10 天资讯。赛道分布：AI Agent 5 条；AI 具身智能 5 条；多模态与视频生成 5 条；行业与研究 5 条；AI Coding 3 条。优先浏览：随着竞争对手Anthropic接近IPO ， OpenAI的估值为1.25万$；Libghostty 1.0；现在所有组织都可以使用出站SIP呼叫。本总结依据新闻标题、来源和分类自动整理，不代表对新闻事实或技术效果的独立验证；重要结论请查看原文。",
+  "updated_at": "2026-11-08T09:29:07.716007+08:00",
+  "daily_summary_zh": "今日共采集 20 条近 10 天资讯。赛道分布：AI Agent 5 条；AI 具身智能 5 条；行业与研究 5 条；AI Coding 2 条；端侧 AI 与硬件 2 条。优先浏览：Commodore PET –世界上第一台个人电脑；GitHub公开预览中的新拉取请求概述页面；IRA Velinsky – Commodore的工业设计师。本总结依据新闻标题、来源和分类自动整理，不代表对新闻事实或技术效果的独立验证；重要结论请查看原文。",
   "takeaways_zh": [
     "今日采集较多的方向：AI Agent（5 条）。",
     "今日采集较多的方向：AI 具身智能（5 条）。",
-    "今日采集较多的方向：多模态与视频生成（5 条）。"
+    "今日采集较多的方向：行业与研究（5 条）。"
   ],
   "news": [
     {
-      "title_en": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "title_zh": "随着竞争对手Anthropic接近IPO ， OpenAI的估值为1.25万$",
-      "summary_zh": "据彭博社报道， OpenAI目前在新一轮融资中的估值为1.25万亿美元，该轮融资又筹集了110亿美元。这将使它成为世界上最有价值的公司之一，在3月份以8520亿美元的估值从投资者那里筹集了1220亿美元后不久。与英国《金融时报》和《华尔街日报》相呼应[…]",
+      "title_en": "Commodore PET – The Worlds First Personal Computer",
+      "title_zh": "Commodore PET –世界上第一台个人电脑",
+      "summary_zh": "文章网址： https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/评论网址： https://news.ycombinator.com/item?id=50408961点数： 13 #评论： 0",
       "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-      "source": "The Verge AI",
+      "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "行业与研究",
+      "published_at": "2026-11-08T07:15:34+08:00"
+    },
+    {
+      "title_en": "GitHub New pull request overview page in public preview",
+      "title_zh": "GitHub公开预览中的新拉取请求概述页面",
+      "summary_zh": "文章网址： https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/评论网址： https://news.ycombinator.com/item?id=50408931点数： 55 #评论： 33",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "行业与研究",
+      "published_at": "2026-11-08T07:09:40+08:00"
+    },
+    {
+      "title_en": "IRA Velinsky – Commodore's Industrial Designer",
+      "title_zh": "IRA Velinsky – Commodore的工业设计师",
+      "summary_zh": "文章网址： https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/评论网址： https://news.ycombinator.com/item?id=50408750点数： 10 #评论： 0",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "行业与研究",
+      "published_at": "2026-11-08T06:45:39+08:00"
+    },
+    {
+      "title_en": "Making any integer with four 2s (2025)",
+      "title_zh": "用4个2做任意整数(2025)",
+      "summary_zh": "文章网址： https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/评论网址： https://news.ycombinator.com/item?id=50408713点数： 54 #评论： 10",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "行业与研究",
+      "published_at": "2026-11-08T06:38:58+08:00"
+    },
+    {
+      "title_en": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "title_zh": "期中考试结束后，埃隆·马斯克（ Elon Musk ）和数据中心的情况看起来很糟糕",
+      "summary_zh": "在股票方面，我们揭示了期中考试对科技行业的意义。",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "source": "TechCrunch AI",
       "source_type": "media",
       "category": "行业与研究",
-      "published_at": "2026-11-07T07:46:18+08:00"
+      "published_at": "2026-11-08T06:07:22+08:00"
     },
     {
-      "title_en": "Libghostty 1.0",
-      "title_zh": "Libghostty 1.0",
-      "summary_zh": "文章网址： https://mitchellh.com/writing/libghostty-1-0评论网址： https://news.ycombinator.com/item?id=50399933点数： 112 #评论： 15",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。 标题翻译暂不可用，请结合英文原文判断。",
-      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "title_en": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "title_zh": "Claude Code的“Don 't Ask Again”公开了1,122个公共GitHub文件中的密码",
+      "summary_zh": "文章网址： https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again评论网址： https://news.ycombinator.com/item?id=50407882点数： 168 #评论： 118",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
       "source": "Hacker News",
       "source_type": "community",
-      "category": "行业与研究",
-      "published_at": "2026-11-07T07:30:52+08:00"
+      "category": "AI Agent",
+      "published_at": "2026-11-08T04:45:32+08:00"
     },
     {
-      "title_en": "Outbound SIP calling is now available to all organizations",
-      "title_zh": "现在所有组织都可以使用出站SIP呼叫",
-      "summary_zh": "文章网址： https://developers.openai.com/api/docs/guides/voice-sip评论网址： https://news.ycombinator.com/item?id=50399695点数： 24 #评论： 13",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://developers.openai.com/api/docs/guides/voice-sip",
+      "title_en": "Every processor die anyone has photographed and given away",
+      "title_zh": "每个处理器模具都有人拍过照片并赠送",
+      "summary_zh": "文章网址： https://sheets.works/data-viz/cpu-dies评论网址： https://news.ycombinator.com/item?id=50405782点数： 74 #评论： 16",
+      "why_it_matters": "关注本地运行能力，以及延迟、隐私、能耗和硬件成本之间的取舍。",
+      "url": "https://sheets.works/data-viz/cpu-dies",
       "source": "Hacker News",
       "source_type": "community",
-      "category": "行业与研究",
-      "published_at": "2026-11-07T07:03:55+08:00"
-    },
-    {
-      "title_en": "Sodium-ion batteries approach cost parity with LFP",
-      "title_zh": "钠离子电池接近与LFP的成本平价",
-      "summary_zh": "文章网址： https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/评论网址： https://news.ycombinator.com/item?id=50399657点数： 113 #评论： 50",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "行业与研究",
-      "published_at": "2026-11-07T07:00:46+08:00"
-    },
-    {
-      "title_en": "China reportedly recruited AI exec to spy on Jensen Huang",
-      "title_zh": "据报道，中国招募人工智能高管监视Jensen Huang",
-      "summary_zh": "据《纽约时报》报道，中国情报机构聘请了Megaspeed高管黄爱丽丝（ Alice Huang ）监视英伟达（ Nvidia ）首席执行官黄延森（ Jensen Huang ）。国家安全部（ MSS ）邀请她收集有关美国人工智能芯片的信息，并“可能影响公司推动向中国提供最先进的芯片。“超高速[…]",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-      "source": "The Verge AI",
-      "source_type": "media",
-      "category": "行业与研究",
-      "published_at": "2026-11-07T07:00:44+08:00"
+      "category": "端侧 AI 与硬件",
+      "published_at": "2026-11-08T00:21:36+08:00"
     },
     {
       "title_en": "Beyond code generation: A developer’s guide to agentic engineering",
@@ -83,17 +105,6 @@
       "source_type": "media",
       "category": "AI Agent",
       "published_at": "2026-11-07T02:44:20+08:00"
-    },
-    {
-      "title_en": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
-      "title_zh": "Rune ：适用于macOS、Windows、Linux和Web的原生GPU渲染Rust UI框架",
-      "summary_zh": "文章网址： https://github.com/anomalyco/rune评论网址： https://news.ycombinator.com/item?id=50394569点数： 153 #评论： 107",
-      "why_it_matters": "关注本地运行能力，以及延迟、隐私、能耗和硬件成本之间的取舍。",
-      "url": "https://github.com/anomalyco/rune",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "端侧 AI 与硬件",
-      "published_at": "2026-11-07T00:31:32+08:00"
     },
     {
       "title_en": "ToyBlocks: A controlled world for robot learning and evaluation",
@@ -151,114 +162,15 @@
       "published_at": "2026-11-06T14:28:32+08:00"
     },
     {
-      "title_en": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
-      "title_zh": "人工智能时代逆问题的形式化：可能性、陷阱和邀请",
-      "summary_zh": "arXiv: 2611.06962v1 Announce Type: new Abstract: Proof assistants如Lean check mathematical proofs down to the axioms ， AI agent最近使得编写这样的证明变得便宜。我们描述了AutoIP ，这是一个精益库，其中经典的线性正则化理论及其所依赖的函数分析已被AI代理自形式化。机器检查的证明只证明它证明的正式陈述，因此剩下的人",
+      "title_en": "Measuring how AI agents handle everyday wet-lab science",
+      "title_zh": "衡量人工智能代理如何处理日常湿实验室科学",
+      "summary_zh": "OpenAI推出了BioBasicsBench ，这是一个100项任务的基准，用于衡量人工智能代理解读原始实验数据和处理日常湿实验室科学的能力。",
       "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://arxiv.org/abs/2611.06962",
-      "source": "arXiv AI",
-      "source_type": "research",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "source": "OpenAI",
+      "source_type": "official",
       "category": "AI Agent",
-      "published_at": "2026-11-06T13:00:00+08:00"
-    },
-    {
-      "title_en": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
-      "title_zh": "双分类账模型：跨云、模型和记录系统的多代理AI系统的交易粒度成本核算",
-      "summary_zh": "arXiv: 2611.06989v1公告类型：新摘要：企业通过跨云、大型语言模型(LLM)、编排线束和记录系统的多代理AI系统运行业务交易。财务仅在结算粮食时收到AI成本，按SKU和计费期汇总。业务问题（此订单、索赔或案例成本在人工智能中是什么？ ）无法从账单数据中得到答案，因为提供商从未看到企业",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://arxiv.org/abs/2611.06989",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "AI Agent",
-      "published_at": "2026-11-06T13:00:00+08:00"
-    },
-    {
-      "title_en": "CST-Bench: Benchmarking Counterfactual Spatial Transition Reasoning with Causal Transition On-Policy Self-Distillation",
-      "title_zh": "CST-Bench ：基准反事实空间转换推理与因果转换政策自我蒸馏",
-      "summary_zh": "arXiv: 2611.07541v1公告类型：新摘要：空间推理是多模态大型语言模型（ MLLM ）的基本功能，但现有基准主要侧重于静态场景理解。当对象被移动或交换时，模型不仅必须推断空间关系，还必须推断干预措施如何改变场景状态。为了解决这个问题，我们引入了反事实空间推理的基准CST-Bench。CST-Bench con",
-      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
-      "url": "https://arxiv.org/abs/2611.07541",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "多模态与视频生成",
-      "published_at": "2026-11-06T13:00:00+08:00"
-    },
-    {
-      "title_en": "Ctrl-F: Force as an Interface for Humanoid Loco-Manipulation",
-      "title_zh": "Ctrl-F：力作为人形机器人操作的界面",
-      "summary_zh": "arXiv:2611.05507v1 公告类型：新 摘要：人形运动跟踪已扩展到再现不同人类运动的一般策略，但最终的行为是在自由空间中：跟踪器知道身体应该在哪里，而不是它应该如何与环境交互。其他工作使物体成为目标的一部分，但将交互抽象为接触或几何形状，这使得要求苛刻的情况没有得到充分探索。我们认为，力是运动模仿和物体交互之间的一种自然命令通道，它不仅指定接触的位置，还指定接触的力度。我们提出了 Ctrl-F，一个分层运动力框架",
-      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
-      "url": "https://arxiv.org/abs/2611.05507",
-      "source": "arXiv Robotics",
-      "source_type": "research",
-      "category": "AI 具身智能",
-      "published_at": "2026-11-06T13:00:00+08:00"
-    },
-    {
-      "title_en": "ELA: End-to-End Latent Action Policy Learning from Video Demonstrations",
-      "title_zh": "ELA：从视频演示中学习端到端潜在行动策略",
-      "summary_zh": "arXiv:2611.05571v1 公告类型：新 摘要：机器人模仿学习受到动作标记数据稀缺的限制，而视频等无动作演示却很丰富。最近的潜在动作方法从观察转换中学习与动作相关的表示，但它们没有优化下游控制的潜在动作，导致潜在表示难以对策略进行建模，并且难以准确解码为连续的机器人动作。本文介绍了 ELA，这是一种端到端框架，用于通过针对政策学习和行动装饰联合优化的潜在行动从视频演示中学习",
-      "why_it_matters": "关注它对开发效率、代码质量、测试能力和软件开发流程的实际影响。",
-      "url": "https://arxiv.org/abs/2611.05571",
-      "source": "arXiv Robotics",
-      "source_type": "research",
-      "category": "AI Coding",
-      "published_at": "2026-11-06T13:00:00+08:00"
-    },
-    {
-      "title_en": "Correct Robots Before They Make Mistakes: Proactive Human-in-the-Loop Intervention via Preference Learning",
-      "title_zh": "在机器人犯错误之前纠正它们：通过偏好学习进行主动人机交互干预",
-      "summary_zh": "arXiv:2611.05667v1 公告类型：新 摘要：本文提出了主动式人机循环 (PHIL)，这是一种用于主动式政策修正和基于偏好的后期培训的框架。 PHIL 使运营商能够预览政策预测的未来动作，并在预期的不良行为发生之前进行干预。在接管期间，PHIL 继续查询策略并通过扩展现实 (XR) 界面在物理工作空间中显示其预测轨迹。 PHIL 对拒绝了策略预测，随后在同一时间范围内从相同的物理状态执行纠正措施块，并且基于偏好的训练后环境",
-      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
-      "url": "https://arxiv.org/abs/2611.05667",
-      "source": "arXiv Robotics",
-      "source_type": "research",
-      "category": "多模态与视频生成",
-      "published_at": "2026-11-06T13:00:00+08:00"
-    },
-    {
-      "title_en": "ZipDrift: Generating Multimodal Short-Horizon MPC Costs with One-Step Drifting Models",
-      "title_zh": "ZipDrift：使用一步漂移模型生成多模式短期 MPC 成本",
-      "summary_zh": "arXiv:2611.05793v1 公告类型：新 摘要：短视野模型预测控制（MPC）速度快，但目光短浅。 ZipMPC 通过学习模仿长期专家的上下文相关的短期成本校正来进行补偿。我们观察到，最佳修正通常是多模态的：当速度较慢的对手可以在任一侧通过时，相反符号的良好修正同时存在，而专家在它们之间的选择取决于微小的成本差异。然后确定性回归对模式进行平均或继承不一致的专家平局决胜。我们提出了 ZipDrift，它通过 MPC 成本修正、倾斜训练单步漂移生成器",
-      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
-      "url": "https://arxiv.org/abs/2611.05793",
-      "source": "arXiv Robotics",
-      "source_type": "research",
-      "category": "多模态与视频生成",
-      "published_at": "2026-11-06T13:00:00+08:00"
-    },
-    {
-      "title_en": "Time-to-Goal: Learned Temporal Metrics for Long-Horizon Planning with JEPA World Models",
-      "title_zh": "实现目标的时间：使用 JEPA 世界模型学习长期规划的时间指标",
-      "summary_zh": "arXiv:2611.05847v1 公告类型：新 摘要：联合嵌入预测架构 (JEPA) 通过将预测的潜在状态与编码目标进行比较来支持规划。为了通过这种比较来指导时间进展，距离目标较近的国家应该获得较低的成本。然而，预测和分布正则化的训练表示并不直接强制执行这种排序。我们通过分析其欧几里得目标成本如何随时间分离变化来检查扁平 LeWorldModel (LeWM) 中的这种不匹配。我们的分析确定了不同长期偏移量的国家获得相似平均成本的条件，削弱了",
-      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
-      "url": "https://arxiv.org/abs/2611.05847",
-      "source": "arXiv Robotics",
-      "source_type": "research",
-      "category": "多模态与视频生成",
-      "published_at": "2026-11-06T13:00:00+08:00"
-    },
-    {
-      "title_en": "LumiTac: Compact, High-Rate Six-Axis Optical Tactile Sensing for Human-Robot Interaction",
-      "title_zh": "LumiTac：用于人机交互的紧凑型高速六轴光学触觉传感",
-      "summary_zh": "arXiv:2611.05936v1 公告类型：新 摘要：将六轴触觉反馈集成到机器人界面中需要具有精确负载测量和快速在线重建功能的紧凑型传感器。本文介绍了 LumiTac，这是一种低调、无摄像头的光电触觉传感器，将空间分布照明与光谱编码相结合。五个光电发射器和五个 RGBW 光电接收器安装在通过半透明硅胶耦合的相对电路板上。负载引起的层间运动在压缩、剪切、弯曲和扭转下调制内部光场。传感头直径为 12 毫米，尺寸为 4.75 毫米",
-      "why_it_matters": "关注它对开发效率、代码质量、测试能力和软件开发流程的实际影响。",
-      "url": "https://arxiv.org/abs/2611.05936",
-      "source": "arXiv Robotics",
-      "source_type": "research",
-      "category": "AI Coding",
-      "published_at": "2026-11-06T13:00:00+08:00"
-    },
-    {
-      "title_en": "Can Astra Solve RoboMME without Breaking the Bank?",
-      "title_zh": "Astra 能在不花太多钱的情况下解决 RoboMME 问题吗？",
-      "summary_zh": "arXiv:2611.06184v1 公告类型：new 摘要：机器人操作通常需要记住不再可见的信息，例如遮挡之前对象的位置或演示的动作序列的顺序。大型视觉语言规划器可以读取这段历史，但在每个动作块之前调用它是缓慢且昂贵的。我们为 RoboMME 基准测试提供了一个三层系统。 GPT-6 Astra（系统 2）从存储的视觉历史记录中选择一个接地子任务，$\\pi_{0.5}$ 视觉语言动作策略（系统 1）执行它，并且经过微调的 Qwen3-VL-4B 监视器（系统 1.5）在每个动作块之后检查子任务是否",
-      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
-      "url": "https://arxiv.org/abs/2611.06184",
-      "source": "arXiv Robotics",
-      "source_type": "research",
-      "category": "多模态与视频生成",
-      "published_at": "2026-11-06T13:00:00+08:00"
+      "published_at": "2026-11-06T08:00:00+08:00"
     },
     {
       "title_en": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
@@ -272,6 +184,17 @@
       "published_at": "2026-11-05T08:00:00+08:00"
     },
     {
+      "title_en": "Introducing Images 2.6",
+      "title_zh": "图片简介2.6",
+      "summary_zh": "Images 2.6可在ChatGPT、Codex和API之间实现更快的图像生成、GIF创建、更精确的编辑和新的API控件。",
+      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "source": "OpenAI",
+      "source_type": "official",
+      "category": "多模态与视频生成",
+      "published_at": "2026-11-04T08:00:00+08:00"
+    },
+    {
       "title_en": "Arnis turns any place on Earth into a Minecraft world",
       "title_zh": "阿尼斯将地球上的任何地方变成了我的世界",
       "summary_zh": "Louis Erbkamm在业余时间建造了第一个原型。现在， GitHub Copilot帮助他单独维护它。Arnis将地球上任何地方变成Minecraft世界的文章首先出现在GitHub博客上。",
@@ -281,6 +204,28 @@
       "source_type": "official",
       "category": "AI Coding",
       "published_at": "2026-11-04T00:00:00+08:00"
+    },
+    {
+      "title_en": "Qodo builds context into AI code review with Codex",
+      "title_zh": "Qodo使用Codex将上下文构建到AI代码审查中",
+      "summary_zh": "Qodo将公司知识和编码标准引入Codex ，帮助开发人员在打开拉取请求之前跨存储库捕获P0问题。",
+      "why_it_matters": "关注它对开发效率、代码质量、测试能力和软件开发流程的实际影响。",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "source": "OpenAI",
+      "source_type": "official",
+      "category": "AI Coding",
+      "published_at": "2026-11-02T08:00:00+08:00"
+    },
+    {
+      "title_en": "Making it easier for websites to express AI training preferences",
+      "title_zh": "让网站更容易表达人工智能培训偏好",
+      "summary_zh": "OpenAI将尊重共享的robots.txt信号，以帮助网站运营商向参与的提供商传达其人工智能培训偏好。",
+      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "source": "OpenAI",
+      "source_type": "official",
+      "category": "AI 具身智能",
+      "published_at": "2026-10-30T17:30:00+08:00"
     }
   ],
   "source_count": 12,
