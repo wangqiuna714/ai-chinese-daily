@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T09:29:07.716007+08:00",
-  "daily_summary_zh": "今日共采集 20 条近 10 天资讯。赛道分布：AI Agent 5 条；AI 具身智能 5 条；行业与研究 5 条；AI Coding 2 条；端侧 AI 与硬件 2 条。优先浏览：Commodore PET –世界上第一台个人电脑；GitHub公开预览中的新拉取请求概述页面；IRA Velinsky – Commodore的工业设计师。本总结依据新闻标题、来源和分类自动整理，不代表对新闻事实或技术效果的独立验证；重要结论请查看原文。",
+  "updated_at": "2026-11-09T09:32:30.118962+08:00",
+  "daily_summary_zh": "今日共采集 20 条近 10 天资讯。赛道分布：AI Agent 5 条；AI 具身智能 5 条；行业与研究 5 条；AI Coding 2 条；端侧 AI 与硬件 2 条。优先浏览：在世界大部分地区解锁X品牌的任何车辆；Herb Sutter ：当一种语言的创作者及其所有者强烈反对时[pdf]；以下是Jensen Huang给Nvidia的备忘录全文。本总结依据新闻标题、来源和分类自动整理，不代表对新闻事实或技术效果的独立验证；重要结论请查看原文。",
   "takeaways_zh": [
     "今日采集较多的方向：AI Agent（5 条）。",
     "今日采集较多的方向：AI 具身智能（5 条）。",
@@ -8,81 +8,92 @@
   ],
   "news": [
     {
-      "title_en": "Commodore PET – The Worlds First Personal Computer",
-      "title_zh": "Commodore PET –世界上第一台个人电脑",
-      "summary_zh": "文章网址： https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/评论网址： https://news.ycombinator.com/item?id=50408961点数： 13 #评论： 0",
+      "title_en": "Unlocking any car from X brand in most of the world",
+      "title_zh": "在世界大部分地区解锁X品牌的任何车辆",
+      "summary_zh": "文章网址： https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/评论网址： https://news.ycombinator.com/item?id=50419215点数： 23 #评论： 13",
       "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
       "source": "Hacker News",
       "source_type": "community",
       "category": "行业与研究",
-      "published_at": "2026-11-08T07:15:34+08:00"
+      "published_at": "2026-11-09T08:10:50+08:00"
     },
     {
-      "title_en": "GitHub New pull request overview page in public preview",
-      "title_zh": "GitHub公开预览中的新拉取请求概述页面",
-      "summary_zh": "文章网址： https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/评论网址： https://news.ycombinator.com/item?id=50408931点数： 55 #评论： 33",
+      "title_en": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
+      "title_zh": "Herb Sutter ：当一种语言的创作者及其所有者强烈反对时[pdf]",
+      "summary_zh": "文章网址： https://isocpp.org/files/papers/P4454R0.pdf评论网址： https://news.ycombinator.com/item?id=50418818点数： 47 #评论： 31",
       "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+      "url": "https://isocpp.org/files/papers/P4454R0.pdf",
       "source": "Hacker News",
       "source_type": "community",
       "category": "行业与研究",
-      "published_at": "2026-11-08T07:09:40+08:00"
+      "published_at": "2026-11-09T07:28:01+08:00"
     },
     {
-      "title_en": "IRA Velinsky – Commodore's Industrial Designer",
-      "title_zh": "IRA Velinsky – Commodore的工业设计师",
-      "summary_zh": "文章网址： https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/评论网址： https://news.ycombinator.com/item?id=50408750点数： 10 #评论： 0",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "行业与研究",
-      "published_at": "2026-11-08T06:45:39+08:00"
-    },
-    {
-      "title_en": "Making any integer with four 2s (2025)",
-      "title_zh": "用4个2做任意整数(2025)",
-      "summary_zh": "文章网址： https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/评论网址： https://news.ycombinator.com/item?id=50408713点数： 54 #评论： 10",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "行业与研究",
-      "published_at": "2026-11-08T06:38:58+08:00"
-    },
-    {
-      "title_en": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "title_zh": "期中考试结束后，埃隆·马斯克（ Elon Musk ）和数据中心的情况看起来很糟糕",
-      "summary_zh": "在股票方面，我们揭示了期中考试对科技行业的意义。",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "source": "TechCrunch AI",
-      "source_type": "media",
-      "category": "行业与研究",
-      "published_at": "2026-11-08T06:07:22+08:00"
-    },
-    {
-      "title_en": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "title_zh": "Claude Code的“Don 't Ask Again”公开了1,122个公共GitHub文件中的密码",
-      "summary_zh": "文章网址： https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again评论网址： https://news.ycombinator.com/item?id=50407882点数： 168 #评论： 118",
+      "title_en": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "title_zh": "以下是Jensen Huang给Nvidia的备忘录全文",
+      "summary_zh": "周日，英伟达宣布将对首席执行官黄延森（ Jensen Huang ）与中国政府人工智能高管兼代理人黄爱丽丝（ Alice Huang ）的关系展开调查。除了董事会宣布调查外，黄先生还向英伟达员工发送了一份备忘录，承认此事。您可以阅读以下全文。致我的[…]",
       "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "source": "Hacker News",
-      "source_type": "community",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "source": "The Verge AI",
+      "source_type": "media",
       "category": "AI Agent",
-      "published_at": "2026-11-08T04:45:32+08:00"
+      "published_at": "2026-11-09T06:54:50+08:00"
     },
     {
-      "title_en": "Every processor die anyone has photographed and given away",
-      "title_zh": "每个处理器模具都有人拍过照片并赠送",
-      "summary_zh": "文章网址： https://sheets.works/data-viz/cpu-dies评论网址： https://news.ycombinator.com/item?id=50405782点数： 74 #评论： 16",
+      "title_en": "Chimera Vocal Synth",
+      "title_zh": "Chimera声乐合成器",
+      "summary_zh": "文章网址： https://chimera-vocal-synth.vercel.app/评论网址： https://news.ycombinator.com/item?id=50418182点数： 75 #评论： 10",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://chimera-vocal-synth.vercel.app/",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "行业与研究",
+      "published_at": "2026-11-09T06:36:03+08:00"
+    },
+    {
+      "title_en": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "title_zh": "KetchUp –使用Rust和WebGPU构建的开源SketchUp替代方案",
+      "summary_zh": "文章网址： https://ketchup3d.github.io/app/评论网址： https://news.ycombinator.com/item?id=50418176点数： 167 #评论： 32",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://ketchup3d.github.io/app/",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "行业与研究",
+      "published_at": "2026-11-09T06:35:35+08:00"
+    },
+    {
+      "title_en": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "title_zh": "英伟达首席执行官Jensen Huang致员工关于婚外情的信",
+      "summary_zh": "文章网址： https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company评论网址： https://news.ycombinator.com/item?id=50418016点数： 326 #评论： 322",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "行业与研究",
+      "published_at": "2026-11-09T06:20:09+08:00"
+    },
+    {
+      "title_en": "Apple is racing to make Siri more agentic",
+      "title_zh": "苹果正在竞相让Siri更具特工气质",
+      "summary_zh": "彭博社的马克·古尔曼（ Mark Gurman ）表示，首席执行官约翰·特纳斯（ John Ternus ）正在向人工智能沙皇克雷格·费德里吉（ Craig Federighi ）施加压力，以加速Siri的路线图，并提供强大的人工智能代理，可以与OpenAI的Dots或Meta的虽然Federighi在极短的时间内推出了Siri AI的功能版本，但该公司并不认为它[…]",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "source": "The Verge AI",
+      "source_type": "media",
+      "category": "AI Agent",
+      "published_at": "2026-11-09T03:18:19+08:00"
+    },
+    {
+      "title_en": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "title_zh": "Llama-modchip ： 284B DeepSeek ， 64GB内存，无GPU",
+      "summary_zh": "文章网址： https://github.com/synchopate/llama-modchip评论网址： https://news.ycombinator.com/item?id=50411961点数： 359 #评论： 152",
       "why_it_matters": "关注本地运行能力，以及延迟、隐私、能耗和硬件成本之间的取舍。",
-      "url": "https://sheets.works/data-viz/cpu-dies",
+      "url": "https://github.com/synchopate/llama-modchip",
       "source": "Hacker News",
       "source_type": "community",
       "category": "端侧 AI 与硬件",
-      "published_at": "2026-11-08T00:21:36+08:00"
+      "published_at": "2026-11-08T18:22:04+08:00"
     },
     {
       "title_en": "Beyond code generation: A developer’s guide to agentic engineering",
@@ -160,17 +171,6 @@
       "source_type": "media",
       "category": "AI Agent",
       "published_at": "2026-11-06T14:28:32+08:00"
-    },
-    {
-      "title_en": "Measuring how AI agents handle everyday wet-lab science",
-      "title_zh": "衡量人工智能代理如何处理日常湿实验室科学",
-      "summary_zh": "OpenAI推出了BioBasicsBench ，这是一个100项任务的基准，用于衡量人工智能代理解读原始实验数据和处理日常湿实验室科学的能力。",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "source": "OpenAI",
-      "source_type": "official",
-      "category": "AI Agent",
-      "published_at": "2026-11-06T08:00:00+08:00"
     },
     {
       "title_en": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
