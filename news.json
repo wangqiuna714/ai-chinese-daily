@@ -1,99 +1,209 @@
 {
-  "updated_at": "2026-11-09T09:32:30.118962+08:00",
-  "daily_summary_zh": "今日共采集 20 条近 10 天资讯。赛道分布：AI Agent 5 条；AI 具身智能 5 条；行业与研究 5 条；AI Coding 2 条；端侧 AI 与硬件 2 条。优先浏览：在世界大部分地区解锁X品牌的任何车辆；Herb Sutter ：当一种语言的创作者及其所有者强烈反对时[pdf]；以下是Jensen Huang给Nvidia的备忘录全文。本总结依据新闻标题、来源和分类自动整理，不代表对新闻事实或技术效果的独立验证；重要结论请查看原文。",
+  "updated_at": "2026-11-10T15:29:16.209683+08:00",
+  "daily_summary_zh": "今日共采集 24 条近 10 天资讯。赛道分布：AI Agent 5 条；AI Coding 5 条；AI 具身智能 5 条；行业与研究 5 条；端侧 AI 与硬件 3 条。优先浏览：Amazon 通过使用 Strands Decider 替换 Sonnet 4.6 节省了数百万美元；数学家就像勒德派；你的电视可以看穿墙壁。本总结依据新闻标题、来源和分类自动整理，不代表对新闻事实或技术效果的独立验证；重要结论请查看原文。",
   "takeaways_zh": [
     "今日采集较多的方向：AI Agent（5 条）。",
-    "今日采集较多的方向：AI 具身智能（5 条）。",
-    "今日采集较多的方向：行业与研究（5 条）。"
+    "今日采集较多的方向：AI Coding（5 条）。",
+    "今日采集较多的方向：AI 具身智能（5 条）。"
   ],
   "news": [
     {
-      "title_en": "Unlocking any car from X brand in most of the world",
-      "title_zh": "在世界大部分地区解锁X品牌的任何车辆",
-      "summary_zh": "文章网址： https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/评论网址： https://news.ycombinator.com/item?id=50419215点数： 23 #评论： 13",
+      "title_en": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "title_zh": "Amazon 通过使用 Strands Decider 替换 Sonnet 4.6 节省了数百万美元",
+      "summary_zh": "文章网址：https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/ 评论网址：https://news.ycombinator.com/item?id=50436640 积分：94 # 评论：21",
       "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
       "source": "Hacker News",
       "source_type": "community",
       "category": "行业与研究",
-      "published_at": "2026-11-09T08:10:50+08:00"
+      "published_at": "2026-11-10T14:01:08+08:00"
     },
     {
-      "title_en": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
-      "title_zh": "Herb Sutter ：当一种语言的创作者及其所有者强烈反对时[pdf]",
-      "summary_zh": "文章网址： https://isocpp.org/files/papers/P4454R0.pdf评论网址： https://news.ycombinator.com/item?id=50418818点数： 47 #评论： 31",
+      "title_en": "Mathematicians Are Like Luddites",
+      "title_zh": "数学家就像勒德派",
+      "summary_zh": "文章网址：https://alok.blog/luddite/ 评论网址：https://news.ycombinator.com/item?id=50436587 积分：11 # 评论：0",
       "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://isocpp.org/files/papers/P4454R0.pdf",
+      "url": "https://alok.blog/luddite/",
       "source": "Hacker News",
       "source_type": "community",
       "category": "行业与研究",
-      "published_at": "2026-11-09T07:28:01+08:00"
+      "published_at": "2026-11-10T13:52:38+08:00"
     },
     {
-      "title_en": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "title_zh": "以下是Jensen Huang给Nvidia的备忘录全文",
-      "summary_zh": "周日，英伟达宣布将对首席执行官黄延森（ Jensen Huang ）与中国政府人工智能高管兼代理人黄爱丽丝（ Alice Huang ）的关系展开调查。除了董事会宣布调查外，黄先生还向英伟达员工发送了一份备忘录，承认此事。您可以阅读以下全文。致我的[…]",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "title_en": "Your TV can see through walls",
+      "title_zh": "你的电视可以看穿墙壁",
+      "summary_zh": "文章网址： https://maurycyz.com/projects/fading/评论网址： https://news.ycombinator.com/item?id=50436410点数： 41 #评论： 11",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://maurycyz.com/projects/fading/",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "行业与研究",
+      "published_at": "2026-11-10T13:24:45+08:00"
+    },
+    {
+      "title_en": "Ultorg: The User Interface for Relational Databases",
+      "title_zh": "Ultorg ：关系数据库的用户界面",
+      "summary_zh": "文章网址： https://www.ultorg.com/评论网址： https://news.ycombinator.com/item?id=50435898点数： 27 #评论： 6",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://www.ultorg.com/",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "行业与研究",
+      "published_at": "2026-11-10T11:59:39+08:00"
+    },
+    {
+      "title_en": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "title_zh": "随着人工智能信贷压力上升，CoreWeave 债券收益率突破 16%",
+      "summary_zh": "文章网址： https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html评论网址： https://news.ycombinator.com/item?id=50435660点数： 110 #评论： 53",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "行业与研究",
+      "published_at": "2026-11-10T11:20:06+08:00"
+    },
+    {
+      "title_en": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "title_zh": "由于RSI的担忧， Anthropic发布了新的Mythos和Fable模型",
+      "summary_zh": "Anthropic表示，新模型“显示了编码、推理和视觉等领域的改进” ，以及与用户进行更清晰的沟通。",
+      "why_it_matters": "关注它对开发效率、代码质量、测试能力和软件开发流程的实际影响。",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
+      "category": "AI Coding",
+      "published_at": "2026-11-10T03:24:51+08:00"
+    },
+    {
+      "title_en": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "title_zh": "Anthropic推出全新Claude Fable和Mythos 5.2车型",
+      "summary_zh": "Anthropic今天宣布推出两款新机型： Claude Fable 5.2和Claude Mythos 5.2 ，据称它们旨在应对“令人生畏”的技术挑战。该公司声称，新模型在编码、推理和视觉方面有所改进，并且可以比5.1版本的Fable和Mythos模型更快地生成输出。克劳德寓言[…]",
+      "why_it_matters": "关注它对开发效率、代码质量、测试能力和软件开发流程的实际影响。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
       "source": "The Verge AI",
       "source_type": "media",
-      "category": "AI Agent",
-      "published_at": "2026-11-09T06:54:50+08:00"
+      "category": "AI Coding",
+      "published_at": "2026-11-10T02:58:38+08:00"
     },
     {
-      "title_en": "Chimera Vocal Synth",
-      "title_zh": "Chimera声乐合成器",
-      "summary_zh": "文章网址： https://chimera-vocal-synth.vercel.app/评论网址： https://news.ycombinator.com/item?id=50418182点数： 75 #评论： 10",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://chimera-vocal-synth.vercel.app/",
+      "title_en": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+      "title_zh": "Show HN ： MeowDisplay是iPhone镜像，但反过来",
+      "summary_zh": "嘿， HN和Cats ，感谢您查看此房源！ Github ： https://github.com/raiseCatError/meowdisplay编辑2 ：我应该提到MeowDisplay最初是OpenDisplay的一个分支： https://github.com/peetzweg/opendisplay ，它提供了基本的屏幕捕获、虚拟显示、编码和iPhone/iPad接收器。从那时起，我更倾向于以手机为先，在交互、流媒体和安全层方面开展工作。",
+      "why_it_matters": "关注它对开发效率、代码质量、测试能力和软件开发流程的实际影响。",
+      "url": "https://meowdisplay.app/",
       "source": "Hacker News",
       "source_type": "community",
-      "category": "行业与研究",
-      "published_at": "2026-11-09T06:36:03+08:00"
+      "category": "AI Coding",
+      "published_at": "2026-11-10T02:39:22+08:00"
     },
     {
-      "title_en": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
-      "title_zh": "KetchUp –使用Rust和WebGPU构建的开源SketchUp替代方案",
-      "summary_zh": "文章网址： https://ketchup3d.github.io/app/评论网址： https://news.ycombinator.com/item?id=50418176点数： 167 #评论： 32",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://ketchup3d.github.io/app/",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "行业与研究",
-      "published_at": "2026-11-09T06:35:35+08:00"
-    },
-    {
-      "title_en": "Nvidia CEO Jensen Huang's letter to staff about affair",
-      "title_zh": "英伟达首席执行官Jensen Huang致员工关于婚外情的信",
-      "summary_zh": "文章网址： https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company评论网址： https://news.ycombinator.com/item?id=50418016点数： 326 #评论： 322",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "行业与研究",
-      "published_at": "2026-11-09T06:20:09+08:00"
-    },
-    {
-      "title_en": "Apple is racing to make Siri more agentic",
-      "title_zh": "苹果正在竞相让Siri更具特工气质",
-      "summary_zh": "彭博社的马克·古尔曼（ Mark Gurman ）表示，首席执行官约翰·特纳斯（ John Ternus ）正在向人工智能沙皇克雷格·费德里吉（ Craig Federighi ）施加压力，以加速Siri的路线图，并提供强大的人工智能代理，可以与OpenAI的Dots或Meta的虽然Federighi在极短的时间内推出了Siri AI的功能版本，但该公司并不认为它[…]",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-      "source": "The Verge AI",
-      "source_type": "media",
-      "category": "AI Agent",
-      "published_at": "2026-11-09T03:18:19+08:00"
-    },
-    {
-      "title_en": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "title_zh": "Llama-modchip ： 284B DeepSeek ， 64GB内存，无GPU",
-      "summary_zh": "文章网址： https://github.com/synchopate/llama-modchip评论网址： https://news.ycombinator.com/item?id=50411961点数： 359 #评论： 152",
+      "title_en": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "title_zh": "黄延森与涉嫌中国间谍的婚外情使英伟达的中国野心受到严格审查",
+      "summary_zh": "Jensen Huang涉嫌与一名涉嫌中国间谍发生关系，这可能会使英伟达放松美国芯片出口限制并保持进入中国利润丰厚的人工智能市场的游说努力复杂化。",
       "why_it_matters": "关注本地运行能力，以及延迟、隐私、能耗和硬件成本之间的取舍。",
-      "url": "https://github.com/synchopate/llama-modchip",
-      "source": "Hacker News",
-      "source_type": "community",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
       "category": "端侧 AI 与硬件",
-      "published_at": "2026-11-08T18:22:04+08:00"
+      "published_at": "2026-11-10T02:09:52+08:00"
+    },
+    {
+      "title_en": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "title_zh": "Meta发布Muse Ember ，一种新的轻量级代理执行模型",
+      "summary_zh": "Ember以每百万个输入代币10美分的价格，比Haiku和Luna等前沿竞争对手便宜得多。",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
+      "category": "AI Agent",
+      "published_at": "2026-11-10T02:00:00+08:00"
+    },
+    {
+      "title_en": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+      "title_zh": "实践使精确：在CoRL ， NVIDIA和合作伙伴揭示了机器人如何在模拟中排练精细的工作",
+      "summary_zh": "长期以来，模拟一直是机器人学习行走、滚动和跳跃的试验场，现在它正在帮助研究人员教授需要更精细触摸的机器人任务：对准齿轮、连接电缆和组装小部件。从运动到操纵的转变在本周于[…]举行的机器人学习会议（ CORL ）上占据了中心位置。",
+      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
+      "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+      "source": "NVIDIA Blog",
+      "source_type": "official",
+      "category": "AI 具身智能",
+      "published_at": "2026-11-09T22:00:01+08:00"
+    },
+    {
+      "title_en": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+      "title_zh": "Automattic首次推出一个平台，用于在不断变化的互联网中部署氛围编码应用程序",
+      "summary_zh": "Automattic的目标是与Spacefast的Lovable等公司竞争。",
+      "why_it_matters": "关注它对开发效率、代码质量、测试能力和软件开发流程的实际影响。",
+      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
+      "category": "AI Coding",
+      "published_at": "2026-11-09T22:00:00+08:00"
+    },
+    {
+      "title_en": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "title_zh": "英伟达在MSIT-NVIDIA人工智能初创企业合作伙伴论坛上宣布对韩国初创企业的新计划投资",
+      "summary_zh": "韩国科学和信息通信技术部与英伟达在COEX举办了MSIT-NVIDIA人工智能初创企业合作论坛。科学和信息通信技术部和英伟达的代表会见了20多家韩国初创公司，涉及基础模型、物理AI、AI基础设施和AI半导体。英伟达还宣布投资韩国创业公司Point2 ，并增加了[…]",
+      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
+      "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+      "source": "NVIDIA Blog",
+      "source_type": "official",
+      "category": "AI 具身智能",
+      "published_at": "2026-11-09T16:00:53+08:00"
+    },
+    {
+      "title_en": "CodeRabbit scales agentic software development and ships 20x more",
+      "title_zh": "CodeRabbit可扩展代理软件开发并出货量增加20倍",
+      "summary_zh": "CodeRabbit使用OpenAI模型来管理和信任AI生成的代码， Codex使用相同的工程团队出货20倍的软件。",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "source": "OpenAI",
+      "source_type": "official",
+      "category": "AI Agent",
+      "published_at": "2026-11-09T16:00:00+08:00"
+    },
+    {
+      "title_en": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "title_zh": "韩国携手NVIDIA推进各行各业的物理人工智能",
+      "summary_zh": "利用该国在制造和工程方面的优势， NVIDIA正在帮助推进韩国的物理AI生态系统。该国的行业领导者正在将加速计算、人工智能和仿真应用于从半导体制造到机器人和自动驾驶汽车的各个方面。这些努力正在帮助将物理AI从开发转变为现实世界的生产。三星通过[…]推进半导体工程",
+      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
+      "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+      "source": "NVIDIA Blog",
+      "source_type": "official",
+      "category": "AI 具身智能",
+      "published_at": "2026-11-09T13:00:40+08:00"
+    },
+    {
+      "title_en": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "title_zh": "韩国人工智能生态系统通过NVIDIA推进并保护代理人工智能",
+      "summary_zh": "随着人工智能代理承担更多工作，他们需要能够与之并驾齐驱的开放模型和安全性。现代汽车集团正在探索NVIDIA NemoClaw蓝图和NVIDIA OpenShell运行时，而AIM Intelligence正在将其Starfort平台与NVIDIA OpenShell集成，以支持安全的AI代理，实现员工生产力和企业工作流程。一把钥匙[…]",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+      "source": "NVIDIA Blog",
+      "source_type": "official",
+      "category": "AI Agent",
+      "published_at": "2026-11-09T13:00:39+08:00"
+    },
+    {
+      "title_en": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+      "title_zh": "从芯片到技能，英伟达和韩国扩大主权人工智能合作",
+      "summary_zh": "英伟达和韩国科学和信息通信技术部（ MSIT ）正在该国主权人工智能生态系统中扩大合作，从人工智能半导体和数据中心基础设施到人才、创业公司、模型、代理和安全。此次合作为韩国NPU和XPU公司探索参与NVIDIA NVLink Fusion生态系统奠定了基础，包括[…]",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+      "source": "NVIDIA Blog",
+      "source_type": "official",
+      "category": "AI Agent",
+      "published_at": "2026-11-09T13:00:04+08:00"
+    },
+    {
+      "title_en": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+      "title_zh": "NVIDIA Dynamo食谱将韩国领先的开放式机型推向生产",
+      "summary_zh": "英伟达正在为韩国领先的开放机型发布Dynamo优化部署方案： SK Telecom的A.X K2、LG AI Research的K-EXAONE 2.0、Upstage的Solar Open 2和Motif Technologies的Motif-3。随着模型的增长超过单个GPU的容量，它们必须分布在多个GPU上，需要仔细协调请求路由[…]",
+      "why_it_matters": "关注本地运行能力，以及延迟、隐私、能耗和硬件成本之间的取舍。",
+      "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+      "source": "NVIDIA Blog",
+      "source_type": "official",
+      "category": "端侧 AI 与硬件",
+      "published_at": "2026-11-09T13:00:00+08:00"
     },
     {
       "title_en": "Beyond code generation: A developer’s guide to agentic engineering",
@@ -105,17 +215,6 @@
       "source_type": "official",
       "category": "AI Agent",
       "published_at": "2026-11-07T06:15:59+08:00"
-    },
-    {
-      "title_en": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "title_zh": "Meta引入了Spaces ，这是一种与Muse代理进行协作的新方法",
-      "summary_zh": "Meta的Muse代理继续获得新功能和集成。Spaces有望成为与人工智能助手互动的新方式。",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "source": "TechCrunch AI",
-      "source_type": "media",
-      "category": "AI Agent",
-      "published_at": "2026-11-07T02:44:20+08:00"
     },
     {
       "title_en": "ToyBlocks: A controlled world for robot learning and evaluation",
@@ -138,39 +237,6 @@
       "source_type": "media",
       "category": "AI 具身智能",
       "published_at": "2026-11-06T21:10:00+08:00"
-    },
-    {
-      "title_en": "Physicl raises $10M to make the digital world real enough for robots",
-      "title_zh": "Physicl筹集了$ 1000万，使数字世界对机器人来说足够真实",
-      "summary_zh": "Physicl正试图通过最初为在线销售商品而构建的管道来解决模拟与真实之间的差距。",
-      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
-      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-      "source": "TechCrunch AI",
-      "source_type": "media",
-      "category": "AI 具身智能",
-      "published_at": "2026-11-06T21:00:00+08:00"
-    },
-    {
-      "title_en": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "title_zh": "我看着一个人形机器人打扫我的公寓。这感觉就像是未来的味道。",
-      "summary_zh": "我不是那种通常为房屋清洁工付费的人。我太节俭了，我有点喜欢播客，喜欢带着魔法橡皮擦在浴缸里去城里。但是，当我看到一篇关于旧金山新人形机器人清洁服务的X帖子时，我立即签署了……",
-      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
-      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "source": "MIT Technology Review",
-      "source_type": "media",
-      "category": "AI 具身智能",
-      "published_at": "2026-11-06T18:00:00+08:00"
-    },
-    {
-      "title_en": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "title_zh": "Palo Alto Networks正在洽谈以5亿美元收购人工智能代理安全初创公司Clutch",
-      "summary_zh": "据一位消息人士称，由Lightspeed和SignalFire支持的Clutch最后估值为8500万美元$。",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "source": "TechCrunch AI",
-      "source_type": "media",
-      "category": "AI Agent",
-      "published_at": "2026-11-06T14:28:32+08:00"
     },
     {
       "title_en": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
@@ -204,28 +270,6 @@
       "source_type": "official",
       "category": "AI Coding",
       "published_at": "2026-11-04T00:00:00+08:00"
-    },
-    {
-      "title_en": "Qodo builds context into AI code review with Codex",
-      "title_zh": "Qodo使用Codex将上下文构建到AI代码审查中",
-      "summary_zh": "Qodo将公司知识和编码标准引入Codex ，帮助开发人员在打开拉取请求之前跨存储库捕获P0问题。",
-      "why_it_matters": "关注它对开发效率、代码质量、测试能力和软件开发流程的实际影响。",
-      "url": "https://openai.com/index/qodo-codex-plugin",
-      "source": "OpenAI",
-      "source_type": "official",
-      "category": "AI Coding",
-      "published_at": "2026-11-02T08:00:00+08:00"
-    },
-    {
-      "title_en": "Making it easier for websites to express AI training preferences",
-      "title_zh": "让网站更容易表达人工智能培训偏好",
-      "summary_zh": "OpenAI将尊重共享的robots.txt信号，以帮助网站运营商向参与的提供商传达其人工智能培训偏好。",
-      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "source": "OpenAI",
-      "source_type": "official",
-      "category": "AI 具身智能",
-      "published_at": "2026-10-30T17:30:00+08:00"
     }
   ],
   "source_count": 12,
