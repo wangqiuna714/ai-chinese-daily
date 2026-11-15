@@ -1,220 +1,110 @@
 {
-  "updated_at": "2026-11-14T14:42:40.521014+08:00",
-  "daily_summary_zh": "今日共采集 25 条近 10 天资讯。赛道分布：AI Agent 5 条；多模态与视频生成 5 条；行业与研究 5 条；AI 具身智能 4 条；AI Coding 3 条。优先浏览：Zugwise：用于手写棋谱记分表数字化的域感知棋谱重建；当 World 仍存在错误时，清除客服代表的历史记录会造成问题；Together Compiler：用于 AI 推理的持续编译。本总结依据新闻标题、来源和分类自动整理，不代表对新闻事实或技术效果的独立验证；重要结论请查看原文。",
+  "updated_at": "2026-11-15T14:46:43.703621+08:00",
+  "daily_summary_zh": "今日共采集 21 条近 10 天资讯。赛道分布：AI Agent 5 条；AI 具身智能 5 条；端侧 AI 与硬件 5 条；行业与研究 5 条；多模态与视频生成 1 条。优先浏览：Show HN: Gawain – Require type hints on all Python variables；Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP；My favourite modern NES games。本总结依据新闻标题、来源和分类自动整理，不代表对新闻事实或技术效果的独立验证；重要结论请查看原文。",
   "takeaways_zh": [
     "今日采集较多的方向：AI Agent（5 条）。",
-    "今日采集较多的方向：多模态与视频生成（5 条）。",
-    "今日采集较多的方向：行业与研究（5 条）。"
+    "今日采集较多的方向：AI 具身智能（5 条）。",
+    "今日采集较多的方向：端侧 AI 与硬件（5 条）。"
   ],
   "news": [
     {
-      "title_en": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
-      "title_zh": "Zugwise：用于手写棋谱记分表数字化的域感知棋谱重建",
-      "summary_zh": "arXiv:2611.14544v1 公告类型：新摘要：手写棋谱记分表的数字化一直被视为一个手写识别问题：读取每个方框中的着法并检查其是否合法。这种设定忽略了最关键的错误。导致非合法走法的误读很明显。而导致走法合法但错误的误读则不会被发现，因为仅检查合法性的流程会接受该走法，并根据错误的棋局位置来读取之后的每一步走法。因此，我们",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://arxiv.org/abs/2611.14544",
-      "source": "arXiv AI",
-      "source_type": "research",
+      "title_en": "Show HN: Gawain – Require type hints on all Python variables",
+      "title_zh": "Show HN: Gawain – Require type hints on all Python variables",
+      "summary_zh": "原文摘要暂不可用；请点击“阅读原文”查看详情。",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。 标题翻译暂不可用，请结合英文原文判断。",
+      "url": "https://github.com/matheuzgomes/gawain",
+      "source": "Hacker News",
+      "source_type": "community",
       "category": "行业与研究",
-      "published_at": "2026-11-14T13:00:00+08:00"
+      "published_at": "2026-11-15T12:39:25+08:00"
     },
     {
-      "title_en": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
-      "title_zh": "当 World 仍存在错误时，清除客服代表的历史记录会造成问题",
-      "summary_zh": "arXiv:2611.14654v1 公告类型：新摘要：使用工具的语言模型智能体会积累自身错误的历史记录，而一个压缩、修复或移交此类历史记录的系统会决定它对这些错误的表述，同时这些错误的影响仍存在于世界中。此前的工作是在一个固定的世界中清理历史记录，其中显示一个已更正的步骤和说明已完成的操作是同时进行的。我们想知道，同样正确的“内容”是起到帮助作用还是造成损害，是否取决于",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://arxiv.org/abs/2611.14654",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "AI Agent",
-      "published_at": "2026-11-14T13:00:00+08:00"
-    },
-    {
-      "title_en": "Together Compiler: Continual Compilation for AI Inference",
-      "title_zh": "Together Compiler：用于 AI 推理的持续编译",
-      "summary_zh": "arXiv:2611.14681v1 公告类型：新摘要：当今的AI工作负载正在迅速变化：新模型发布得更加频繁，模型架构日益多样化，流量分布也频繁变化。我们在Together AI面临的挑战是如何持续优化这些不断变化的工作负载。将部署编译为优化的前向传播是一项非常适合代理爬山法的挑战。现有系统在这方面存在困难，",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://arxiv.org/abs/2611.14681",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "AI Agent",
-      "published_at": "2026-11-14T13:00:00+08:00"
-    },
-    {
-      "title_en": "When Should Semantic Priors Enter Partially-Identified Causal Discovery?",
-      "title_zh": "语义先验何时应进入部分识别的因果发现？",
-      "summary_zh": "arXiv:2611.14736v1 公告类型：新文 摘要：观察性因果发现通常会导致因果方向未得到确定或不稳定。大型语言模型（LLM）可以提供语义信息来确定这些方向，但错误的提议可能会排除真正的因果图，并使下游推理失效。我们研究了三个独立的决策：将语义查询分配到哪里、接受哪些提议以及重新考虑哪些因果图。",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://arxiv.org/abs/2611.14736",
-      "source": "arXiv AI",
-      "source_type": "research",
+      "title_en": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+      "title_zh": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+      "summary_zh": "原文摘要暂不可用；请点击“阅读原文”查看详情。",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。 标题翻译暂不可用，请结合英文原文判断。",
+      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "source": "Hacker News",
+      "source_type": "community",
       "category": "行业与研究",
-      "published_at": "2026-11-14T13:00:00+08:00"
+      "published_at": "2026-11-15T12:09:11+08:00"
     },
     {
-      "title_en": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
-      "title_zh": "SynthCorp：用于创建数据代理基准的平台",
-      "summary_zh": "arXiv:2611.14765v1 公告类型：新摘要：当前针对 LLM 驱动的数据代理的基准很快就会饱和，并且无法针对特定能力。我们推出了SynthCorp，这是一个通过模拟业务事件随时间推移如何生成和修改企业数据来创建可定制数据资产和基准的平台。每个数据资产都将关系数据库、文档存储和数据目录相结合，并与评估任务和可执行的Go程序配对。",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://arxiv.org/abs/2611.14765",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "AI Agent",
-      "published_at": "2026-11-14T13:00:00+08:00"
-    },
-    {
-      "title_en": "Rational Use of Time for Social Coordination in Humans and AI",
-      "title_zh": "人类与人工智能在社会协调方面的合理时间利用",
-      "summary_zh": "arXiv:2611.14766v1 公告类型：新摘要：所有社会互动都存在于时间之中。先前的研究表明，人类能够利用隐性时间线索（例如停顿的持续时间）来推断他人的心理状态。但是，人类如何利用时间线索来进行动态、精细的社会协调？那么，人工智能系统能否在没有像人类那样“体验”连续实时的情况下做到同样的事情呢？我们使用一种协作方法来研究这些问题。",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://arxiv.org/abs/2611.14766",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "AI Agent",
-      "published_at": "2026-11-14T13:00:00+08:00"
-    },
-    {
-      "title_en": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
-      "title_zh": "排行榜操纵：基于偏好的模型评估易受操纵",
-      "summary_zh": "arXiv:2611.14769v1 公告类型：新摘要：竞技场式语言模型排名是一种广泛应用于在线排行榜、研究论文和生产中模型评估的评估框架。这些排名的目的是通过对匿名模型在用户提示上的成对比较来现实地评估模型性能，并使用Bradley-Terry模型汇总投票，从而得出最终排名。然而，我们发现这些排行榜",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://arxiv.org/abs/2611.14769",
-      "source": "arXiv AI",
-      "source_type": "research",
+      "title_en": "My favourite modern NES games",
+      "title_zh": "My favourite modern NES games",
+      "summary_zh": "原文摘要暂不可用；请点击“阅读原文”查看详情。",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。 标题翻译暂不可用，请结合英文原文判断。",
+      "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+      "source": "Hacker News",
+      "source_type": "community",
       "category": "行业与研究",
-      "published_at": "2026-11-14T13:00:00+08:00"
+      "published_at": "2026-11-15T10:41:25+08:00"
     },
     {
-      "title_en": "Robust Task-Aware State Estimation from Pre-trained Perception",
-      "title_zh": "基于预训练感知模型的稳健任务感知状态估计",
-      "summary_zh": "arXiv:2611.14781v1 公告类型：新文 摘要：使用预训练感知模型（例如视觉-语言模型，VLM）进行状态估计的智能体面临着一个根本性挑战，即预测具有不确定性。尽管如此，大多数方法仍将这些预测确定为一个最佳猜测状态，并像对待真实情况一样做出决策。这种做法很脆弱，因为当猜测有误时，智能体的决策可能不安全或不可行。",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://arxiv.org/abs/2611.14781",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "AI Agent",
-      "published_at": "2026-11-14T13:00:00+08:00"
-    },
-    {
-      "title_en": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
-      "title_zh": "何时进行证明步骤验证物有所值？开放权重数学推理的“认证或拒绝”验证操作要求",
-      "summary_zh": "arXiv:2611.14794v1 公告类型：新摘要：证明步骤验证将求解器的答案重写为类型化步骤，并使用大语言模型（LLM）评判器进行认证或拒绝。我们在GPQA、AIME-2025和MATH-500子集上的开放权重模型中评估了该管道。在强大的GPQA配置中，认证将答案与答案对照表匹配的准确率提高了31个百分点，在AIME中提高了46个百分点，而仅回答了35%和21%的尝试。在接近上限的MATH-500上，gai",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://arxiv.org/abs/2611.14794",
-      "source": "arXiv AI",
-      "source_type": "research",
+      "title_en": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "title_zh": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "summary_zh": "原文摘要暂不可用；请点击“阅读原文”查看详情。",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。 标题翻译暂不可用，请结合英文原文判断。",
+      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+      "source": "Hacker News",
+      "source_type": "community",
       "category": "行业与研究",
-      "published_at": "2026-11-14T13:00:00+08:00"
+      "published_at": "2026-11-15T10:00:54+08:00"
     },
     {
-      "title_en": "GenPFN: An In-Context Tabular Foundation Model Approach for Augmenting Small Datasets in Engineering",
-      "title_zh": "GenPFN：一种用于扩充工程领域小规模数据集的上下文表格基础模型方法",
-      "summary_zh": "arXiv:2611.14804v1 公告类型：新摘要：成本高昂的模拟和实验限制了可用于工程设计的数据。本文提出了GenPFN，这是一种无需训练的候选生成器，由一个具有固定权重的预训练表格型先验数据拟合网络（TabPFN）分类器引导。该语境包含经评估的设计，标记为理想（类别 1）或非理想（类别 0）。GenPFN 在期望设计之间进行插值，并对候选设计进行优化。",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://arxiv.org/abs/2611.14804",
-      "source": "arXiv AI",
-      "source_type": "research",
+      "title_en": "Court denies motion to dismiss DRAM price fixing case",
+      "title_zh": "Court denies motion to dismiss DRAM price fixing case",
+      "summary_zh": "原文摘要暂不可用；请点击“阅读原文”查看详情。",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。 标题翻译暂不可用，请结合英文原文判断。",
+      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "source": "Hacker News",
+      "source_type": "community",
       "category": "行业与研究",
-      "published_at": "2026-11-14T13:00:00+08:00"
+      "published_at": "2026-11-15T09:18:36+08:00"
     },
     {
-      "title_en": "AutoAssumption: Searching over Assumptions Discovers ML-Systems Algorithms",
-      "title_zh": "AutoAssumption：通过搜索假设发现机器学习系统算法",
-      "summary_zh": "arXiv:2611.14844v1 公告类型：新摘要：机器学习系统取得的许多进步源于打破了早期方法所当然认为的一个假设：推测性解码摒弃了模型需要对每个token进行一次前向传播的假设。然而，算法很少阐明其假设，因此专家和发现工具会在程序中进行搜索，其中一次编辑就会改变多个设计选择，而且收益难以归因。在假设上进行搜索",
-      "why_it_matters": "关注它对开发效率、代码质量、测试能力和软件开发流程的实际影响。",
-      "url": "https://arxiv.org/abs/2611.14844",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "AI Coding",
-      "published_at": "2026-11-14T13:00:00+08:00"
-    },
-    {
-      "title_en": "Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs",
-      "title_zh": "边缘原生多模态RAG：面向消费级GPU的硬件感知量化和架构优化",
-      "summary_zh": "arXiv:2611.14924v1 公告类型：新摘要：在边缘人工智能中部署检索增强生成（RAG）受到内存和带宽限制的约束。一个标准的70亿参数模型在半精度（FP16）下消耗14 GB显存（VRAM），这使得向量索引和键值（KV）缓存无法共置。本文介绍了一种针对……进行优化的多模态 RAG 框架的工程集成和实证评估。",
-      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
-      "url": "https://arxiv.org/abs/2611.14924",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "多模态与视频生成",
-      "published_at": "2026-11-14T13:00:00+08:00"
-    },
-    {
-      "title_en": "Emergent Vision-Shaped Thinking in Text-Only Reasoning through Multimodal Training",
-      "title_zh": "通过多模态训练在纯文本推理中涌现的视觉型思维",
-      "summary_zh": "arXiv:2611.14942v1 公告类型：新摘要：即使输入仅为文本，多模态训练是否也会影响语言模型的思考方式？我们通过对来自6个模型系列的10种多模态配置进行有针对性的因果消融来检验这一点，并使用匹配的纯文本骨干网络和跨系列迁移对照。我们将需要构建心理场景的空间想象任务与仅通过符号规则即可解决的符号操纵任务进行了对比。",
-      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
-      "url": "https://arxiv.org/abs/2611.14942",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "多模态与视频生成",
-      "published_at": "2026-11-14T13:00:00+08:00"
-    },
-    {
-      "title_en": "Advancing Weighted Partial MaxSAT Solving via Differentiable GPU Guidance",
-      "title_zh": "通过可导 GPU 指导推进加权偏最大满足性 (MaxSAT) 求解",
-      "summary_zh": "arXiv:2611.15091v1 公告类型：新摘要：我们提出了一种用于加权部分最大满足性问题（WPMAX-SAT）的GPU-CPU混合框架，该框架通过可微GPU优化来补充最先进的CPU求解器。GPU阶段直接优化特定于实例的分类决策参数，无需训练数据集或预训练的预测模型。将可微优化扩展到WPMAX-SAT的主要挑战在于硬/软约束。",
-      "why_it_matters": "关注本地运行能力，以及延迟、隐私、能耗和硬件成本之间的取舍。",
-      "url": "https://arxiv.org/abs/2611.15091",
-      "source": "arXiv AI",
-      "source_type": "research",
+      "title_en": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "title_zh": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "summary_zh": "原文摘要暂不可用；请点击“阅读原文”查看详情。",
+      "why_it_matters": "关注本地运行能力，以及延迟、隐私、能耗和硬件成本之间的取舍。 标题翻译暂不可用，请结合英文原文判断。",
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "source": "Hacker News",
+      "source_type": "community",
       "category": "端侧 AI 与硬件",
-      "published_at": "2026-11-14T13:00:00+08:00"
+      "published_at": "2026-11-15T06:26:30+08:00"
     },
     {
-      "title_en": "A frontier machine intelligence for human neuroimaging",
-      "title_zh": "用于人类神经影像的前沿机器智能",
-      "summary_zh": "arXiv:2611.15094v1 公告类型：新摘要：医学影像对于诊断疾病、指导治疗以及随时间推移监测患者至关重要。虽然人工智能推动了影像判读的进步，但现有医学模型通常只解决有限的任务，而通用型专有模型则缺乏获得医学专业知识所需的私有临床影像。开发能够解读复杂检查结果的模型",
-      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
-      "url": "https://arxiv.org/abs/2611.15094",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "多模态与视频生成",
-      "published_at": "2026-11-14T13:00:00+08:00"
+      "title_en": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "title_zh": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "summary_zh": "原文摘要暂不可用；请点击“阅读原文”查看详情。",
+      "why_it_matters": "关注本地运行能力，以及延迟、隐私、能耗和硬件成本之间的取舍。 标题翻译暂不可用，请结合英文原文判断。",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
+      "category": "端侧 AI 与硬件",
+      "published_at": "2026-11-15T00:34:15+08:00"
     },
     {
-      "title_en": "Expanding the Decision Space of Pretrained Models through Structured Re-Decoding",
-      "title_zh": "通过结构化重解码扩展预训练模型的决策空间",
-      "summary_zh": "arXiv:2611.15109v1 公告类型：新摘要：原生解码器限制了预训练模型在新结构约束下组合局部预测的方式。我们介绍了结构化重解码（SRD），这是一个无需训练的框架，它从模型得分、样本或外部规范中构建局部候选，共同优化其选择，并验证重构的输出。我们展示了候选重组如何扩大可行支持范围，并且可以",
-      "why_it_matters": "关注它对开发效率、代码质量、测试能力和软件开发流程的实际影响。",
-      "url": "https://arxiv.org/abs/2611.15109",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "AI Coding",
-      "published_at": "2026-11-14T13:00:00+08:00"
+      "title_en": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "title_zh": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "summary_zh": "原文摘要暂不可用；请点击“阅读原文”查看详情。",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。 标题翻译暂不可用，请结合英文原文判断。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "source": "The Verge AI",
+      "source_type": "media",
+      "category": "AI Agent",
+      "published_at": "2026-11-14T04:45:10+08:00"
     },
     {
-      "title_en": "HyperSkill: Training-Free Omnimodal GRPO via Hypergraph-Indexed Skill-Library Evolution",
-      "title_zh": "HyperSkill：通过超图索引技能库演化实现的无训练多模态 GRPO",
-      "summary_zh": "arXiv:2611.15178v1 公告类型：新摘要：强化学习可以提升大语言模型（LLM）的推理能力，但参数更新成本高昂、容易遗忘且不透明；无训练库将梯度替换为文本存储，但仍采用轨迹级、基于相关性的纳入机制和平坦结构。为了解决这两个问题，我们提出了HyperSkill，这是一个无训练的全模态GRPO框架，它保持主干网络冻结，并用可审计的……替代梯度更新。",
-      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
-      "url": "https://arxiv.org/abs/2611.15178",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "多模态与视频生成",
-      "published_at": "2026-11-14T13:00:00+08:00"
-    },
-    {
-      "title_en": "AFTER: A World Model with Adaptive Fast--Slow Timescales for Error-Driven Retention",
-      "title_zh": "之后：具有自适应快-慢时间尺度的世界模型，用于误差驱动的保留",
-      "summary_zh": "arXiv:2611.15215v1 公告类型：新摘要：在机器人学和具身人工智能领域，世界模型面临的一个核心挑战是如何适应机器人动力学在交互过程中发生的突然、持续且最初未知的变化。例如，当机械臂抓取一个负载未知的物体时，机器人的动力学特性会突然发生变化。如果世界模型无法适应，其预测误差会在开环展开过程中不断累积，最终误导机器人。",
-      "why_it_matters": "关注它对开发效率、代码质量、测试能力和软件开发流程的实际影响。",
-      "url": "https://arxiv.org/abs/2611.15215",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "AI Coding",
-      "published_at": "2026-11-14T13:00:00+08:00"
-    },
-    {
-      "title_en": "Can MLLMs Reason over Surround-View Driving Videos? A Multi-View Autonomous Driving QA Benchmark",
-      "title_zh": "MLLM 能否对环景驾驶视频进行推理？多视角自动驾驶问答基准",
-      "summary_zh": "arXiv:2611.15225v1 公告类型：新摘要：在自动驾驶中，对环视视频的理解是多模态大语言模型（MLLM）实现可靠驾驶推理的关键能力。在现实世界中驾驶时，通常需要前视摄像头之外的信息。现有的MLLM主要关注前视信息，而其时空理解和推理能力仍不为人知。为了弥补这一缺口，我们",
-      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
-      "url": "https://arxiv.org/abs/2611.15225",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "多模态与视频生成",
-      "published_at": "2026-11-14T13:00:00+08:00"
+      "title_en": "AI agent startup LangChain hits $3B valuation",
+      "title_zh": "AI agent startup LangChain hits $3B valuation",
+      "summary_zh": "原文摘要暂不可用；请点击“阅读原文”查看详情。",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。 标题翻译暂不可用，请结合英文原文判断。",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
+      "category": "AI Agent",
+      "published_at": "2026-11-14T03:37:57+08:00"
     },
     {
       "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
@@ -226,6 +116,28 @@
       "source_type": "official",
       "category": "AI 具身智能",
       "published_at": "2026-11-14T02:00:39+08:00"
+    },
+    {
+      "title_en": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "title_zh": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "summary_zh": "原文摘要暂不可用；请点击“阅读原文”查看详情。",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。 标题翻译暂不可用，请结合英文原文判断。",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
+      "category": "AI Agent",
+      "published_at": "2026-11-14T00:00:12+08:00"
+    },
+    {
+      "title_en": "Introducing ChatGPT Wallet",
+      "title_zh": "Introducing ChatGPT Wallet",
+      "summary_zh": "原文摘要暂不可用；请点击“阅读原文”查看详情。",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。 标题翻译暂不可用，请结合英文原文判断。",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI",
+      "source_type": "official",
+      "category": "AI Agent",
+      "published_at": "2026-11-13T23:00:00+08:00"
     },
     {
       "title_en": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
@@ -250,6 +162,17 @@
       "published_at": "2026-11-13T18:00:00+08:00"
     },
     {
+      "title_en": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "title_zh": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary_zh": "原文摘要暂不可用；请点击“阅读原文”查看详情。",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。 标题翻译暂不可用，请结合英文原文判断。",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "source": "OpenAI",
+      "source_type": "official",
+      "category": "AI Agent",
+      "published_at": "2026-11-13T16:00:00+08:00"
+    },
+    {
       "title_en": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
       "title_zh": "尽管业内公开质疑其可行性，但英伟达私下确认其能够追踪芯片以打击走私行为。",
       "summary_zh": "福斯特周四在接受《麻省理工科技评论》采访时表示，英伟达的代表曾向伊利诺伊州众议员福斯特表示，从技术上讲，实施《芯片安全法案》中规定的反走私措施是可行的，尽管有行业团体声称这些措施“可能不可行”。福斯特是民主党人，在……委员会任职。",
@@ -272,6 +195,17 @@
       "published_at": "2026-11-11T11:00:20+08:00"
     },
     {
+      "title_en": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "title_zh": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "summary_zh": "原文摘要暂不可用；请点击“阅读原文”查看详情。",
+      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。 标题翻译暂不可用，请结合英文原文判断。",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "source": "Google DeepMind",
+      "source_type": "official",
+      "category": "多模态与视频生成",
+      "published_at": "2026-11-10T03:51:47+08:00"
+    },
+    {
       "title_en": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
       "title_zh": "熟能生巧：在 CoRL，NVIDIA 和合作伙伴揭示了机器人如何在模拟中演练精细的工作",
       "summary_zh": "仿真长期以来一直是机器人学习行走、滚动和跳跃的试验场，现在正在帮助研究人员教授机器人执行需要更精细触摸的任务：对齐齿轮、连接电缆和组装小部件。在本周的机器人学习会议 (CoRL) 上，从运动到操纵的转变成为焦点 […]",
@@ -281,6 +215,28 @@
       "source_type": "official",
       "category": "AI 具身智能",
       "published_at": "2026-11-09T22:00:01+08:00"
+    },
+    {
+      "title_en": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "title_zh": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "summary_zh": "原文摘要暂不可用；请点击“阅读原文”查看详情。",
+      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。 标题翻译暂不可用，请结合英文原文判断。",
+      "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+      "source": "NVIDIA Blog",
+      "source_type": "official",
+      "category": "AI 具身智能",
+      "published_at": "2026-11-09T16:00:53+08:00"
+    },
+    {
+      "title_en": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+      "title_zh": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+      "summary_zh": "原文摘要暂不可用；请点击“阅读原文”查看详情。",
+      "why_it_matters": "关注本地运行能力，以及延迟、隐私、能耗和硬件成本之间的取舍。 标题翻译暂不可用，请结合英文原文判断。",
+      "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+      "source": "NVIDIA Blog",
+      "source_type": "official",
+      "category": "端侧 AI 与硬件",
+      "published_at": "2026-11-09T13:00:00+08:00"
     }
   ],
   "source_count": 12,
