@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18T15:41:58.997476+08:00",
-  "daily_summary_zh": "今日共采集 25 条近 10 天资讯。赛道分布：AI Agent 5 条；AI 具身智能 5 条；多模态与视频生成 5 条；行业与研究 5 条；AI Coding 4 条。优先浏览：人工智能正在扼杀《柏林万象》；为什么是斐波那契？；在一家YC孵化的初创公司面试时，我发现他们未经许可就使用了我的LinkedIn。。本总结依据新闻标题、来源和分类自动整理，不代表对新闻事实或技术效果的独立验证；重要结论请查看原文。",
+  "updated_at": "2026-11-19T15:38:09.301156+08:00",
+  "daily_summary_zh": "今日共采集 25 条近 10 天资讯。赛道分布：AI Agent 5 条；AI 具身智能 5 条；多模态与视频生成 5 条；行业与研究 5 条；AI Coding 3 条。优先浏览：一台虚拟机上的 1500 万台 Web 服务器 – smoltcp、DPDK、AF_XDP；NEBench R1：用于评估大型语言模型核领域能力的推理基准；“连锁思维”的可控性可以降低“连锁思维”的可监测性。本总结依据新闻标题、来源和分类自动整理，不代表对新闻事实或技术效果的独立验证；重要结论请查看原文。",
   "takeaways_zh": [
     "今日采集较多的方向：AI Agent（5 条）。",
     "今日采集较多的方向：AI 具身智能（5 条）。",
@@ -8,37 +8,15 @@
   ],
   "news": [
     {
-      "title_en": "AI is killing All About Berlin",
-      "title_zh": "人工智能正在扼杀《柏林万象》",
-      "summary_zh": "文章网址：https://nicolasbouliane.com/blog/death-by-ai评论网址：https://news.ycombinator.com/item?id=50542705积分：25 #评论：6",
+      "title_en": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+      "title_zh": "一台虚拟机上的 1500 万台 Web 服务器 – smoltcp、DPDK、AF_XDP",
+      "summary_zh": "文章网址：https://kapteko.com/15-million-webservers/评论网址：https://news.ycombinator.com/item?id=50556533积分：35 # 评论数：7",
       "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://nicolasbouliane.com/blog/death-by-ai",
+      "url": "https://kapteko.com/15-million-webservers/",
       "source": "Hacker News",
       "source_type": "community",
       "category": "行业与研究",
-      "published_at": "2026-11-18T14:47:26+08:00"
-    },
-    {
-      "title_en": "Why Fibonacci?",
-      "title_zh": "为什么是斐波那契？",
-      "summary_zh": "文章网址：https://www.evilgeniuslabs.org/why-fibonacci 评论网址：https://news.ycombinator.com/item?id=50542264 得分：20 # 评论数：1",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://www.evilgeniuslabs.org/why-fibonacci",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "行业与研究",
-      "published_at": "2026-11-18T13:35:02+08:00"
-    },
-    {
-      "title_en": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
-      "title_zh": "在一家YC孵化的初创公司面试时，我发现他们未经许可就使用了我的LinkedIn。",
-      "summary_zh": "文章网址：https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/评论网址：https://news.ycombinator.com/item?id=50542135积分：251评论数：37",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "行业与研究",
-      "published_at": "2026-11-18T13:11:30+08:00"
+      "published_at": "2026-11-19T13:56:36+08:00"
     },
     {
       "title_en": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
@@ -49,7 +27,7 @@
       "source": "arXiv AI",
       "source_type": "research",
       "category": "行业与研究",
-      "published_at": "2026-11-18T13:00:00+08:00"
+      "published_at": "2026-11-19T13:00:00+08:00"
     },
     {
       "title_en": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
@@ -60,7 +38,7 @@
       "source": "arXiv AI",
       "source_type": "research",
       "category": "AI Agent",
-      "published_at": "2026-11-18T13:00:00+08:00"
+      "published_at": "2026-11-19T13:00:00+08:00"
     },
     {
       "title_en": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
@@ -71,7 +49,29 @@
       "source": "arXiv AI",
       "source_type": "research",
       "category": "行业与研究",
-      "published_at": "2026-11-18T13:00:00+08:00"
+      "published_at": "2026-11-19T13:00:00+08:00"
+    },
+    {
+      "title_en": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
+      "title_zh": "审计员在人工智能安全研究的端到端笔录中难以发现蓄意破坏行为",
+      "summary_zh": "arXiv:2611.21832v1 公告类型：新文章摘要：随着人工智能系统越来越多地被用于实现人工智能研发的自动化，未对齐的系统可能会破坏旨在提高模型安全性和对齐性的研究。为了对针对此类破坏的防御措施进行压力测试，我们使用一名人类专家作为人工智能安全研究的代理破坏者。我们进行了一场红队/蓝队博弈，其中一名人类研究人员从零开始进行人工智能安全实验，而审计人员则试图判断哪些实验受到了破坏。",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://arxiv.org/abs/2611.21832",
+      "source": "arXiv AI",
+      "source_type": "research",
+      "category": "行业与研究",
+      "published_at": "2026-11-19T13:00:00+08:00"
+    },
+    {
+      "title_en": "Language Models Can Rewrite Their Own Weights",
+      "title_zh": "语言模型可以重写自身的权重",
+      "summary_zh": "arXiv:2611.21885v2 公告类型：新摘要：语言模型经过一次训练后即被冻结。要让它变得更好，需要再进行一次训练，或者使用提示、Harness 或在推理时进行额外的计算，而这些在任务结束后都会消失。我们展示了第三种方法：据我们所知，这是第一次有语言模型通过自身的推理来重写自身的权重，从而变得更好，且无需梯度和训练。我们称之为自我重写：模型是其",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "source": "arXiv AI",
+      "source_type": "research",
+      "category": "行业与研究",
+      "published_at": "2026-11-19T13:00:00+08:00"
     },
     {
       "title_en": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
@@ -82,7 +82,7 @@
       "source": "arXiv AI",
       "source_type": "research",
       "category": "AI Coding",
-      "published_at": "2026-11-18T13:00:00+08:00"
+      "published_at": "2026-11-19T13:00:00+08:00"
     },
     {
       "title_en": "SLED: Sensor SLicing from Edge to Datacenter",
@@ -93,7 +93,7 @@
       "source": "arXiv AI",
       "source_type": "research",
       "category": "AI Agent",
-      "published_at": "2026-11-18T13:00:00+08:00"
+      "published_at": "2026-11-19T13:00:00+08:00"
     },
     {
       "title_en": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
@@ -104,7 +104,7 @@
       "source": "arXiv AI",
       "source_type": "research",
       "category": "AI Agent",
-      "published_at": "2026-11-18T13:00:00+08:00"
+      "published_at": "2026-11-19T13:00:00+08:00"
     },
     {
       "title_en": "WebAgents: Unbundling Agent Creation, Hosting, and Execution for an Agent-Native Web",
@@ -115,7 +115,7 @@
       "source": "arXiv AI",
       "source_type": "research",
       "category": "AI Agent",
-      "published_at": "2026-11-18T13:00:00+08:00"
+      "published_at": "2026-11-19T13:00:00+08:00"
     },
     {
       "title_en": "SkillBuffBench: Measuring What Agent Skills Contribute across Harnesses, Models, Skill Access Modes and Memory",
@@ -126,7 +126,7 @@
       "source": "arXiv AI",
       "source_type": "research",
       "category": "AI Agent",
-      "published_at": "2026-11-18T13:00:00+08:00"
+      "published_at": "2026-11-19T13:00:00+08:00"
     },
     {
       "title_en": "LoCaR: Localized Canvas Retrieval With Frozen Vision-Language Model",
@@ -137,7 +137,7 @@
       "source": "arXiv AI",
       "source_type": "research",
       "category": "多模态与视频生成",
-      "published_at": "2026-11-18T13:00:00+08:00"
+      "published_at": "2026-11-19T13:00:00+08:00"
     },
     {
       "title_en": "Reconfiguring Procedural Knowledge for Compositional Robot Skill Adaptation",
@@ -148,7 +148,7 @@
       "source": "arXiv AI",
       "source_type": "research",
       "category": "AI 具身智能",
-      "published_at": "2026-11-18T13:00:00+08:00"
+      "published_at": "2026-11-19T13:00:00+08:00"
     },
     {
       "title_en": "CorrectCast: Selective Multimodal Context for Scale-Aware Residual Correction in Precipitation Nowcasting",
@@ -159,128 +159,128 @@
       "source": "arXiv AI",
       "source_type": "research",
       "category": "多模态与视频生成",
-      "published_at": "2026-11-18T13:00:00+08:00"
+      "published_at": "2026-11-19T13:00:00+08:00"
     },
     {
-      "title_en": "Robustness as a Transferable Skill: Cross-Task Adversarial Defense for Vision-Language-Action Policies",
-      "title_zh": "鲁棒性作为一种可迁移技能：针对视觉-语言-行动策略的跨任务对抗性防御",
-      "summary_zh": "arXiv:2611.18702v1 公告类型：新摘要：视觉-语言-动作（VLA）策略容易受到对抗性视觉扰动的攻击，而防御通常需要针对具体任务的对抗性微调。我们研究了在源操纵任务上学习到的鲁棒性是否能够在没有目标侧对抗性训练的情况下保护独立专业化的目标策略。我们首先表明，即使是单次源防御更新也能提高",
+      "title_en": "BiCAT: Bimanual Coordination Action Tokenization",
+      "title_zh": "BiCAT：双手协调动作标记化",
+      "summary_zh": "arXiv:2611.23499v1 公告类型：新摘要：自回归视觉-语言-动作（VLA）模型以其视觉-语言主干的下一个标记目标来预测离散动作标记，因此动作标记器定义了策略与机器人之间的接口。在双手操作中，两只手臂共享一套动作，但通过互补的角色进行协调，动作表示应同时捕捉这两方面。然而，m",
       "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
-      "url": "https://arxiv.org/abs/2611.18702",
+      "url": "https://arxiv.org/abs/2611.23499",
       "source": "arXiv Robotics",
       "source_type": "research",
       "category": "多模态与视频生成",
-      "published_at": "2026-11-18T13:00:00+08:00"
+      "published_at": "2026-11-19T13:00:00+08:00"
     },
     {
-      "title_en": "Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot",
-      "title_zh": "御驾 1:10 比例自动驾驶车辆机器人技术报告",
-      "summary_zh": "arXiv:2611.18855v1 公告类型：新摘要：本报告介绍了Auriga Robotics 1:10比例自动驾驶车辆的设计和实施，该车辆由沙希德·贝赫什提大学机器人与智能自动化实验室开发。该平台集成了定制的机械底盘、基于ESP32微控制器的分布式嵌入式系统以及用于高级感知和控制的Jetson Orin NX模块。嵌入式层负责管理",
+      "title_en": "Learning and Control in Physically Coupled Dynamical Systems",
+      "title_zh": "物理耦合动态系统中的学习与控制",
+      "summary_zh": "arXiv:2611.23502v1 公告类型：新摘要：我们介绍了TAG（自主游戏测试平台），这是一个紧凑型、低成本的机器人平台，用于研究物理耦合动态系统中的学习和控制。TAG将主动倾斜和转向的迷宫滚球板与顶部安装的旋转倒立摆相结合。摆锤的反应扭矩和振动会干扰棋盘和弹珠，而棋盘的倾斜则由迷宫求解策略驱动，",
       "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
-      "url": "https://arxiv.org/abs/2611.18855",
+      "url": "https://arxiv.org/abs/2611.23502",
       "source": "arXiv Robotics",
       "source_type": "research",
       "category": "AI 具身智能",
-      "published_at": "2026-11-18T13:00:00+08:00"
+      "published_at": "2026-11-19T13:00:00+08:00"
     },
     {
-      "title_en": "Passage-Focused Soft Coordination for Hierarchical Multi-Robot Navigation in Bottleneck Environments",
-      "title_zh": "针对瓶颈环境下的分层多机器人导航的通道导向型软协调",
-      "summary_zh": "arXiv:2611.18877v1 公告类型：新文 摘要：在多机器人导航中，刚性的全局调度对执行偏差很敏感，而局部方法则缺乏长期的协调。我们提出了一种以通道为中心的框架，将软性全局协调与灵活的局部执行相结合。由通道诱导的凸集图支持具有两级软协调的优先级排序规划。基于通道感知的路径选择占p",
-      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
-      "url": "https://arxiv.org/abs/2611.18877",
-      "source": "arXiv Robotics",
-      "source_type": "research",
-      "category": "AI 具身智能",
-      "published_at": "2026-11-18T13:00:00+08:00"
-    },
-    {
-      "title_en": "Correcting Persistent Failures in Point-Cloud Grasping Policies using Human Demonstrations in Virtual Reality",
-      "title_zh": "使用虚拟现实中的人类演示来纠正点云抓取策略中的持续性失败",
-      "summary_zh": "arXiv:2611.18919v1 公告类型：新文 摘要：家庭、仓库和农场的机器人必须拾取它们从未见过的物体，通常没有3D模型或类别标签。直接作用于深度传感器点云的抓取策略只需要机器人观察到的几何形状，因此适用于任何新物体。Contact-GraspNet 等离线抓取生成器就是以这种方式工作，但它们是根据学习到的合理性而不是……来对抓取进行排序。",
-      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
-      "url": "https://arxiv.org/abs/2611.18919",
-      "source": "arXiv Robotics",
-      "source_type": "research",
-      "category": "AI 具身智能",
-      "published_at": "2026-11-18T13:00:00+08:00"
-    },
-    {
-      "title_en": "Optimal Operating-Point Selection for Single-Linearization Trajectory Planning of Nonlinear Robot Manipulators",
-      "title_zh": "非线性机器人机械手的单线性化轨迹规划最优操作点选择",
-      "summary_zh": "arXiv:2611.18935v1 公告类型：新摘要：单点线性化为非线性机器人机械手的基于优化的轨迹规划提供了计算效率高的基础。然而，规划性能取决于所选的线性化点。本文提出了一种离线性能驱动的方法，将单点线性化的位置视为优化变量。从……采样候选工作点",
-      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
-      "url": "https://arxiv.org/abs/2611.18935",
-      "source": "arXiv Robotics",
-      "source_type": "research",
-      "category": "AI 具身智能",
-      "published_at": "2026-11-18T13:00:00+08:00"
-    },
-    {
-      "title_en": "SuperGlance: Driving at a Glance with a Vision-Language Model",
-      "title_zh": "SuperGlance：借助视觉-语言模型，一目了然地了解驾驶情况",
-      "summary_zh": "arXiv:2611.19138v1 公告类型：新摘要：自动驾驶正在转向视觉-语言-行动模型（VLA）。它们通过解码来回答和规划，一次一步。每一步都是另一次前向传播，因此一个计划可能需要超过一秒的GPU时间。具身人工智能通常将这样一个缓慢的推理系统2与一个快速的行动系统1配对。人类驾驶员使用系统1，一眼就能制定计划。更快的架构通常将系统1置于视觉-语言模型之外。",
-      "why_it_matters": "关注它对开发效率、代码质量、测试能力和软件开发流程的实际影响。",
-      "url": "https://arxiv.org/abs/2611.19138",
-      "source": "arXiv Robotics",
-      "source_type": "research",
-      "category": "AI Coding",
-      "published_at": "2026-11-18T13:00:00+08:00"
-    },
-    {
-      "title_en": "VLN-Flash: Parallel Action Decoding with Adaptive Execution for Vision-and-Language Navigation",
-      "title_zh": "VLN-Flash：具有自适应执行的视觉-语言导航并行动作解码",
-      "summary_zh": "arXiv:2611.19287v1 公告类型：新摘要：当视觉-语言导航策略以自回归方式生成动作序列时，机器人会等待一系列相互依赖的预测。一个小型离散动作词汇表使得能够并行地对所有短视域计划进行评分。我们推出了VLN-Flash，这是一种无需训练的解码器，能够在单次前向传播中评估完整的动作前缀树。分支特异性注意力与匹配",
-      "why_it_matters": "关注它对开发效率、代码质量、测试能力和软件开发流程的实际影响。",
-      "url": "https://arxiv.org/abs/2611.19287",
-      "source": "arXiv Robotics",
-      "source_type": "research",
-      "category": "AI Coding",
-      "published_at": "2026-11-18T13:00:00+08:00"
-    },
-    {
-      "title_en": "MARS: Dynamic Routing of Reinforcement-Learned Atomic Skills for Multi-Stage Robotic Manipulation",
-      "title_zh": "MARS：用于多阶段机器人操作的强化学习原子技能动态路由",
-      "summary_zh": "arXiv:2611.19324v1 公告类型：新文 摘要：视觉-语言-动作（VLA）模型已在多任务机器人操作方面展现出强大的能力。然而，在物体抓取、对齐和插入等关键操作阶段，它们在控制精度和执行稳定性方面仍存在局限性。为了将通用操纵能力与针对特定任务的精细控制相结合，同时实现有效的协调，",
+      "title_en": "RageVLA: Augmentation-Trained Perception and Action for State-of-the-Art Robustness on LIBERO",
+      "title_zh": "RageVLA：经过增强训练的感知与行动，在 LIBERO 上实现最先进的鲁棒性",
+      "summary_zh": "arXiv:2611.23517v1 公告类型：新摘要：视觉-语言-动作（VLA）模型在LIBERO上看起来已经饱和，但一旦物体移动或指令要求新事物，大多数模型在LIBERO-PRO上就会失效。我们认为，所欠缺的不是规模，而是解耦。在这些策略中，要采取的行动与训练期间物体所在的位置、周围的场景以及指令的措辞相关联。我们在两个地方切断了这些联系。",
       "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
-      "url": "https://arxiv.org/abs/2611.19324",
+      "url": "https://arxiv.org/abs/2611.23517",
       "source": "arXiv Robotics",
       "source_type": "research",
       "category": "多模态与视频生成",
-      "published_at": "2026-11-18T13:00:00+08:00"
+      "published_at": "2026-11-19T13:00:00+08:00"
     },
     {
-      "title_en": "ResWAM: Learning What Changes, Not What Stays, for World-Action Models",
-      "title_zh": "ResWAM：针对世界-行动模型，学习的是变化而非不变",
-      "summary_zh": "arXiv:2611.19559v1 公告类型：新文 摘要：世界-动作模型（WAM）通过未来预测来增强视觉-语言-动作策略（VLA），使策略能够预测其动作将如何影响物理世界。现有的WAM对完整的未来观测进行监督。然而，在一个动作片段中，观测结果通常变化不大，因此未来损失主要由复制静态背景内容而非学习与任务相关的内容所主导。",
+      "title_en": "RESCUE Jumper: A Centimeter-Scale Rolling and Jumping Robot for Search and Rescue",
+      "title_zh": "RESCUE Jumper：用于搜救的厘米级滚动和跳跃机器人",
+      "summary_zh": "arXiv:2611.23531v1 公告类型：新文 摘要：厘米级机器人对于城市搜救具有广阔的应用前景，因为它们可以进入人类无法进入或不安全的空间。然而，它们的小尺寸限制了部署后的障碍穿越能力。本文介绍了RESCUE Jumper，这是一款重125 g、宽6.2 cm、轮径6.2 cm的移动机器人，它将地面滚动与跳跃相结合，以越过台阶和间隙。",
+      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
+      "url": "https://arxiv.org/abs/2611.23531",
+      "source": "arXiv Robotics",
+      "source_type": "research",
+      "category": "AI 具身智能",
+      "published_at": "2026-11-19T13:00:00+08:00"
+    },
+    {
+      "title_en": "Learning the Dynamics of Deformable Linear Objects Through Coupled Oscillators for Bimanual Robotic Manipulation",
+      "title_zh": "通过耦合振荡器学习可变形线性物体的动力学，以实现双臂机器人操作",
+      "summary_zh": "arXiv:2611.23563v1 公告类型：新文 摘要：许多基于学习的可变形线性物体（DLO）方法依赖于简化的变形模型，这些模型忽视了物体的动态效应和机械响应，因此其适用性仅限于轻质、柔性物体和慢速运动。受近期使用耦合振荡器网络（CON）学习物理结构动力学的最新进展的启发，我们提出了用于学习的$\\Phi$-CON。",
+      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
+      "url": "https://arxiv.org/abs/2611.23563",
+      "source": "arXiv Robotics",
+      "source_type": "research",
+      "category": "AI 具身智能",
+      "published_at": "2026-11-19T13:00:00+08:00"
+    },
+    {
+      "title_en": "Panini- Feasible Grammar For Robot Designs",
+      "title_zh": "Panini - 适用于机器人设计的可行语法",
+      "summary_zh": "arXiv:2611.23567v1 公告类型：新文 摘要：符号方法使机器人设计具有可解释性，但往往忽视连续几何；学习方法可以处理几何，但结构透明度较低。我们引入了一种类型化生成语法，该语法使用格-角色关系、参数继承和基于特指性的规则仲裁来生成操作技能和机器人形态。几何实现映射将语法c转换为",
+      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
+      "url": "https://arxiv.org/abs/2611.23567",
+      "source": "arXiv Robotics",
+      "source_type": "research",
+      "category": "AI 具身智能",
+      "published_at": "2026-11-19T13:00:00+08:00"
+    },
+    {
+      "title_en": "How Uncertain Is My Action? Self-Correcting Visual Planning with Frozen World Models",
+      "title_zh": "我的行动有多不确定？使用冻结世界模型进行自我校正的视觉规划",
+      "summary_zh": "arXiv:2611.23620v1 公告类型：新摘要：将冻结的潜在世界模型与基于采样的模型预测控制相结合，即可得到一个视觉规划器。在部署时，执行的动作可能会偏离指令的动作，而冻结模型无法察觉到这一点。我们展示了该模型可以反向运行：对于任何假设的执行偏差，它都会预测在该偏差下本应观察到的情况，并将这一预测与实际情况进行比较。",
       "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
-      "url": "https://arxiv.org/abs/2611.19559",
+      "url": "https://arxiv.org/abs/2611.23620",
       "source": "arXiv Robotics",
       "source_type": "research",
       "category": "多模态与视频生成",
-      "published_at": "2026-11-18T13:00:00+08:00"
+      "published_at": "2026-11-19T13:00:00+08:00"
     },
     {
-      "title_en": "Physics-Grounded STL Monitoring from Image Observations",
-      "title_zh": "基于物理学的 STL 监测（通过图像观测）",
-      "summary_zh": "arXiv:2611.19688v1 公告类型：新摘要：机器人操作任务必须满足可以用信号时态逻辑（STL）表达的定时和条件要求。虽然通过摄像头图像来监测这些要求是一种实用方法，但这具有挑战性，因为STL鲁棒性取决于无法直接观察到的物理裕度，例如距离和间隙。与其为每个任务学习一个独立的视觉监测器，",
+      "title_en": "TacPilot: Does Touch Need to Be Everywhere?",
+      "title_zh": "TacPilot：触控是否需要无处不在？",
+      "summary_zh": "arXiv:2611.23804v1 公告类型：新文摘要：触觉反馈有助于视觉操纵策略对局部接触做出反应，但触觉观测值的变化并不总是需要校正运动，持续的校正也不总是需要新的触觉特征。我们推出了TacPilot，这是一个触觉残差框架，它将表征更新与围绕冻结视觉策略的动作干预区分开来。TacPilot 使用感知门",
       "why_it_matters": "关注它对开发效率、代码质量、测试能力和软件开发流程的实际影响。",
-      "url": "https://arxiv.org/abs/2611.19688",
+      "url": "https://arxiv.org/abs/2611.23804",
       "source": "arXiv Robotics",
       "source_type": "research",
       "category": "AI Coding",
-      "published_at": "2026-11-18T13:00:00+08:00"
+      "published_at": "2026-11-19T13:00:00+08:00"
     },
     {
-      "title_en": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
-      "title_zh": "NVIDIA 扩展 Slurm，将量子计算引入超级计算",
-      "summary_zh": "在过去五年中，超算中心部署的量子处理器数量增长了近七倍，目前全球近 30 家超算中心正在部署超过 50 台量子处理器。其中许多中心使用Slurm来运行科学超算工作负载，因此，扩展其对量子处理器的支持是在熟悉的工作流程基础上进行的…… […]",
+      "title_en": "Emo-H2A: Driving a Facial Robot Directly from LLM Hidden States at Token Rate",
+      "title_zh": "Emo-H2A：以令牌速率直接从LLM隐藏状态驱动面部机器人",
+      "summary_zh": "arXiv:2611.23932v1 公告类型：新文摘要：多样化、语义同步且低延迟的面部表情对于人机交互至关重要。虽然大型语言模型（LLM）赋予了拟人机器人流利的言语能力，但面部表情仍难以跟上对话的节奏。受这一差距的启发，我们提出了Emo-H2A（hidden-to-actuation），这是一种直接从LLM隐藏状态驱动面部机器人的范式。",
+      "why_it_matters": "关注它对开发效率、代码质量、测试能力和软件开发流程的实际影响。",
+      "url": "https://arxiv.org/abs/2611.23932",
+      "source": "arXiv Robotics",
+      "source_type": "research",
+      "category": "AI Coding",
+      "published_at": "2026-11-19T13:00:00+08:00"
+    },
+    {
+      "title_en": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+      "title_zh": "Show HN：将“旅行者1号”拆解成单个内存芯片",
+      "summary_zh": "今天，旅行者1号距离地球一个光日。在网站上，您可以： - 查看两艘“旅行者”号目前的位置 - 打开核电池，看到里面的24个钚球 - 进入数据计算机，直至单个内存芯片 - 查看“金色唱片”的封面上是如何说明播放方法的 - 观看“旅行者1号”是如何通过无线电修复的 - 查看地球上哪面天线正在实时接收它们的信号我还制作了一部4分钟的影片： https://www.youtube.com/watch?v=kpzsR",
       "why_it_matters": "关注本地运行能力，以及延迟、隐私、能耗和硬件成本之间的取舍。",
-      "url": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
-      "source": "NVIDIA Blog",
+      "url": "https://rshekhar.com/voyager/",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "端侧 AI 与硬件",
+      "published_at": "2026-11-19T00:18:51+08:00"
+    },
+    {
+      "title_en": "Advancing chip design with OpenAI models",
+      "title_zh": "利用 OpenAI 模型推进芯片设计",
+      "summary_zh": "OpenAI 模型优化了 Jalapeño 芯片中使用的电路，并改进了 RISC‑V 核心设计，展示了 GPT‑6 Astra 在 AI 辅助芯片设计方面的进展。",
+      "why_it_matters": "关注本地运行能力，以及延迟、隐私、能耗和硬件成本之间的取舍。",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "source": "OpenAI",
       "source_type": "official",
       "category": "端侧 AI 与硬件",
-      "published_at": "2026-11-17T00:00:47+08:00"
+      "published_at": "2026-11-18T08:00:00+08:00"
     }
   ],
   "source_count": 12,
