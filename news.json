@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-21T15:24:16.622052+08:00",
-  "daily_summary_zh": "今日共采集 21 条近 10 天资讯。赛道分布：AI Agent 5 条；端侧 AI 与硬件 5 条；行业与研究 5 条；AI Coding 4 条；AI 具身智能 2 条。优先浏览：ClawDOS – 用于 DOS 的 AI 编程代理；Backblaze 收集时通知和隐私政策；Clojure将影响您对编程的看法（2017年）。本总结依据新闻标题、来源和分类自动整理，不代表对新闻事实或技术效果的独立验证；重要结论请查看原文。",
+  "updated_at": "2026-11-22T15:04:12.116800+08:00",
+  "daily_summary_zh": "今日共采集 20 条近 10 天资讯。赛道分布：AI Agent 5 条；端侧 AI 与硬件 5 条；行业与研究 5 条；AI 具身智能 3 条；AI Coding 2 条。优先浏览：Show HN：黎曼猜想证明手册；丰田、日产和本田将实现零部件标准化以降低成本；Together.ai：请求的提示泄露。本总结依据新闻标题、来源和分类自动整理，不代表对新闻事实或技术效果的独立验证；重要结论请查看原文。",
   "takeaways_zh": [
     "今日采集较多的方向：AI Agent（5 条）。",
     "今日采集较多的方向：端侧 AI 与硬件（5 条）。",
@@ -8,103 +8,103 @@
   ],
   "news": [
     {
-      "title_en": "ClawDOS – An AI coding agent for DOS",
-      "title_zh": "ClawDOS – 用于 DOS 的 AI 编程代理",
-      "summary_zh": "文章网址：http://ricapar.net/ClawDOS/评论网址：https://news.ycombinator.com/item?id=50586292积分：16 # 评论数：2",
+      "title_en": "Show HN: The Riemann Proof Handbook",
+      "title_zh": "Show HN：黎曼猜想证明手册",
+      "summary_zh": "文章网址：https://github.com/tamnd/riemann-handbook评论网址：https://news.ycombinator.com/item?id=50596664积分：5 # 评论：0",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://github.com/tamnd/riemann-handbook",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "行业与研究",
+      "published_at": "2026-11-22T13:46:30+08:00"
+    },
+    {
+      "title_en": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "title_zh": "丰田、日产和本田将实现零部件标准化以降低成本",
+      "summary_zh": "文章网址：https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ 评论网址：https://news.ycombinator.com/item?id=50596133 点赞数：262 # 评论数：121",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "行业与研究",
+      "published_at": "2026-11-22T12:04:56+08:00"
+    },
+    {
+      "title_en": "Together.ai: Prompt Leakage for Requests",
+      "title_zh": "Together.ai：请求的提示泄露",
+      "summary_zh": "文章网址：https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026 评论网址：https://news.ycombinator.com/item?id=50595816 点赞数：19 # 评论数：7",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "行业与研究",
+      "published_at": "2026-11-22T11:07:27+08:00"
+    },
+    {
+      "title_en": "The Most Popular Car Colors in America",
+      "title_zh": "美国最受欢迎的汽车颜色",
+      "summary_zh": "文章网址： https://www.iseecars.com/most-popular-car-colors-study 评论网址： https://news.ycombinator.com/item?id=50595725 点赞数：21 评论数：33",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://www.iseecars.com/most-popular-car-colors-study",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "行业与研究",
+      "published_at": "2026-11-22T10:47:18+08:00"
+    },
+    {
+      "title_en": "Data Processing Incidents on Inference Providers",
+      "title_zh": "推理提供商的数据处理事件",
+      "summary_zh": "文章网址：https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/评论网址：https://news.ycombinator.com/item?id=50595554积分：97 # 评论数：34",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "行业与研究",
+      "published_at": "2026-11-22T10:14:14+08:00"
+    },
+    {
+      "title_en": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+      "title_zh": "Tasklet（YC P26）正在招聘产品和代理基础设施工程师",
+      "summary_zh": "文章网址：https://tasklet.ai/careers评论网址：https://news.ycombinator.com/item?id=50593679积分：0 #评论：0",
       "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "http://ricapar.net/ClawDOS/",
+      "url": "https://tasklet.ai/careers",
       "source": "Hacker News",
       "source_type": "community",
       "category": "AI Agent",
-      "published_at": "2026-11-21T13:38:01+08:00"
+      "published_at": "2026-11-22T05:11:08+08:00"
     },
     {
-      "title_en": "Backblaze Notice at Collection and Privacy Policy",
-      "title_zh": "Backblaze 收集时通知和隐私政策",
-      "summary_zh": "文章网址：https://www.backblaze.com/company/policy/privacy评论网址：https://news.ycombinator.com/item?id=50585593积分：156 # 评论数：47",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://www.backblaze.com/company/policy/privacy",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "行业与研究",
-      "published_at": "2026-11-21T11:23:16+08:00"
-    },
-    {
-      "title_en": "Clojure will affect the way you think about programming (2017)",
-      "title_zh": "Clojure将影响您对编程的看法（2017年）",
-      "summary_zh": "文章网址：https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/ 评论网址：https://news.ycombinator.com/item?id=50585376 点赞数：49 # 评论数：14",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "行业与研究",
-      "published_at": "2026-11-21T10:40:39+08:00"
-    },
-    {
-      "title_en": "Serious cyberattack thought backed by wealthy operators",
-      "title_zh": "据认为，这次严重的网络攻击背后有富有的幕后操纵者支持",
-      "summary_zh": "文章网址：https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411 评论网址：https://news.ycombinator.com/item?id=50583856 得分：67 # 评论数：35",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "行业与研究",
-      "published_at": "2026-11-21T07:29:30+08:00"
-    },
-    {
-      "title_en": "Sir Brian May adds new dimension to Hera asteroid",
-      "title_zh": "布莱恩·梅爵士为赫拉小行星增添了新的维度",
-      "summary_zh": "文章网址：https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid 评论网址：https://news.ycombinator.com/item?id=50583768 点赞数：84 # 评论数：18",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "行业与研究",
-      "published_at": "2026-11-21T07:19:44+08:00"
-    },
-    {
-      "title_en": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-      "title_zh": "提问HN：我已经失业2年了。有15年工作经验，在美国。该怎么办？",
-      "summary_zh": "我是一名在美国（华盛顿特区-马里兰州-弗吉尼亚州地区）的高级软件工程师，拥有15年经验。曾在《财富》50强公司和多家中型公司工作过。我已经失业2年了，一直找不到工作。在这2年里，我差不多花光了多年来攒下的积蓄，可能只剩下4-5个月的钱来维持我的家庭。目前，我是一名数学家教，可能即将开始在披萨店担任经理。2025年1月，我从一家中型保险公司辞职。",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://news.ycombinator.com/item?id=50583761",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "行业与研究",
-      "published_at": "2026-11-21T07:18:32+08:00"
-    },
-    {
-      "title_en": "Show HN: OpenComputer – an open source alternative to Devin",
-      "title_zh": "Show HN：OpenComputer – Devin 的开源替代方案",
-      "summary_zh": "HN大家好！我是Utpal，OpenComputer的创始人之一。OpenComputer是一款面向团队的开源云端编码代理，可在您自己的云账户（AWS、GCP、Azure）中运行。我们在同一台持久性虚拟机上运行代理框架和沙盒（架构见文档[1]）。第一次提交在24秒内完成；我们进行基准测试的替代方案需要53-72秒（基准测试见下文[2]）。另外两种选择： - 每个团队一台虚拟机，可横向扩展。会话是隔离的。",
+      "title_en": "Pandex – Official European Law for AI Agents, over MCP",
+      "title_zh": "Pandex – 针对 AI 代理的官方欧洲法律，通过 MCP",
+      "summary_zh": "文章网址：https://www.pandex.io 评论网址：https://news.ycombinator.com/item?id=50593481 得分：63 # 评论数：11",
       "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://github.com/diggerhq/opencomputer",
+      "url": "https://www.pandex.io",
       "source": "Hacker News",
       "source_type": "community",
       "category": "AI Agent",
-      "published_at": "2026-11-21T04:19:56+08:00"
+      "published_at": "2026-11-22T04:47:41+08:00"
     },
     {
-      "title_en": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-      "title_zh": "DreamCoder：来自《精通Emacs》作者的编码工具和IDE",
-      "summary_zh": "文章网址：https://www.masteringemacs.org/article/announcing-dreamcoder评论网址：https://news.ycombinator.com/item?id=50581110积分：182 # 评论数：47",
-      "why_it_matters": "关注它对开发效率、代码质量、测试能力和软件开发流程的实际影响。",
-      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "AI Coding",
-      "published_at": "2026-11-21T04:03:59+08:00"
+      "title_en": "The UN fails to agree on rules regulating ‘killer robots’",
+      "title_zh": "联合国未能就“杀人机器人”的监管规则达成一致",
+      "summary_zh": "本周在日内瓦举行的联合国外交官会议的议程之一是制定有关使用自主武器（或所谓的“杀手机器人”）的规则。经过一周基本无果的谈判，与会代表们最终在散会时同意“开始讨论各种方案”。据NPR报道：在谈判开始之前， […]",
+      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "source": "The Verge AI",
+      "source_type": "media",
+      "category": "AI 具身智能",
+      "published_at": "2026-11-22T04:03:37+08:00"
     },
     {
-      "title_en": "Vibecoding an inference chip",
-      "title_zh": "对推理芯片进行 Vibecoding",
-      "summary_zh": "文章网址：https://ankitg.me/blog/vibecoding-inference-chip/评论网址：https://news.ycombinator.com/item?id=50579297积分：137 #评论：54",
-      "why_it_matters": "关注它对开发效率、代码质量、测试能力和软件开发流程的实际影响。",
-      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "AI Coding",
-      "published_at": "2026-11-21T02:15:16+08:00"
+      "title_en": "Here are the top AI agents that can live in your text messages",
+      "title_zh": "以下是可以在您的短信中使用的顶级 AI 代理",
+      "summary_zh": "我们列出了一份最值得关注的AI代理清单，这些代理可以存在于您的短信中，包括通用助手以及专为家庭、旅行和工作设计的代理。",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
+      "category": "AI Agent",
+      "published_at": "2026-11-22T01:00:00+08:00"
     },
     {
       "title_en": "The most misunderstood graph in AI just got a major update",
@@ -149,17 +149,6 @@
       "source_type": "media",
       "category": "端侧 AI 与硬件",
       "published_at": "2026-11-20T22:20:13+08:00"
-    },
-    {
-      "title_en": "Apple may be developing its own AI agent that runs your Mac",
-      "title_zh": "苹果可能正在开发自己的AI代理来运行您的Mac",
-      "summary_zh": "iPhone 制造商似乎正在打造能够与 Meta Muse、Instinct、Claude 和 OpenAI Dots 等产品竞争的智能体。",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "source": "TechCrunch AI",
-      "source_type": "media",
-      "category": "AI Agent",
-      "published_at": "2026-11-20T08:56:01+08:00"
     },
     {
       "title_en": "Meta’s new Muse Charm device may cost $300",
