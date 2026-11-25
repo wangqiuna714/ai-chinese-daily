@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-24T18:04:14.173029+08:00",
-  "daily_summary_zh": "今日共采集 19 条近 10 天资讯。赛道分布：AI Agent 5 条；行业与研究 5 条；端侧 AI 与硬件 4 条；AI Coding 3 条；AI 具身智能 2 条。优先浏览：2035 来得早；AMD EPYC Zen 6 与 Zen 1 性能：不到 10 年的时间平均提升 12.1 倍；废品回收场无人机地图。本总结依据新闻标题、来源和分类自动整理，不代表对新闻事实或技术效果的独立验证；重要结论请查看原文。",
+  "updated_at": "2026-11-25T16:50:09.603150+08:00",
+  "daily_summary_zh": "今日共采集 17 条近 10 天资讯。赛道分布：AI Agent 5 条；行业与研究 5 条；端侧 AI 与硬件 4 条；AI Coding 2 条；AI 具身智能 1 条。优先浏览：Show HN：老款Nvidia和ATI技术演示，在浏览器中再次运行；以每个3美元的价格接管美国财政部子域名；Gemini拒绝给我《Twinkle Twinkle Little Star》的歌词。。本总结依据新闻标题、来源和分类自动整理，不代表对新闻事实或技术效果的独立验证；重要结论请查看原文。",
   "takeaways_zh": [
     "今日采集较多的方向：AI Agent（5 条）。",
     "今日采集较多的方向：行业与研究（5 条）。",
@@ -8,92 +8,125 @@
   ],
   "news": [
     {
-      "title_en": "2035 Came Early",
-      "title_zh": "2035 来得早",
-      "summary_zh": "文章网址：https://fzakaria.com/2026/11/23/2035-came-early 评论网址：https://news.ycombinator.com/item?id=50624497 积分：184 # 评论：31",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "行业与研究",
-      "published_at": "2026-11-24T14:30:33+08:00"
-    },
-    {
-      "title_en": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
-      "title_zh": "AMD EPYC Zen 6 与 Zen 1 性能：不到 10 年的时间平均提升 12.1 倍",
-      "summary_zh": "文章网址：https://www.phoronix.com/review/amd-epyc-9006-7601 评论网址：https://news.ycombinator.com/item?id=50624061 积分：77 # 评论：29",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "行业与研究",
-      "published_at": "2026-11-24T13:15:22+08:00"
-    },
-    {
-      "title_en": "Drone Maps of Salvage Yards",
-      "title_zh": "废品回收场无人机地图",
-      "summary_zh": "文章网址：https://salvageyarddrone.wordpress.com/ 评论网址：https://news.ycombinator.com/item?id=50623515 积分：80 # 评论：31",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://salvageyarddrone.wordpress.com/",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "行业与研究",
-      "published_at": "2026-11-24T12:00:28+08:00"
-    },
-    {
-      "title_en": "Making a dumb TV just smart enough",
-      "title_zh": "让一台愚蠢的电视足够聪明",
-      "summary_zh": "文章网址：https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/ 评论网址：https://news.ycombinator.com/item?id=50622934 积分：74 # 评论：25",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "行业与研究",
-      "published_at": "2026-11-24T10:46:54+08:00"
-    },
-    {
-      "title_en": "Rune: Rust VM for Emacs",
-      "title_zh": "Rune：Emacs 的 Rust 虚拟机",
-      "summary_zh": "文章网址：https://github.com/CeleritasCelery/rune 评论网址：https://news.ycombinator.com/item?id=50622804 积分：40 # 评论：11",
-      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://github.com/CeleritasCelery/rune",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "行业与研究",
-      "published_at": "2026-11-24T10:30:47+08:00"
-    },
-    {
-      "title_en": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "title_zh": "Anthropic 推出 Claude Ship，让 AI 代理审查、修复和批准代码更改",
-      "summary_zh": "随着人工智能生成的代码不断堆积，Anthropic 的新开发工具旨在通过让代理处理例行审批来消除另一个瓶颈。",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "source": "TechCrunch AI",
-      "source_type": "media",
-      "category": "AI Agent",
-      "published_at": "2026-11-24T06:05:50+08:00"
-    },
-    {
-      "title_en": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "title_zh": "Supertake 融资 2000 万美元，让人工智能代理将你的市场预测转化为股票投资组合",
-      "summary_zh": "您认为您知道市场走向吗？一家名为 Supertake 的初创公司可让您将资金投入到您的想法中，而无需亲自挑选股票。",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-      "source": "TechCrunch AI",
-      "source_type": "media",
-      "category": "AI Agent",
-      "published_at": "2026-11-24T06:02:05+08:00"
-    },
-    {
-      "title_en": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
-      "title_zh": "Nothing's 即将推出的 Ear Note 是一对具有 AI 转录功能的耳塞",
-      "summary_zh": "Nothing 的新人工智能设备是 Ear Note，这是一组耳塞和配备麦克风的充电盒，可以记录和转录对话，并带有一个连接的应用程序来管理录音、转录和人工智能生成的摘要，类似于苹果的新手表功能和亚马逊的 Bee 可穿戴设备等设备。 Nothing 首席执行官 Carl Pei 展示了新设备 [...]",
+      "title_en": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "title_zh": "Show HN：老款Nvidia和ATI技术演示，在浏览器中再次运行",
+      "summary_zh": "文章网址：https://gpu-demo-gallery.pages.dev/ 评论网址：https://news.ycombinator.com/item?id=50638503 点赞数：86 评论数：19",
       "why_it_matters": "关注本地运行能力，以及延迟、隐私、能耗和硬件成本之间的取舍。",
-      "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
-      "source": "The Verge AI",
-      "source_type": "media",
+      "url": "https://gpu-demo-gallery.pages.dev/",
+      "source": "Hacker News",
+      "source_type": "community",
       "category": "端侧 AI 与硬件",
-      "published_at": "2026-11-24T03:04:52+08:00"
+      "published_at": "2026-11-25T12:31:48+08:00"
+    },
+    {
+      "title_en": "Taking over US Treasury subdomains for $3 each",
+      "title_zh": "以每个3美元的价格接管美国财政部子域名",
+      "summary_zh": "文章网址：https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each评论网址：https://news.ycombinator.com/item?id=50638478积分：65 # 评论数：10",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "行业与研究",
+      "published_at": "2026-11-25T12:27:55+08:00"
+    },
+    {
+      "title_en": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+      "title_zh": "Gemini拒绝给我《Twinkle Twinkle Little Star》的歌词。",
+      "summary_zh": "文章网址：https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F 评论网址：https://news.ycombinator.com/item?id=50638320 点赞数：162 评论数：104",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "行业与研究",
+      "published_at": "2026-11-25T12:03:33+08:00"
+    },
+    {
+      "title_en": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "title_zh": "边注搜索、货币、C++、Rust、人工智能、杂项",
+      "summary_zh": "文章网址：https://www.marginalia.nu/log/a_141_marginalia_update/评论网址：https://news.ycombinator.com/item?id=50638220积分：92 #评论：35",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "行业与研究",
+      "published_at": "2026-11-25T11:47:42+08:00"
+    },
+    {
+      "title_en": "A faster algorithm for extracting hexadecimal digits of π",
+      "title_zh": "用于提取π的十六进制数字的更快算法",
+      "summary_zh": "文章网址： https://www.stylewarning.com/posts/faster-digit-extraction/ 评论网址： https://news.ycombinator.com/item?id=50638075 得分：33 # 评论数：0",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://www.stylewarning.com/posts/faster-digit-extraction/",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "行业与研究",
+      "published_at": "2026-11-25T11:28:42+08:00"
+    },
+    {
+      "title_en": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+      "title_zh": "通过 AWS Lambda 提供 Qwen 服务，既好玩又亏损 80 倍",
+      "summary_zh": "文章网址：https://noahbuilt.it/writing/qwen-on-5600-lambdas评论网址：https://news.ycombinator.com/item?id=50638070积分：60 #评论：10",
+      "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
+      "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "行业与研究",
+      "published_at": "2026-11-25T11:28:06+08:00"
+    },
+    {
+      "title_en": "Even the best AI agents struggle with everyday life",
+      "title_zh": "即使是最好的 AI 代理也难以应对日常生活",
+      "summary_zh": "随着数以百万计的人开始使用个人人工智能助手，一项新的基准测试表明，即使是最先进的人工智能模型，在不引入潜在新问题的情况下，也很难可靠、安全地完成日常任务。",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
+      "category": "AI Agent",
+      "published_at": "2026-11-25T05:33:29+08:00"
+    },
+    {
+      "title_en": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "title_zh": "沃尔玛与Meta合作，将黑色星期五优惠带到AI代理Muse",
+      "summary_zh": "沃尔玛现在允许顾客通过 Meta 的 AI 代理 Muse 选购黑色星期五特惠商品。",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
+      "category": "AI Agent",
+      "published_at": "2026-11-25T05:32:38+08:00"
+    },
+    {
+      "title_en": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+      "title_zh": "HN发布：Versine（YC F26）——用于收发款项的MCP",
+      "summary_zh": "大家好，HN！我们是Harshith、Param和Vishnu，我们正在打造Versine（ https://versine.com ）。通过Versine，您只需与AI对话或发短信，即可转账和收款（类似于带有MCP的Venmo）。我们是软件工程师，曾在Stripe、Databricks和亚马逊从事分布式系统相关工作。Versine是一款MCP，位于有余额的钱包前端。有了它，您的代理可以执行以下操作： - 在您批准后向某人汇款（v",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://news.ycombinator.com/item?id=50634426",
+      "source": "Hacker News",
+      "source_type": "community",
+      "category": "AI Agent",
+      "published_at": "2026-11-25T04:44:15+08:00"
+    },
+    {
+      "title_en": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "title_zh": "Meta 将其 Muse AI 助手直接引入 Instagram 私信",
+      "summary_zh": "通过新的集成功能，用户在希望与 AI 代理互动时，无需在 Instagram 和 Muse 应用之间来回切换。",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "source": "TechCrunch AI",
+      "source_type": "media",
+      "category": "AI Agent",
+      "published_at": "2026-11-25T01:00:00+08:00"
+    },
+    {
+      "title_en": "How iFood scales coding agents across 15,000 repositories",
+      "title_zh": "iFood如何跨15,000个代码仓库扩展编码代理",
+      "summary_zh": "该来源未提供摘要；请点击“阅读原文”查看详情。",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "source": "OpenAI",
+      "source_type": "official",
+      "category": "AI Agent",
+      "published_at": "2026-11-24T08:00:00+08:00"
     },
     {
       "title_en": "RoboTrack: Point tracking for real-world robotic manipulation",
@@ -107,50 +140,6 @@
       "published_at": "2026-11-24T01:20:37+08:00"
     },
     {
-      "title_en": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
-      "title_zh": "NariQ：10 GB 文件中的 BF16 级别 Qwen3.8-27B",
-      "summary_zh": "我们构建了 NariQ：Qwen3.8-27B 的 3 位或更低量化，在代理任务、数学、多语言推理和图像理解方面保持接近 BF16 的质量。据我们所知，这是第一个在长范围代理任务上保留 BF16 lvl 性能的 3 位或更低量化。基准（BF16 / 3 位 / 2.5 位 / 2 位）： - DeepSWE：39.8 / 41.0 / 41.9 / 28.6 - 终端基准 2.1：62.6 / 63.8 / 60.2 / 52.4 - AIME 25+26：97.7 / 98.3 / 96.5 / 86.0 - MSGM：94.0 / 93.1 / 91.8 / 90.6 - RealWorldQA：82.4 / 82.4 / 81.3 / 80.9 解码速度与 RTX PRO 6000 上的其他量化相当。上下文长度结果如下（3 位/2.5 位）",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "AI Agent",
-      "published_at": "2026-11-23T21:42:38+08:00"
-    },
-    {
-      "title_en": "GLM-5.4: Toward generalized coding with our first loop transformer",
-      "title_zh": "GLM-5.4：使用我们的第一个循环变压器进行广义编码",
-      "summary_zh": "文章网址：https://z.ai/blog/glm-5.4 评论网址：https://news.ycombinator.com/item?id=50609685 积分：1122 # 评论数：366",
-      "why_it_matters": "关注它对开发效率、代码质量、测试能力和软件开发流程的实际影响。",
-      "url": "https://z.ai/blog/glm-5.4",
-      "source": "Hacker News",
-      "source_type": "community",
-      "category": "AI Coding",
-      "published_at": "2026-11-23T18:06:43+08:00"
-    },
-    {
-      "title_en": "Richpanel helps companies automate 50% of support in 30 days",
-      "title_zh": "Richpanel 帮助公司在 30 天内自动化实现 50% 的支持",
-      "summary_zh": "Richpanel 使用 GPT-6 Astra 和 GPT-6.1 Sol 为其 AI 支持代理配备工具和程序，并使用 GPT-6 Luna 进行对话。",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-      "source": "OpenAI",
-      "source_type": "official",
-      "category": "AI Agent",
-      "published_at": "2026-11-23T16:00:00+08:00"
-    },
-    {
-      "title_en": "How to build and maintain an agentic evaluation",
-      "title_zh": "如何建立和维护代理评估",
-      "summary_zh": "该来源未提供摘要；请点击“阅读原文”查看详情。",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://huggingface.co/blog/agentic-evals",
-      "source": "Hugging Face",
-      "source_type": "official",
-      "category": "AI Agent",
-      "published_at": "2026-11-23T08:00:00+08:00"
-    },
-    {
       "title_en": "The most misunderstood graph in AI just got a major update",
       "title_zh": "人工智能中最容易被误解的图表刚刚进行了重大更新",
       "summary_zh": "人工智能评估非营利组织 METR 的一份新报告发现，一些人工智能能力正在沿着指数轨迹持续改进，但它也表明模型在需要判断的任务方面不如在编码方面那么擅长。该报告是对该组织时间范围图的更新，该图被广泛……",
@@ -160,17 +149,6 @@
       "source_type": "media",
       "category": "AI Coding",
       "published_at": "2026-11-21T02:15:15+08:00"
-    },
-    {
-      "title_en": "The AI Hype Index: AI is everywhere",
-      "title_zh": "人工智能炒作指数：人工智能无处不在",
-      "summary_zh": "就像令人讨厌的皮疹一样，人工智能似乎到处蔓延。谷歌将人工智能概览塞给你，尽管这让公司损失了数十亿美元的广告收入。离开你的公寓，你可能会看到两个人正在把人工智能驱动的人形机器人推上楼梯去清洁某人的房间。去超市，然后……",
-      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
-      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-      "source": "MIT Technology Review",
-      "source_type": "media",
-      "category": "AI 具身智能",
-      "published_at": "2026-11-18T22:42:44+08:00"
     },
     {
       "title_en": "Advancing chip design with OpenAI models",
