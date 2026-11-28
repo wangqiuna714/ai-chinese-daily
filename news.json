@@ -1,187 +1,88 @@
 {
-  "updated_at": "2026-11-27T16:47:41.445782+08:00",
-  "daily_summary_zh": "今日共采集 19 条近 10 天资讯。赛道分布：AI Agent 5 条；行业与研究 5 条；多模态与视频生成 4 条；端侧 AI 与硬件 3 条；AI Coding 1 条。优先浏览：Ladybird浏览器的首个可下载alpha版本功能出人意料地强大；您的AI在背后议论您的群聊；无购物日 – 2026年11月27日（星期五）。本总结依据新闻标题、来源和分类自动整理，不代表对新闻事实或技术效果的独立验证；重要结论请查看原文。",
+  "updated_at": "2026-11-28T16:01:54.485030+08:00",
+  "daily_summary_zh": "今日共采集 14 条近 10 天资讯。赛道分布：AI Agent 5 条；行业与研究 5 条；AI Coding 2 条；端侧 AI 与硬件 2 条。优先浏览：Unkernel：真正的 Linux 内核，编译为 WebAssembly；雅达利自制软件奖取消；Google 的 DeepCrossAttention 实现可比模型质量的速度提高了 3 倍。本总结依据新闻标题、来源和分类自动整理，不代表对新闻事实或技术效果的独立验证；重要结论请查看原文。",
   "takeaways_zh": [
     "今日采集较多的方向：AI Agent（5 条）。",
     "今日采集较多的方向：行业与研究（5 条）。",
-    "今日采集较多的方向：多模态与视频生成（4 条）。"
+    "今日采集较多的方向：AI Coding（2 条）。"
   ],
   "news": [
     {
-      "title_en": "Ladybird browser's first downloadable alpha is surprisingly capable",
-      "title_zh": "Ladybird浏览器的首个可下载alpha版本功能出人意料地强大",
-      "summary_zh": "文章网址：https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/评论网址：https://news.ycombinator.com/item?id=50663666积分：39 # 评论数：23",
+      "title_en": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "title_zh": "Unkernel：真正的 Linux 内核，编译为 WebAssembly",
+      "summary_zh": "文章网址：https://unkernel.dev 评论网址：https://news.ycombinator.com/item?id=50674218 积分：191 # 评论：29",
       "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+      "url": "https://unkernel.dev",
       "source": "Hacker News",
       "source_type": "community",
       "category": "行业与研究",
-      "published_at": "2026-11-27T14:53:52+08:00"
+      "published_at": "2026-11-28T11:19:20+08:00"
     },
     {
-      "title_en": "The group chat where your AI talks behind your back",
-      "title_zh": "您的AI在背后议论您的群聊",
-      "summary_zh": "文章网址： https://construct22.com/ 评论网址： https://news.ycombinator.com/item?id=50663595 得分：129 评论数：41",
+      "title_en": "Atari Homebrew Awards Cancelled",
+      "title_zh": "雅达利自制软件奖取消",
+      "summary_zh": "文章网址：https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/ 评论网址：https://news.ycombinator.com/item?id=50673688 积分：178 # 评论：177",
       "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://construct22.com/",
+      "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
       "source": "Hacker News",
       "source_type": "community",
       "category": "行业与研究",
-      "published_at": "2026-11-27T14:44:34+08:00"
+      "published_at": "2026-11-28T10:03:25+08:00"
     },
     {
-      "title_en": "Buy Nothing Day – Friday November 27th 2026",
-      "title_zh": "无购物日 – 2026年11月27日（星期五）",
-      "summary_zh": "文章网址： https://www.buynothingday.co.uk/ 评论网址： https://news.ycombinator.com/item?id=50663261 点赞数：44 # 评论数：7",
+      "title_en": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "title_zh": "Google 的 DeepCrossAttention 实现可比模型质量的速度提高了 3 倍",
+      "summary_zh": "文章网址：https://research.google/blog/supercharging-transformer-residual-connections/ 评论网址：https://news.ycombinator.com/item?id=50672565 积分：325 # 评论：134",
       "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://www.buynothingday.co.uk/",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
       "source": "Hacker News",
       "source_type": "community",
       "category": "行业与研究",
-      "published_at": "2026-11-27T13:52:42+08:00"
+      "published_at": "2026-11-28T07:06:29+08:00"
     },
     {
-      "title_en": "The need for a formally verifiable mainstream programming language",
-      "title_zh": "对正式可验证的主流编程语言的需求",
-      "summary_zh": "文章网址：https://blainehansen.me/post/mainstream-verifiable-language/评论网址：https://news.ycombinator.com/item?id=50663089积分：123 # 评论数：90",
+      "title_en": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+      "title_zh": "Tabernetes：一个 Kubernetes 集群，其节点是浏览器选项卡",
+      "summary_zh": "文章网址：https://tabernet.es/ 评论网址：https://news.ycombinator.com/item?id=50672521 积分：99 # 评论：33",
       "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "url": "https://tabernet.es/",
       "source": "Hacker News",
       "source_type": "community",
       "category": "行业与研究",
-      "published_at": "2026-11-27T13:22:06+08:00"
+      "published_at": "2026-11-28T07:00:30+08:00"
     },
     {
-      "title_en": "Context Scaling: A New Frontier of AI Scaling",
-      "title_zh": "上下文扩展：人工智能扩展的新前沿",
-      "summary_zh": "arXiv:2611.33160v1 公告类型：新摘要：已部署的AI的许多故障并非源于推理能力薄弱，而是源于任务所依赖的状态与系统采取行动时所具备的上下文之间存在不匹配。相关用户状态、代码库修订、工具跟踪、传感器读数或环境变化可能不可用、失真或选择不当。我们将为减少这一瓶颈而做出的努力称为“上下文扩展”。我们将模型建模为 $P_\\theta(",
+      "title_en": "9/UX: a Macintosh-inspired desktop for 9front",
+      "title_zh": "9/UX：受 Macintosh 启发的 9front 桌面",
+      "summary_zh": "文章网址：https://progrium.github.io/9ux/ 评论网址：https://news.ycombinator.com/item?id=50672008 积分：116 # 评论：27",
       "why_it_matters": "关注结论是否有官方公告、原始论文或可复现技术材料支持。",
-      "url": "https://arxiv.org/abs/2611.33160",
-      "source": "arXiv AI",
-      "source_type": "research",
+      "url": "https://progrium.github.io/9ux/",
+      "source": "Hacker News",
+      "source_type": "community",
       "category": "行业与研究",
-      "published_at": "2026-11-27T13:00:00+08:00"
+      "published_at": "2026-11-28T05:48:14+08:00"
     },
     {
-      "title_en": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
-      "title_zh": "针对 LLM 和 VLM 候选模型选择的约束感知测试时评分",
-      "summary_zh": "arXiv:2611.33161v1 公告类型：新摘要：当LLM或VLM生成多个候选答案时，选择最佳答案通常依赖于模型自身的置信度、经过训练的评判模型或领域检查。每种方法都有已知的弱点：答案可能流畅但不确定，在数学上合理但在物理上不可行，或者被评判模型评为高分，却悄然违反了任务要求。我们提出了一种评分框架，该框架结合了……",
-      "why_it_matters": "关注系统在真实物理环境中的感知、规划和动作能力，而不只看演示视频。",
-      "url": "https://arxiv.org/abs/2611.33161",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "AI 具身智能",
-      "published_at": "2026-11-27T13:00:00+08:00"
-    },
-    {
-      "title_en": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
-      "title_zh": "AutoformBench：用于高级数学的精益形式化基准",
-      "summary_zh": "arXiv:2611.33165v1 公告类型：新摘要：人工智能系统越来越能够为高级数学结果生成经机器检查的Lean证明。然而，真正的数学形式化并非孤立的定理证明：它需要构建将结果与形式化库联系起来的定义和中间引理。在现有评估中，通常会在大部分支持性理论已存在的情况下提供孤立的定理陈述。",
+      "title_en": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+      "title_zh": "SessionGraph：在一张交互式图表中可视化所有编码代理会话",
+      "summary_zh": "文章网址：https://sessiongraph.ai/ 评论网址：https://news.ycombinator.com/item?id=50671651 积分：47 # 评论：23",
       "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://arxiv.org/abs/2611.33165",
-      "source": "arXiv AI",
-      "source_type": "research",
+      "url": "https://sessiongraph.ai/",
+      "source": "Hacker News",
+      "source_type": "community",
       "category": "AI Agent",
-      "published_at": "2026-11-27T13:00:00+08:00"
+      "published_at": "2026-11-28T05:07:34+08:00"
     },
     {
-      "title_en": "Confidence scores for gated automation of large language models",
-      "title_zh": "大型语言模型门控自动化的置信度得分",
-      "summary_zh": "arXiv:2611.33394v1 公告类型：新摘要：基于大型语言模型（LLM）构建的AI代理在自动化决策方面表现出强大的能力。然而，LLM 可能会以高置信度给出不正确的答案，这限制了它们在影响个人和组织的决策中的适用性。要控制此类决策，必须有可靠的置信度评分，而现有的估计值往往无法提供，或者过于粗略，无法支持……",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://arxiv.org/abs/2611.33394",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "AI Agent",
-      "published_at": "2026-11-27T13:00:00+08:00"
-    },
-    {
-      "title_en": "Partial Routing: Trace-Tuned Delegation for Resource-Efficient Agentic Workflows",
-      "title_zh": "部分路由：针对资源高效型智能体工作流的跟踪调优委派",
-      "summary_zh": "arXiv:2611.33402v1 公告类型：新摘要：人工智能模型在能力和价格方面存在巨大差异。模型路由利用这一点，将更简单的任务分配给更便宜的模型。然而，单个智能体任务通常结合了简单和困难的子任务，因此为整个任务选择一个模型效率低下。我们引入了部分路由，它引导一个前沿主导模型将合适的子任务委派给一个更便宜的辅助模型。根据两个模型的过往运行情况",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://arxiv.org/abs/2611.33402",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "AI Agent",
-      "published_at": "2026-11-27T13:00:00+08:00"
-    },
-    {
-      "title_en": "Dynamic Reasoning in Next-Gen Detection and Response: An Empirical Study of LLM Triage, Reinforcement Tuning, and Adversarial Evasion",
-      "title_zh": "下一代检测与响应中的动态推理：对大语言模型分流、强化调优和对抗性规避的实证研究",
-      "summary_zh": "arXiv:2611.33470v1 公告类型：新文章摘要：我们对下一代检测与响应管道中的动态推理进行了端到端的实证研究，评估了静态分类器、基于图的信号融合以及大语言模型（LLM）分流代理在严格的人工分析师注意力预算（B 个警报/天的召回率）下的表现。在 56 项可重复的实验中，我们使用了多层企业和云模拟器以及四个公开数据集。",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://arxiv.org/abs/2611.33470",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "AI Agent",
-      "published_at": "2026-11-27T13:00:00+08:00"
-    },
-    {
-      "title_en": "Learning to Reason in Real-Time",
-      "title_zh": "学习实时推理",
-      "summary_zh": "arXiv:2611.33513v1 公告类型：新摘要：在现实世界中运行的AI代理必须正确且及时地进行推理，但它们目前并未考虑时间应如何改变其推理。现代智能体学会了在完全同步的环境中执行任务：在这种环境中，世界会等待智能体采取行动后再发生变化。相比之下，实时环境的变化与智能体无关。现有方法试图弥合这一",
-      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
-      "url": "https://arxiv.org/abs/2611.33513",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "AI Agent",
-      "published_at": "2026-11-27T13:00:00+08:00"
-    },
-    {
-      "title_en": "Aligned Machine: A Benchmark for Evaluating Multimodal Embedding Similarity via Human Comparative Judgements",
-      "title_zh": "Aligned Machine：通过人类比较判断评估多模态嵌入相似性的基准",
-      "summary_zh": "arXiv:2611.33594v1 公告类型：新摘要：嵌入模型正日益影响人们搜索、推荐和检索信息的方式，但我们缺乏可靠的方法来测试这些相似性判断是否反映了人类对意义的理解。现有基准通常依赖于静态的、由专家标注的成对数据，并采用粗略的李克特式标注，这限制了可扩展性，并使获得一致且置信度高的标注变得困难。",
-      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
-      "url": "https://arxiv.org/abs/2611.33594",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "多模态与视频生成",
-      "published_at": "2026-11-27T13:00:00+08:00"
-    },
-    {
-      "title_en": "Learning from Natural Images Untangles Number Sense",
-      "title_zh": "从自然图像中学习，理清数感",
-      "summary_zh": "arXiv:2611.33615v1 公告类型：新文 摘要：数字认知是一种简单而又基本的能力，对于现代视觉-语言模型来说仍然具有挑战性。与此同时，在对数字一无所知的动物身上已经存在数感，这表明数感可以在没有明确的数字学习的情况下出现。深度神经网络提供了一个相关观察结果，即在对不相关的自然图像任务进行训练后，出现了对数量敏感的单元。",
-      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
-      "url": "https://arxiv.org/abs/2611.33615",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "多模态与视频生成",
-      "published_at": "2026-11-27T13:00:00+08:00"
-    },
-    {
-      "title_en": "Faster and Better Query (FBQ): Learning Future-Position Probes from the First Generated Token",
-      "title_zh": "更快、更好的查询（FBQ）：从第一个生成的代币中学习未来位置探测",
-      "summary_zh": "arXiv:2611.33679v1 公告类型：新摘要：当大型语言模型（LLM）在预填充结束时剔除提示键和值时，它必须在看到后续解码步骤的查询之前决定保留哪些内容。生成草稿续写可以近似于这些查询，但需要额外进行自回归步骤。我们是否可以使用第一个输出标记的嵌入（已从最终预填充logits中获得）来构建低成本的",
+      "title_en": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "title_zh": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具",
+      "summary_zh": "文章网址：https://github.com/skeeto/prospero 评论网址：https://news.ycombinator.com/item?id=50671275 积分：56 # 评论：21",
       "why_it_matters": "关注它对开发效率、代码质量、测试能力和软件开发流程的实际影响。",
-      "url": "https://arxiv.org/abs/2611.33679",
-      "source": "arXiv AI",
-      "source_type": "research",
+      "url": "https://github.com/skeeto/prospero",
+      "source": "Hacker News",
+      "source_type": "community",
       "category": "AI Coding",
-      "published_at": "2026-11-27T13:00:00+08:00"
-    },
-    {
-      "title_en": "WhatIf: Counterfactual World Models over Action-Grounded Causal Graphs for Robotic Manipulation",
-      "title_zh": "WhatIf：基于行动的因果图上的反事实世界模型，用于机器人操作",
-      "summary_zh": "arXiv:2611.33745v1 公告类型：新摘要：世界模型可以预测在某项行动下会发生什么，但要在不同行动之间做出选择，就需要比较它们在同一物理情境下的结果。仅凭事实性转变就能确定基于行动的边际未来和平均效应，但无法确定个体效应或改变行动造成损害的概率。我们介绍了WhatIf，这是一个用于操纵的反事实世界模型，它将候选……",
-      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
-      "url": "https://arxiv.org/abs/2611.33745",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "多模态与视频生成",
-      "published_at": "2026-11-27T13:00:00+08:00"
-    },
-    {
-      "title_en": "Improving Building Energy Efficiency with an Indoor Environmental World Model and Counterfactual Adaptive Learning",
-      "title_zh": "利用室内环境世界模型和反事实自适应学习提高建筑能效",
-      "summary_zh": "arXiv:2611.33764v1 公告类型：新文 摘要：优化室内气候系统对于实现联合国可持续发展目标11和13至关重要。然而，室内热力学响应的延迟和部分可观测性严重阻碍了现有的强化学习（RL）方法，这些方法主要受隐性热惯性、占用动态预测以及长期预测中的累积预测误差的限制。",
-      "why_it_matters": "关注图像、视频和声音处理能力，以及生成质量、可控性与应用成本。",
-      "url": "https://arxiv.org/abs/2611.33764",
-      "source": "arXiv AI",
-      "source_type": "research",
-      "category": "多模态与视频生成",
-      "published_at": "2026-11-27T13:00:00+08:00"
+      "published_at": "2026-11-28T04:23:14+08:00"
     },
     {
       "title_en": "Nvidia hits pause on chip shipments to Southeast Asia",
@@ -195,6 +96,39 @@
       "published_at": "2026-11-27T04:03:54+08:00"
     },
     {
+      "title_en": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "title_zh": "群体、群体、帮派：如何构建、训练和评估多智能体系统",
+      "summary_zh": "该来源未提供摘要；请点击“阅读原文”查看详情。",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "source": "Hugging Face",
+      "source_type": "official",
+      "category": "AI Agent",
+      "published_at": "2026-11-26T08:00:00+08:00"
+    },
+    {
+      "title_en": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "title_zh": "Android 的 DIY 小部件带有一点氛围编码的乐趣",
+      "summary_zh": "除了处理我的日历之外，我还想让人工智能做一件事：告诉我我是否会错过公共汽车。我需要的是一个小部件。它需要告诉我我家附近公交车站的实时到达时间。在我的手机屏幕上点击打开正确的应用程序，然后 [...]",
+      "why_it_matters": "关注它对开发效率、代码质量、测试能力和软件开发流程的实际影响。",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "source": "The Verge AI",
+      "source_type": "media",
+      "category": "AI Coding",
+      "published_at": "2026-11-26T05:43:14+08:00"
+    },
+    {
+      "title_en": "Where scientists draw the line on AI agents",
+      "title_zh": "科学家为人工智能代理划定界限",
+      "summary_zh": "该来源未提供摘要；请点击“阅读原文”查看详情。",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source": "Hugging Face",
+      "source_type": "official",
+      "category": "AI Agent",
+      "published_at": "2026-11-26T02:52:55+08:00"
+    },
+    {
       "title_en": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
       "title_zh": "FCC批准SpaceX的计划，拟将多达100万颗数据中心卫星送入太空",
       "summary_zh": "美国联邦通信委员会（FCC）周三发布公告称，已授权SpaceX部署多达100万颗配备人工智能（AI）芯片的卫星，此举是埃隆·马斯克（Elon Musk）旗下公司“Starmind”计划的一部分。包括谷歌和蓝色起源在内的多家公司也在推进将人工智能数据中心部署到太空的设想，这是该机构首次批准[…]",
@@ -206,15 +140,26 @@
       "published_at": "2026-11-26T01:44:57+08:00"
     },
     {
-      "title_en": "Advancing chip design with OpenAI models",
-      "title_zh": "利用 OpenAI 模型推进芯片设计",
-      "summary_zh": "OpenAI 模型优化了 Jalapeño 芯片中使用的电路，并改进了 RISC‑V 核心设计，展示了 GPT‑6 Astra 在 AI 辅助芯片设计方面的进展。",
-      "why_it_matters": "关注本地运行能力，以及延迟、隐私、能耗和硬件成本之间的取舍。",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "source": "OpenAI",
+      "title_en": "How to choose the next safe step in application modernization",
+      "title_zh": "如何选择应用程序现代化的下一个安全步骤",
+      "summary_zh": "了解如何评估遗留应用程序、选择有界现代化步骤，并通过 GitHub Copilot 代理技能重用该方法。如何选择应用程序现代化的下一个安全步骤一文首先出现在 GitHub 博客上。",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+      "source": "GitHub Blog",
       "source_type": "official",
-      "category": "端侧 AI 与硬件",
-      "published_at": "2026-11-18T08:00:00+08:00"
+      "category": "AI Agent",
+      "published_at": "2026-11-25T23:00:00+08:00"
+    },
+    {
+      "title_en": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "title_zh": "据报道，亚马逊正在商谈终止 Muse AI 购物街区",
+      "summary_zh": "据《财富》杂志报道，亚马逊已就让 Meta 的 Muse AI 代理在其在线市场上购物进行了谈判。据报道，讨论可能会结束亚马逊对 Muse 的封锁，讨论的重点是人工智能代理推荐的产品类型以及对这家电子商务巨头广告收入的潜在影响。据《财富》杂志报道，[…]",
+      "why_it_matters": "关注它能否可靠调用工具并完成多步骤任务，以及是否有真实应用证据。",
+      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "source": "The Verge AI",
+      "source_type": "media",
+      "category": "AI Agent",
+      "published_at": "2026-11-25T22:12:33+08:00"
     }
   ],
   "source_count": 12,
